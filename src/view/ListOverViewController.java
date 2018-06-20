@@ -18,10 +18,7 @@ public class ListOverViewController {
 	}
 	
 	public void setMainApp(MainApp mainApp) {
-		System.out.println(this);
 		this.mainApp = mainApp;
-		if(this.mainApp!=null)
-			System.out.println("this.mainApp est init");
 	}
 	@FXML
 	private void handleProgressBar() {

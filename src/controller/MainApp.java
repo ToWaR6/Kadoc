@@ -5,7 +5,8 @@ import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.scene.control.ProgressBar;
-import javafx.scene.layout.FlowPane;
+import javafx.scene.image.Image;
+import javafx.scene.layout.BorderPane;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 import view.ListOverViewController;
@@ -13,7 +14,7 @@ import view.ListOverViewController;
 public class MainApp extends Application {
 
     private Stage primaryStage;
-    private FlowPane rootLayout;
+    private BorderPane rootLayout;
     private Scene scene;
     
     public MainApp() {
@@ -34,9 +35,10 @@ public class MainApp extends Application {
             // Load root layout from fxml file.
             FXMLLoader loader = new FXMLLoader();
             loader.setLocation(MainApp.class.getResource("/view/ListOverView.fxml"));
-            rootLayout = (FlowPane) loader.load();
+            rootLayout = (BorderPane) loader.load();
             scene = new Scene(rootLayout);
             primaryStage.setScene(scene);
+            primaryStage.getIcons().add(new Image(MainApp.class.getResourceAsStream("/view/resources/images/icon.png")));
             primaryStage.show();
             ListOverViewController listOverViewController = loader.getController();
             listOverViewController.setMainApp(this);
