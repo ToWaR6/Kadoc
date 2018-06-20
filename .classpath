@@ -6,7 +6,8 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="lib/cookxml-3.0.2.jar"/>
 	<classpathentry kind="lib" path="lib/material-ui-swing.jar"/>
+	<classpathentry kind="lib" path="lib/cookxml-3.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/cookswing-1.5.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

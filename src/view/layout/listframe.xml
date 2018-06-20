@@ -1,0 +1,5 @@
+<frame title="Hello World!" size="640,480" defaultcloseoperation="EXIT_ON_CLOSE">
+	<panel>
+		<button id="the_button" text="PRESS ME" size="200, 200"/>
+	</panel>
+</frame>
