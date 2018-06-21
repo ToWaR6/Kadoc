@@ -27,6 +27,9 @@ public class Question extends Post {
 		this.tags = tags.replaceAll("&lt;","").split("&gt;");
 		
 	}
+	public Question() {
+		super();
+	}
 
 	//GETTER & SETTER
 	public String getTitle() {

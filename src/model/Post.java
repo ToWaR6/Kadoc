@@ -34,7 +34,8 @@ public abstract class Post {
 		this.owner = owner;
 		this.lastEditor = lastEditor;
 	}
-
+	
+	public Post() {}
 	//GETTER & SETTER
 	public int getId() {
 		return id;
