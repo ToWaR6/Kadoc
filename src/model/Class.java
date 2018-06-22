@@ -26,6 +26,7 @@ public class Class {
 		this.questions = new SimpleObjectProperty<>(new ArrayList<Question>());
 		this.sizeQuestions = new SimpleIntegerProperty(0);
 	}
+	public Class() {}
 	
 	public void addQuestion(Question question) {
 		questions.get().add(question);
@@ -39,7 +40,7 @@ public class Class {
 		return sizeQuestions.get();
 	}
 	
-	public boolean containsKeyword(String keyword) {
+	public boolean contains(String keyword) {
 		return keywords.get().contains(keyword);
 	}
 	public StringProperty getNameProperty() {

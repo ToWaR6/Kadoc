@@ -1,7 +1,10 @@
 package controller;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.concurrent.CountDownLatch;
+
 import javafx.application.Application;
+import javafx.application.Platform;
 import javafx.beans.property.DoubleProperty;
 import javafx.beans.property.SimpleDoubleProperty;
 import javafx.collections.FXCollections;
@@ -10,7 +13,9 @@ import javafx.concurrent.Task;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
+import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
+import javafx.stage.Modality;
 import javafx.stage.Stage;
 import model.Class;
 import model.Question;
@@ -43,7 +48,9 @@ public class MainApp extends Application {
                 return null;
             }
         };
-        new Thread(classifyTask).start();
+        Thread classifyThread = new Thread(classifyTask);
+        classifyThread.setDaemon(true);
+        classifyThread.start();
     }
     
     /**
@@ -73,7 +80,7 @@ public class MainApp extends Application {
     	//keywordsClasses'll simulate the applications of classes
     	ArrayList<Class> classes = new ArrayList<Class>();
     	ArrayList<String> keywords1 = new ArrayList<String>();
-    	keywords1.add("truc");keywords1.add("machin");
+    	keywords1.add("truc");keywords1.add("toto");
     	Class class1 = new Class("A",keywords1);
     	ArrayList<String> keywords2 = new ArrayList<String>();
     	keywords2.add("pouet");keywords2.add("toto");
@@ -81,14 +88,14 @@ public class MainApp extends Application {
     	
     	classes.add(class1);classes.add(class2);
     	
-    	ArrayList<String> questions = new ArrayList<>();
-		questions.add("truc");
-        questions.add("machin");questions.add("machin");
-        questions.add("pouet");
-        questions.add("toto");
-        questions.add("machin");questions.add("machin");
-        questions.add("something");
-    	int iteration = 0; //iteration can be the id currently test
+		ArrayList<String> questions = new ArrayList<>();
+		questions.add("toto");
+	    questions.add("machin");questions.add("machin");
+	    questions.add("pouet");
+	    questions.add("toto");
+	    questions.add("toto");questions.add("machin");
+	    questions.add("something");
+		int iteration = 0; //iteration can be the id currently test
     	int total = questions.size(); //Total can be the max id 
     	//Loop'll simulate the application looping on the questions
     	for(String s : questions) {
@@ -100,11 +107,21 @@ public class MainApp extends Application {
 			}
     		Class winner = null;
     		for(Class c : classes) {
-    			if (c.containsKeyword(s)) {
+    			if (c.contains(s)) {
     				if(winner == null)
     					winner = c;
-    				else
-    					System.out.println("Dialog");
+    				else {//How to display the choose Dialog
+    					CountDownLatch finishCountDown = new CountDownLatch(1);//Semaphore
+    					Platform.runLater(
+    						new ChooseDialog(this,new Class(),new Question())
+    							.withCountDownLatch(finishCountDown)
+    					);
+    					try {
+							finishCountDown.await();
+						} catch (InterruptedException e) {
+							e.printStackTrace();
+						}
+    	            }
     			}
     		}
     		if(winner != null) {
@@ -117,9 +134,11 @@ public class MainApp extends Application {
 	    		    	classData.set(index, winner);
 	    		    }
 	    		}
+    		}else {
+    			System.out.println("Create new class");
     		}
     		iteration++;
-    		progress.set((double)iteration/total);
+    		progress.set((double)iteration/total);//How to set the progress
     	}    	
     }
     
