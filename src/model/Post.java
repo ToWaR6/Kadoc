@@ -8,9 +8,9 @@ public abstract class Post {
 	private Date creationDate;
 	private Date deletionDate;
 	private int score;
-	private String text;
+	private String body;
 	private Date lastEditDate;
-	private Date closeDate;
+	private Date closedDate;
 	private Date communityOwnedDate;
 	
 	private HashMap<Integer,Comment> mapComment;
@@ -19,16 +19,16 @@ public abstract class Post {
 	
 	
 	//CONSTRUCTOR
-	public Post(int id, Date creationDate, Date deletionDate, int score, String text, Date lastEditDate, Date closeDate,
+	public Post(int id, Date creationDate, Date deletionDate, int score, String body, Date lastEditDate, Date closedDate,
 			Date communityOwnedDate, User owner, User lastEditor) {
 		super();
 		this.id = id;
 		this.creationDate = creationDate;
 		this.deletionDate = deletionDate;
 		this.score = score;
-		this.text = text;
+		this.body = body;
 		this.lastEditDate = lastEditDate;
-		this.closeDate = closeDate;
+		this.closedDate = closedDate;
 		this.communityOwnedDate = communityOwnedDate;
 		this.mapComment = new HashMap<Integer,Comment>();
 		this.owner = owner;
@@ -69,12 +69,12 @@ public abstract class Post {
 		this.score = score;
 	}
 
-	public String getText() {
-		return text;
+	public String getBody() {
+		return body;
 	}
 
-	public void setText(String text) {
-		this.text = text;
+	public void setBody(String body) {
+		this.body = body;
 	}
 
 	public Date getLastEditDate() {
@@ -85,12 +85,12 @@ public abstract class Post {
 		this.lastEditDate = lastEditDate;
 	}
 
-	public Date getCloseDate() {
-		return closeDate;
+	public Date getClosedDate() {
+		return closedDate;
 	}
 
-	public void setCloseDate(Date closeDate) {
-		this.closeDate = closeDate;
+	public void setClosedDate(Date closedDate) {
+		this.closedDate = closedDate;
 	}
 
 	public Date getCommunityOwnedDate() {

@@ -9,15 +9,17 @@ public class Badge {
 	private Date date;
 	private int classBadge;
 	private boolean tagBased;
+	private int userId;
 	
 	//CONSTRUCTOR
-	public Badge(int id, String name, Date date, int classBadge, boolean tagBased) {
+	public Badge(int id, String name, Date date, int classBadge, boolean tagBased, int userId) {
 		super();
 		this.id = id;
 		this.name = name;
 		this.date = date;
 		this.classBadge = classBadge;
 		this.tagBased = tagBased;
+		this.userId = userId;
 	}
 
 	//GETTER & SETTER
@@ -59,6 +61,14 @@ public class Badge {
 
 	public void setTagBased(boolean tagBased) {
 		this.tagBased = tagBased;
+	}
+	
+	public int getUserId() {
+		return userId;
+	}
+
+	public void setUserId(int userId) {
+		this.userId = userId;
 	}
 	
 	

@@ -1,4 +1,5 @@
 package model;
+
 import java.util.Date;
 import java.util.HashMap;
 
@@ -13,19 +14,16 @@ public class Question extends Post {
 	private Answer selectedAnswer;
 	
 	//CONSTRUCTOR
-	public Question(int id, Date creationDate, Date deletionDate, int score, String text, Date lastEditDate,
-			Date closeDate, Date communityOwnedDate, User owner, User lastEditor, String title, int favoriteCount,
-			int viewCount, String tags, Answer selectedAnswer) {
-		super(id, creationDate, deletionDate, score, text, lastEditDate, closeDate, communityOwnedDate, owner,
+	public Question(int id, Date creationDate, Date deletionDate, int score, String body, Date lastEditDate,
+			Date closedDate, Date communityOwnedDate, User owner, User lastEditor, String title, int favoriteCount,
+			int viewCount, String[] tags) {
+		super(id, creationDate, deletionDate, score, body, lastEditDate, closedDate, communityOwnedDate, owner,
 				lastEditor);
 		this.title = title;
 		this.favoriteCount = favoriteCount;
 		this.viewCount = viewCount;
-		this.mapAnswer = new HashMap<Integer,Answer>();
-		this.selectedAnswer = selectedAnswer;
-		
-		this.tags = tags.replaceAll("&lt;","").split("&gt;");
-		
+		this.tags = tags;
+		this.mapAnswer = new HashMap<Integer, Answer>();
 	}
 	public Question() {
 		super();
@@ -82,7 +80,11 @@ public class Question extends Post {
 	
 	//FUNCTION
 	public void addAnswer (Answer a) {
-		this.mapAnswer.put(a.getId(), a);
+		try {
+			this.mapAnswer.put(a.getId(), a);
+		} catch (NullPointerException e) {
+			System.err.println("Post "+a.getId()+" | "+ a.toString());
+		}
 	}
 	
 	public int getAnswerCount() {
