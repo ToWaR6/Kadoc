@@ -13,9 +13,7 @@ import javafx.concurrent.Task;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
-import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
-import javafx.stage.Modality;
 import javafx.stage.Stage;
 import model.Class;
 import model.Question;
@@ -60,7 +58,7 @@ public class MainApp extends Application {
         try {
             // Load root layout from fxml file.
             FXMLLoader loader = new FXMLLoader();
-            loader.setLocation(MainApp.class.getResource("/view/ListOverView.fxml"));
+            loader.setLocation(MainApp.class.getResource("/view/ListOverview.fxml"));
             rootLayout = (BorderPane) loader.load();
             scene = new Scene(rootLayout);
             primaryStage.setScene(scene);
