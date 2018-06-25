@@ -5,7 +5,12 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-
+/**
+ * This class allows you to execute Query on your DB
+ * Need My Sql Connector
+ * @author Crauser
+ *
+ */
 public class QuestionFactory {
 
 	private Statement statement;
@@ -13,10 +18,11 @@ public class QuestionFactory {
 	public QuestionFactory() {
 		super();
 		try {
-			Connection conn = DriverManager.getConnection("jdbc:mysql://localhost/db_stack?user=root&password=azertyuiop&useSSL=false&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC");
+			Connection conn = DriverManager.getConnection("jdbc:mysql://localhost/db_stack?user=root&password=azertyuiop1&useSSL=false&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC");
 			this.statement = conn.createStatement();
 		} catch (SQLException e) {
 			e.printStackTrace();
+			System.err.println("Try install Sql Connector");
 		}
 	}
 	

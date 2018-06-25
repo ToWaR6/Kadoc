@@ -162,7 +162,6 @@ public class MAIN {
 			}
 			
 			questions.put(q.getId(), q);
-			cpt++;
 		}
 		System.out.println(questions.size());
 		
