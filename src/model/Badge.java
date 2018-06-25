@@ -1,8 +1,9 @@
 package model;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class Badge {
+public class Badge implements Serializable {
 
 	private int id;
 	private String name;

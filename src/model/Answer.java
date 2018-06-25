@@ -1,8 +1,9 @@
 package model;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class Answer extends Post {
+public class Answer extends Post implements Serializable {
 	
 	private int parentId;
 

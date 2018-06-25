@@ -1,8 +1,9 @@
 package model;
+import java.io.Serializable;
 import java.util.Date;
 import java.util.HashMap;
 
-public abstract class Post {
+public abstract class Post implements Serializable {
 
 	private int id;
 	private Date creationDate;

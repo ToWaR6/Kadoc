@@ -1,9 +1,10 @@
 package model;
 
+import java.io.Serializable;
 import java.util.Date;
 import java.util.HashMap;
 
-public class Question extends Post {
+public class Question extends Post implements Serializable {
 
 	private String title;
 	private int favoriteCount;

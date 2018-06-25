@@ -1,9 +1,10 @@
 package model;
 
+import java.io.Serializable;
 import java.util.Date;
 import java.util.HashMap;
 
-public class Registered extends User {
+public class Registered extends User implements Serializable {
 
 	private int id;
 	private int reputation;

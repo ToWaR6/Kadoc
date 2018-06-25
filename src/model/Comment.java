@@ -1,8 +1,9 @@
 package model;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class Comment  {
+public class Comment implements Serializable {
 
 	private int id;
 	private int score;

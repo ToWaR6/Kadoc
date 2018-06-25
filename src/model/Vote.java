@@ -1,8 +1,9 @@
 package model;
 
+import java.io.Serializable;
 import java.util.Date;
 
-public class Vote {
+public class Vote implements Serializable {
 
 	private int id;
 	private int voteTypeId;
