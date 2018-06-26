@@ -1,21 +1,20 @@
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
 import java.sql.SQLException;
-import java.util.ArrayList;
-import java.util.HashMap;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.ParserConfigurationException;
+
+import org.w3c.dom.Document;
+import org.w3c.dom.NodeList;
+import org.xml.sax.SAXException;
 
 import factory.QuestionFactory;
-import model.Answer;
-import model.Comment;
-import model.Question;
-import model.User;
+
 
 public class MAIN {
 
-	public static void main(String[] args) throws SQLException, IOException, ClassNotFoundException {
+	public static void main(String[] args) throws SQLException, IOException, ClassNotFoundException, ParserConfigurationException, SAXException {
 		
 		System.out.println("Begin");
 		long startTime = System.nanoTime();		
@@ -57,16 +56,30 @@ public class MAIN {
 		oos.close();
 		*/
 		
-		FileInputStream fis = new FileInputStream("Questions.ser");
-		ObjectInputStream ois = new ObjectInputStream(fis);
-		HashMap<Integer, Question> result = (HashMap<Integer, Question>) ois.readObject();
-		ois.close();
+//		FileInputStream fis = new FileInputStream("Questions.ser");
+//		ObjectInputStream ois = new ObjectInputStream(fis);
+//		HashMap<Integer, Question> result = (HashMap<Integer, Question>) ois.readObject();
+//		ois.close();
+		
+		String[] keywords = new String[1200];
+		
+		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+		DocumentBuilder builder = factory.newDocumentBuilder();
+		Document doc = builder.parse("tf-idf.xml");
+		
+		NodeList nodeList = doc.getElementsByTagName("name_term");
+		int cpt = 0;
+		for (int i=0; i < nodeList.getLength(); i++) {
+			System.out.println(nodeList.item(i).getTextContent());
+			cpt++;
+		}
+		System.out.println("cpt "+cpt);
 		
 		long endTime   = System.nanoTime();
 		long totalTime = endTime - startTime;
 		System.out.println("-------------------------------------------------------");
 		System.err.println("\n\nTermine en "+(float)(totalTime)/1000000000+" secondes");
-		System.out.println(result.size()+" questions sont dans 'questions'");
+//		System.out.println(result.size()+" questions sont dans 'questions'");
 		System.out.println("-------------------------------------------------------");
 		
 		
