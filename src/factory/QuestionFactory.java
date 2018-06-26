@@ -1,5 +1,11 @@
 package factory;
 
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
@@ -78,17 +84,33 @@ public class QuestionFactory {
 	}
 
 	
-	public HashMap<Integer, Question> getAllQuestionsAuto() throws SQLException {
+	public HashMap<Integer, Question> getAllSqlQuestions() {
 		UserFactory userFactory = new UserFactory(remoteFetcher);
-		HashMap<Integer, User> users = userFactory.getAllUsers();
-		
 		CommentFactory commentFactory = new CommentFactory(remoteFetcher);
-		ArrayList<Comment> comments = commentFactory.getAllComments();
-		
 		AnswerFactory answerFactory = new AnswerFactory(remoteFetcher);
-		HashMap<Integer, Answer> answers = answerFactory.getAnswers(users, comments);
-		
-		return this.getAllQuestions(users, comments, answers);
+		try {
+			HashMap<Integer, User> users = userFactory.getAllUsers();
+			ArrayList<Comment> comments = commentFactory.getAllComments();
+			HashMap<Integer, Answer> answers = answerFactory.getAnswers(users, comments);
+			return this.getAllQuestions(users, comments, answers);
+		}catch(SQLException e) {
+			e.printStackTrace();
+			return null;
+		}
+	}
+	
+	public HashMap<Integer, Question> getAllSerializedQuestions(String filepath){
+		FileInputStream fis;
+		HashMap<Integer, Question> result = null;
+		try {
+			fis = new FileInputStream(filepath);
+			ObjectInputStream ois = new ObjectInputStream(fis);
+			result = (HashMap<Integer, Question>) ois.readObject();
+			ois.close();
+		} catch (IOException | ClassNotFoundException e ) {
+			e.printStackTrace();
+		}
+		return result;
 	}
 	
 }
