@@ -5,7 +5,7 @@ import java.util.Date;
 import java.util.HashMap;
 
 public class Question extends Post implements Serializable {
-
+	private static final long serialVersionUID = 2634992202074384418L;
 	private String title;
 	private int favoriteCount;
 	private int viewCount;

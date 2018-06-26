@@ -5,7 +5,7 @@ import java.util.Date;
 import java.util.HashMap;
 
 public class Registered extends User implements Serializable {
-
+	private static final long serialVersionUID = -5873016851774163900L;
 	private int id;
 	private int reputation;
 	private Date creationDate;

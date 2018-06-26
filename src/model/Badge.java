@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 public class Badge implements Serializable {
-
+	private static final long serialVersionUID = 2552917065995494940L;
 	private int id;
 	private String name;
 	private Date date;

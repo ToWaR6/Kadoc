@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.HashMap;
 
 public abstract class Post implements Serializable {
-
+	private static final long serialVersionUID = -7328543313395367660L;
 	private int id;
 	private Date creationDate;
 	private Date deletionDate;
