@@ -9,6 +9,7 @@ import javafx.scene.image.Image;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
+import javafx.stage.StageStyle;
 import model.Class;
 import model.Question;
 /**
@@ -55,14 +56,12 @@ public class ChooseDialog implements Runnable{
 	            Stage dialogStage = new Stage();
 	            dialogStage.setResizable(false);
 	            dialogStage.setTitle("Choose a class");
+	            dialogStage.initOwner(mainApp.getPrimaryStage());
 	            dialogStage.initModality(Modality.APPLICATION_MODAL);
 	            dialogStage.getIcons().add(new Image(MainApp.class.getResourceAsStream("/view/resources/images/icon.png")));
-	            
-	            dialogStage.initOwner(mainApp.getPrimaryStage());
+	            System.out.println(mainApp.getPrimaryStage());
 	            Scene scene = new Scene(page);
-	            
 	            dialogStage.setScene(scene);
-	            
 	            // Show the dialog and wait until the user closes it
 	            dialogStage.showAndWait();
 	            if(countDownLatch != null)
