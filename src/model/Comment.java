@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 public class Comment implements Serializable {
-	private static final long serialVersionUID = 8566660650856578791L;
+	
 	private int id;
 	private int score;
 	private String text;

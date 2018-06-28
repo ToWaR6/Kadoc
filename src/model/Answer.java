@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 public class Answer extends Post implements Serializable {
-	private static final long serialVersionUID = 3667644631240353944L;
+	
 	private int parentId;
 
 	//CONSTRUCTOR

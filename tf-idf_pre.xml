@@ -1,0 +1,5993 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Terms>
+<Term id="1">
+<name_term>code</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>958.9853</score>
+</Term>
+<Term id="2">
+<name_term>list</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>743.4412</score>
+</Term>
+<Term id="3">
+<name_term>collection</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>660.9918</score>
+</Term>
+<Term id="4">
+<name_term>i</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>499.4101</score>
+</Term>
+<Term id="5">
+<name_term>java</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>473.0091</score>
+</Term>
+<Term id="6">
+<name_term>string</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>446.9791</score>
+</Term>
+<Term id="7">
+<name_term>hashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>390.9112</score>
+</Term>
+<Term id="8">
+<name_term>map</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>334.5577</score>
+</Term>
+<Term id="9">
+<name_term>arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>291.0268</score>
+</Term>
+<Term id="10">
+<name_term>object</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>286.6133</score>
+</Term>
+<Term id="11">
+<name_term>method</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>280.4314</score>
+</Term>
+<Term id="12">
+<name_term>class</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>277.3822</score>
+</Term>
+<Term id="13">
+<name_term>sort</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>269.9427</score>
+</Term>
+<Term id="14">
+<name_term>iterator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>254.9953</score>
+</Term>
+<Term id="15">
+<name_term>em</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>252.372</score>
+</Term>
+<Term id="16">
+<name_term>value</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>234.8694</score>
+</Term>
+<Term id="17">
+<name_term>array</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>213.5794</score>
+</Term>
+<Term id="18">
+<name_term>hashset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>211.9054</score>
+</Term>
+<Term id="19">
+<name_term>set</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>210.4854</score>
+</Term>
+<Term id="20">
+<name_term>data</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>209.8786</score>
+</Term>
+<Term id="21">
+<name_term>api</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>206.7012</score>
+</Term>
+<Term id="22">
+<name_term>type</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>206.35</score>
+</Term>
+<Term id="23">
+<name_term>integer</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>199.7074</score>
+</Term>
+<Term id="24">
+<name_term>blockquote</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>198.1994</score>
+</Term>
+<Term id="25">
+<name_term>com</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>197.4941</score>
+</Term>
+<Term id="26">
+<name_term>br</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>196.3287</score>
+</Term>
+<Term id="27">
+<name_term>element</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>181.1941</score>
+</Term>
+<Term id="28">
+<name_term>id</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>180.0345</score>
+</Term>
+<Term id="29">
+<name_term>order</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>179.1026</score>
+</Term>
+<Term id="30">
+<name_term>linkedlist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>174.079</score>
+</Term>
+<Term id="31">
+<name_term>href</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>166.1547</score>
+</Term>
+<Term id="32">
+<name_term>util</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>164.672</score>
+</Term>
+<Term id="33">
+<name_term>treeset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>163.4066</score>
+</Term>
+<Term id="34">
+<name_term>key</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>161.0642</score>
+</Term>
+<Term id="35">
+<name_term>e</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>154.7592</score>
+</Term>
+<Term id="36">
+<name_term>time</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>148.4213</score>
+</Term>
+<Term id="37">
+<name_term>interface</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>145.5488</score>
+</Term>
+<Term id="38">
+<name_term>question</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>144.7702</score>
+</Term>
+<Term id="39">
+<name_term>problem</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>143.7019</score>
+</Term>
+<Term id="40">
+<name_term>example</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>143.552</score>
+</Term>
+<Term id="41">
+<name_term>strings</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>141.7554</score>
+</Term>
+<Term id="42">
+<name_term>name</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>136.733</score>
+</Term>
+<Term id="43">
+<name_term>nofollow</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>132.6171</score>
+</Term>
+<Term id="44">
+<name_term>implementation</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>128.7537</score>
+</Term>
+<Term id="45">
+<name_term>maps</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>124.87</score>
+</Term>
+<Term id="46">
+<name_term>size</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>124.6988</score>
+</Term>
+<Term id="47">
+<name_term>person</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>123.8587</score>
+</Term>
+<Term id="48">
+<name_term>vector</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>122.5889</score>
+</Term>
+<Term id="49">
+<name_term>t</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>120.7885</score>
+</Term>
+<Term id="50">
+<name_term>http</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>120.6286</score>
+</Term>
+<Term id="51">
+<name_term>number</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>119.9662</score>
+</Term>
+<Term id="52">
+<name_term>error</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>119.2586</score>
+</Term>
+<Term id="53">
+<name_term>file</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>116.0544</score>
+</Term>
+<Term id="54">
+<name_term>comparator</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>112.0461</score>
+</Term>
+<Term id="55">
+<name_term>html</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>110.0227</score>
+</Term>
+<Term id="56">
+<name_term>linkedhashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>109.0002</score>
+</Term>
+<Term id="57">
+<name_term>case</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>108.9232</score>
+</Term>
+<Term id="58">
+<name_term>index</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>106.1694</score>
+</Term>
+<Term id="59">
+<name_term>org</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>105.4011</score>
+</Term>
+<Term id="60">
+<name_term>user</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>105.0591</score>
+</Term>
+<Term id="61">
+<name_term>java collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>103.957</score>
+</Term>
+<Term id="62">
+<name_term>java util</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>99.0874</score>
+</Term>
+<Term id="63">
+<name_term>c</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>97.9232</score>
+</Term>
+<Term id="64">
+<name_term>structure</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>97.4504</score>
+</Term>
+<Term id="65">
+<name_term>loop</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>96.6562</score>
+</Term>
+<Term id="66">
+<name_term>api java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>95.5922</score>
+</Term>
+<Term id="67">
+<name_term>output</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>93.7047</score>
+</Term>
+<Term id="68">
+<name_term>hashcode</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>90.7904</score>
+</Term>
+<Term id="69">
+<name_term>solution</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>90.1876</score>
+</Term>
+<Term id="70">
+<name_term>stack</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>90.1818</score>
+</Term>
+<Term id="71">
+<name_term>b</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>88.3155</score>
+</Term>
+<Term id="72">
+<name_term>queue</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>88.1775</score>
+</Term>
+<Term id="73">
+<name_term>o</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>87.2121</score>
+</Term>
+<Term id="74">
+<name_term>thread</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>87.0989</score>
+</Term>
+<Term id="75">
+<name_term>performance</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>86.551</score>
+</Term>
+<Term id="76">
+<name_term>function</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>86.5464</score>
+</Term>
+<Term id="77">
+<name_term>noreferrer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>86.4453</score>
+</Term>
+<Term id="78">
+<name_term>exception</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>86.2024</score>
+</Term>
+<Term id="79">
+<name_term>program</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>84.7497</score>
+</Term>
+<Term id="80">
+<name_term>guava</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>84.6563</score>
+</Term>
+<Term id="81">
+<name_term>table</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>83.8152</score>
+</Term>
+<Term id="82">
+<name_term>item</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>82.3334</score>
+</Term>
+<Term id="83">
+<name_term>instance</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>81.9478</score>
+</Term>
+<Term id="84">
+<name_term>difference</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>81.7934</score>
+</Term>
+<Term id="85">
+<name_term>stackoverflow</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>80.1988</score>
+</Term>
+<Term id="86">
+<name_term>oracle</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>79.2611</score>
+</Term>
+<Term id="87">
+<name_term>code arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>78.9058</score>
+</Term>
+<Term id="88">
+<name_term>stream</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>78.6859</score>
+</Term>
+<Term id="89">
+<name_term>memory</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>78.532</score>
+</Term>
+<Term id="90">
+<name_term>vs</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>78.3068</score>
+</Term>
+<Term id="91">
+<name_term>foo</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>78.1529</score>
+</Term>
+<Term id="92">
+<name_term>line</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>77.2888</score>
+</Term>
+<Term id="93">
+<name_term>li</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>76.4048</score>
+</Term>
+<Term id="94">
+<name_term>result</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>75.6043</score>
+</Term>
+<Term id="95">
+<name_term>use</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>75.1534</score>
+</Term>
+<Term id="96">
+<name_term>javase</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>74.3124</score>
+</Term>
+<Term id="97">
+<name_term>help</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>74.151</score>
+</Term>
+<Term id="98">
+<name_term>n</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>73.7763</score>
+</Term>
+<Term id="99">
+<name_term>int</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>72.7336</score>
+</Term>
+<Term id="100">
+<name_term>entry</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>71.9571</score>
+</Term>
+<Term id="101">
+<name_term>concurrenthashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>71.7089</score>
+</Term>
+<Term id="102">
+<name_term>map string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>71.2807</score>
+</Term>
+<Term id="103">
+<name_term>google</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>71.1674</score>
+</Term>
+<Term id="104">
+<name_term>reference</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>71.0511</score>
+</Term>
+<Term id="105">
+<name_term>treemap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>70.7487</score>
+</Term>
+<Term id="106">
+<name_term>hash</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>70.412</score>
+</Term>
+<Term id="107">
+<name_term>scala</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>69.8924</score>
+</Term>
+<Term id="108">
+<name_term>car</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>67.7768</score>
+</Term>
+<Term id="109">
+<name_term>return</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>67.7354</score>
+</Term>
+<Term id="110">
+<name_term>code map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>67.6434</score>
+</Term>
+<Term id="111">
+<name_term>linkedhashset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>67.4876</score>
+</Term>
+<Term id="112">
+<name_term>field</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>67.1408</score>
+</Term>
+<Term id="113">
+<name_term>input</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>66.7619</score>
+</Term>
+<Term id="114">
+<name_term>pre</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>66.1593</score>
+</Term>
+<Term id="115">
+<name_term>arraylist code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>66.0285</score>
+</Term>
+<Term id="116">
+<name_term>json</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>66.0143</score>
+</Term>
+<Term id="117">
+<name_term>code method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>65.8109</score>
+</Term>
+<Term id="118">
+<name_term>apache</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>65.7516</score>
+</Term>
+<Term id="119">
+<name_term>library</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>65.5886</score>
+</Term>
+<Term id="120">
+<name_term>a</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>64.1603</score>
+</Term>
+<Term id="121">
+<name_term>database</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>63.0803</score>
+</Term>
+<Term id="122">
+<name_term>issue</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>62.8996</score>
+</Term>
+<Term id="123">
+<name_term>reason</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>61.6945</score>
+</Term>
+<Term id="124">
+<name_term>test</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>61.4277</score>
+</Term>
+<Term id="125">
+<name_term>edit</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>61.2964</score>
+</Term>
+<Term id="126">
+<name_term>answer</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>61.1357</score>
+</Term>
+<Term id="127">
+<name_term>approach</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>61.0116</score>
+</Term>
+<Term id="128">
+<name_term>application</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>60.9998</score>
+</Term>
+<Term id="129">
+<name_term>advance</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>60.5745</score>
+</Term>
+<Term id="130">
+<name_term>jdk</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>60.3385</score>
+</Term>
+<Term id="131">
+<name_term>employee</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>60.2146</score>
+</Term>
+<Term id="132">
+<name_term>idea</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>59.8877</score>
+</Term>
+<Term id="133">
+<name_term>iteration</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>59.0162</score>
+</Term>
+<Term id="134">
+<name_term>list string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>58.6399</score>
+</Term>
+<Term id="135">
+<name_term>framework</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>58.3456</score>
+</Term>
+<Term id="136">
+<name_term>custom</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>58.1878</score>
+</Term>
+<Term id="137">
+<name_term>property</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>56.9847</score>
+</Term>
+<Term id="138">
+<name_term>javadoc</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>56.8668</score>
+</Term>
+<Term id="139">
+<name_term>sorting</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>56.2449</score>
+</Term>
+<Term id="140">
+<name_term>g</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>55.7335</score>
+</Term>
+<Term id="141">
+<name_term>hashtable</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>55.4682</score>
+</Term>
+<Term id="142">
+<name_term>spring</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>55.4641</score>
+</Term>
+<Term id="143">
+<name_term>commons</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>54.6083</score>
+</Term>
+<Term id="144">
+<name_term>student</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>54.5484</score>
+</Term>
+<Term id="145">
+<name_term>data structure</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>54.4667</score>
+</Term>
+<Term id="146">
+<name_term>operation</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>54.146</score>
+</Term>
+<Term id="147">
+<name_term>search</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>54.1401</score>
+</Term>
+<Term id="148">
+<name_term>parameter</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>53.783</score>
+</Term>
+<Term id="149">
+<name_term>constructor</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>53.7548</score>
+</Term>
+<Term id="150">
+<name_term>sortedset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>53.3685</score>
+</Term>
+<Term id="151">
+<name_term>compare</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>52.8889</score>
+</Term>
+<Term id="152">
+<name_term>date</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>52.4318</score>
+</Term>
+<Term id="153">
+<name_term>imgur</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>52.2525</score>
+</Term>
+<Term id="154">
+<name_term>android</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>51.8882</score>
+</Term>
+<Term id="155">
+<name_term>priorityqueue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>51.5936</score>
+</Term>
+<Term id="156">
+<name_term>thing</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>51.3747</score>
+</Term>
+<Term id="157">
+<name_term>point</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>51.2735</score>
+</Term>
+<Term id="158">
+<name_term>shuffle</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>51.2429</score>
+</Term>
+<Term id="159">
+<name_term>hibernate</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>50.7022</score>
+</Term>
+<Term id="160">
+<name_term>copy</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>50.3679</score>
+</Term>
+<Term id="161">
+<name_term>tree</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>50.3224</score>
+</Term>
+<Term id="162">
+<name_term>collections</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>50.1831</score>
+</Term>
+<Term id="163">
+<name_term>nofollow noreferrer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>50.1783</score>
+</Term>
+<Term id="164">
+<name_term>collection code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>50.1481</score>
+</Term>
+<Term id="165">
+<name_term>v</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>50.0083</score>
+</Term>
+<Term id="166">
+<name_term>insertion</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>49.6462</score>
+</Term>
+<Term id="167">
+<name_term>im</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>48.9911</score>
+</Term>
+<Term id="168">
+<name_term>access</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>48.6929</score>
+</Term>
+<Term id="169">
+<name_term>pojo</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>48.6664</score>
+</Term>
+<Term id="170">
+<name_term>app</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>48.2886</score>
+</Term>
+<Term id="171">
+<name_term>position</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>48.163</score>
+</Term>
+<Term id="172">
+<name_term>k</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>47.9155</score>
+</Term>
+<Term id="173">
+<name_term>part</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>47.8978</score>
+</Term>
+<Term id="174">
+<name_term>variable</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>47.6716</score>
+</Term>
+<Term id="175">
+<name_term>end</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>47.6071</score>
+</Term>
+<Term id="176">
+<name_term>node</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>47.5599</score>
+</Term>
+<Term id="177">
+<name_term>my</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>47.4781</score>
+</Term>
+<Term id="178">
+<name_term>pair</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>47.235</score>
+</Term>
+<Term id="179">
+<name_term>concurrentmodificationexception</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>47.2006</score>
+</Term>
+<Term id="180">
+<name_term>max</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>46.884</score>
+</Term>
+<Term id="181">
+<name_term>png</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>46.2055</score>
+</Term>
+<Term id="182">
+<name_term>y</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>46.1698</score>
+</Term>
+<Term id="183">
+<name_term>source</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>46.1391</score>
+</Term>
+<Term id="184">
+<name_term>lot</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>46.132</score>
+</Term>
+<Term id="185">
+<name_term>compareto</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>45.2236</score>
+</Term>
+<Term id="186">
+<name_term>project</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>45.1644</score>
+</Term>
+<Term id="187">
+<name_term>kind</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>45.1538</score>
+</Term>
+<Term id="188">
+<name_term>call</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>45.1303</score>
+</Term>
+<Term id="189">
+<name_term>code java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>45.0862</score>
+</Term>
+<Term id="190">
+<name_term>information</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>45.068</score>
+</Term>
+<Term id="191">
+<name_term>location</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>44.9127</score>
+</Term>
+<Term id="192">
+<name_term>addall</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>44.366</score>
+</Term>
+<Term id="193">
+<name_term>following</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>44.2684</score>
+</Term>
+<Term id="194">
+<name_term>objects</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>43.993</score>
+</Term>
+<Term id="195">
+<name_term>apache commons</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>43.9442</score>
+</Term>
+<Term id="196">
+<name_term>remove</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>43.6372</score>
+</Term>
+<Term id="197">
+<name_term>capacity</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>43.5324</score>
+</Term>
+<Term id="198">
+<name_term>work</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>43.1827</score>
+</Term>
+<Term id="199">
+<name_term>sql</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>43.1015</score>
+</Term>
+<Term id="200">
+<name_term>map code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>41.7045</score>
+</Term>
+<Term id="201">
+<name_term>eg</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>41.5981</score>
+</Term>
+<Term id="202">
+<name_term>note</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>41.3712</score>
+</Term>
+<Term id="203">
+<name_term>behavior</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>40.9432</score>
+</Term>
+<Term id="204">
+<name_term>double</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>40.7041</score>
+</Term>
+<Term id="205">
+<name_term>scenario</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>40.2989</score>
+</Term>
+<Term id="206">
+<name_term>logic</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>40.2291</score>
+</Term>
+<Term id="207">
+<name_term>system</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>40.2201</score>
+</Term>
+<Term id="208">
+<name_term>entity</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>39.7995</score>
+</Term>
+<Term id="209">
+<name_term>query</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>39.7523</score>
+</Term>
+<Term id="210">
+<name_term>algorithm</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>39.5681</score>
+</Term>
+<Term id="211">
+<name_term>view</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>39.477</score>
+</Term>
+<Term id="212">
+<name_term>count</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>39.0453</score>
+</Term>
+<Term id="213">
+<name_term>record</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>38.8305</score>
+</Term>
+<Term id="214">
+<name_term>default</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>38.5727</score>
+</Term>
+<Term id="215">
+<name_term>text</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>38.52</score>
+</Term>
+<Term id="216">
+<name_term>d</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>38.4748</score>
+</Term>
+<Term id="217">
+<name_term>copyonwritearraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>38.4539</score>
+</Term>
+<Term id="218">
+<name_term>src</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>38.4003</score>
+</Term>
+<Term id="219">
+<name_term>jpa</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>38.2146</score>
+</Term>
+<Term id="220">
+<name_term>elements</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>37.9771</score>
+</Term>
+<Term id="221">
+<name_term>word</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>37.8882</score>
+</Term>
+<Term id="222">
+<name_term>null</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>36.9688</score>
+</Term>
+<Term id="223">
+<name_term>product</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>36.777</score>
+</Term>
+<Term id="224">
+<name_term>db</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>36.6601</score>
+</Term>
+<Term id="225">
+<name_term>version</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>36.6479</score>
+</Term>
+<Term id="226">
+<name_term>documentation</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>36.6157</score>
+</Term>
+<Term id="227">
+<name_term>argument</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>36.5818</score>
+</Term>
+<Term id="228">
+<name_term>level</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>36.5622</score>
+</Term>
+<Term id="229">
+<name_term>array list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>36.4531</score>
+</Term>
+<Term id="230">
+<name_term>hashmaps</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>35.9055</score>
+</Term>
+<Term id="231">
+<name_term>h2</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>35.633</score>
+</Term>
+<Term id="232">
+<name_term>values</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>35.5323</score>
+</Term>
+<Term id="233">
+<name_term>statement</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>35.5159</score>
+</Term>
+<Term id="234">
+<name_term>situation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>35.4901</score>
+</Term>
+<Term id="235">
+<name_term>book</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>35.4173</score>
+</Term>
+<Term id="236">
+<name_term>abstractcollection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>35.4027</score>
+</Term>
+<Term id="237">
+<name_term>bit</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>35.3528</score>
+</Term>
+<Term id="238">
+<name_term>code object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>35.2293</score>
+</Term>
+<Term id="239">
+<name_term>dictionary</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>35.122</score>
+</Term>
+<Term id="240">
+<name_term>group</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>34.9485</score>
+</Term>
+<Term id="241">
+<name_term>compiler</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>34.8018</score>
+</Term>
+<Term id="242">
+<name_term>comparison</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>34.7281</score>
+</Term>
+<Term id="243">
+<name_term>x</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>34.4158</score>
+</Term>
+<Term id="244">
+<name_term>design</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>34.3671</score>
+</Term>
+<Term id="245">
+<name_term>graph</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>34.2058</score>
+</Term>
+<Term id="246">
+<name_term>set code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>34.192</score>
+</Term>
+<Term id="247">
+<name_term>duplicate</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>34.1883</score>
+</Term>
+<Term id="248">
+<name_term>bucket</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>34.1782</score>
+</Term>
+<Term id="249">
+<name_term>filter</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>34.159</score>
+</Term>
+<Term id="250">
+<name_term>description</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>33.9434</score>
+</Term>
+<Term id="251">
+<name_term>check</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>33.7986</score>
+</Term>
+<Term id="252">
+<name_term>requirement</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>33.7774</score>
+</Term>
+<Term id="253">
+<name_term>hi</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>33.7551</score>
+</Term>
+<Term id="254">
+<name_term>complexity</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>33.676</score>
+</Term>
+<Term id="255">
+<name_term>code class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>33.6233</score>
+</Term>
+<Term id="256">
+<name_term>task</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>33.614</score>
+</Term>
+<Term id="257">
+<name_term>amount</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>33.532</score>
+</Term>
+<Term id="258">
+<name_term>parent</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>33.4448</score>
+</Term>
+<Term id="259">
+<name_term>functionality</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>33.1373</score>
+</Term>
+<Term id="260">
+<name_term>update</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>33.054</score>
+</Term>
+<Term id="261">
+<name_term>fine</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>32.8389</score>
+</Term>
+<Term id="262">
+<name_term>course</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>32.8156</score>
+</Term>
+<Term id="263">
+<name_term>option</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>32.6856</score>
+</Term>
+<Term id="264">
+<name_term>condition</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>32.5553</score>
+</Term>
+<Term id="265">
+<name_term>attribute</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>32.4912</score>
+</Term>
+<Term id="266">
+<name_term>img</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>32.4629</score>
+</Term>
+<Term id="267">
+<name_term>api java util</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>32.4182</score>
+</Term>
+<Term id="268">
+<name_term>sample</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>32.0461</score>
+</Term>
+<Term id="269">
+<name_term>abc</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>32.031</score>
+</Term>
+<Term id="270">
+<name_term>need</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>31.9813</score>
+</Term>
+<Term id="271">
+<name_term>column</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>31.8481</score>
+</Term>
+<Term id="272">
+<name_term>age</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>31.6622</score>
+</Term>
+<Term id="273">
+<name_term>hr</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>31.6349</score>
+</Term>
+<Term id="274">
+<name_term>cache</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>31.6133</score>
+</Term>
+<Term id="275">
+<name_term>purpose</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>31.488</score>
+</Term>
+<Term id="276">
+<name_term>image</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>31.229</score>
+</Term>
+<Term id="277">
+<name_term>sequence</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>31.2224</score>
+</Term>
+<Term id="278">
+<name_term>contract</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>31.17</score>
+</Term>
+<Term id="279">
+<name_term>practice</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>31.1136</score>
+</Term>
+<Term id="280">
+<name_term>sortedmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>31.1043</score>
+</Term>
+<Term id="281">
+<name_term>alternative</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>30.9869</score>
+</Term>
+<Term id="282">
+<name_term>change</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>30.6277</score>
+</Term>
+<Term id="283">
+<name_term>multimap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>30.4989</score>
+</Term>
+<Term id="284">
+<name_term>row</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>30.4753</score>
+</Term>
+<Term id="285">
+<name_term>foreach</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>30.3533</score>
+</Term>
+<Term id="286">
+<name_term>title</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>30.081</score>
+</Term>
+<Term id="287">
+<name_term>long</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>30.0081</score>
+</Term>
+<Term id="288">
+<name_term>arraylist string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>29.7921</score>
+</Term>
+<Term id="289">
+<name_term>deque</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>29.7562</score>
+</Term>
+<Term id="290">
+<name_term>format</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>29.5989</score>
+</Term>
+<Term id="291">
+<name_term>below</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>29.5953</score>
+</Term>
+<Term id="292">
+<name_term>model</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>29.4373</score>
+</Term>
+<Term id="293">
+<name_term>xml</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>29.4206</score>
+</Term>
+<Term id="294">
+<name_term>toarray</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>29.2235</score>
+</Term>
+<Term id="295">
+<name_term>wrapper</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>29.0216</score>
+</Term>
+<Term id="296">
+<name_term>form</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>28.9209</score>
+</Term>
+<Term id="297">
+<name_term>list integer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>28.8492</score>
+</Term>
+<Term id="298">
+<name_term>game</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>28.8442</score>
+</Term>
+<Term id="299">
+<name_term>bug</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>28.7279</score>
+</Term>
+<Term id="300">
+<name_term>length</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>28.3586</score>
+</Term>
+<Term id="301">
+<name_term>content</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>28.2789</score>
+</Term>
+<Term id="302">
+<name_term>city</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>28.2767</score>
+</Term>
+<Term id="303">
+<name_term>keyset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>28.2655</score>
+</Term>
+<Term id="304">
+<name_term>server</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>28.2655</score>
+</Term>
+<Term id="305">
+<name_term>convert</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>28.2365</score>
+</Term>
+<Term id="306">
+<name_term>wiki</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>28.2258</score>
+</Term>
+<Term id="307">
+<name_term>place</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>28.178</score>
+</Term>
+<Term id="308">
+<name_term>state</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>28.1646</score>
+</Term>
+<Term id="309">
+<name_term>sun</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>27.9175</score>
+</Term>
+<Term id="310">
+<name_term>mapping</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>27.8079</score>
+</Term>
+<Term id="311">
+<name_term>c++</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>27.7922</score>
+</Term>
+<Term id="312">
+<name_term>client</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>27.7869</score>
+</Term>
+<Term id="313">
+<name_term>bean</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>27.7851</score>
+</Term>
+<Term id="314">
+<name_term>pattern</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>27.6248</score>
+</Term>
+<Term id="315">
+<name_term>snippet</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>27.592</score>
+</Term>
+<Term id="316">
+<name_term>hashmap string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>27.3094</score>
+</Term>
+<Term id="317">
+<name_term>jsp</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>27.017</score>
+</Term>
+<Term id="318">
+<name_term>apple</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>26.9735</score>
+</Term>
+<Term id="319">
+<name_term>code code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>26.899</score>
+</Term>
+<Term id="320">
+<name_term>area</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>26.8905</score>
+</Term>
+<Term id="321">
+<name_term>aslist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>26.8174</score>
+</Term>
+<Term id="322">
+<name_term>sublist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>26.8067</score>
+</Term>
+<Term id="323">
+<name_term>ul</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>26.7453</score>
+</Term>
+<Term id="324">
+<name_term>img src</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>26.4886</score>
+</Term>
+<Term id="325">
+<name_term>enum</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>26.4079</score>
+</Term>
+<Term id="326">
+<name_term>code interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>26.1573</score>
+</Term>
+<Term id="327">
+<name_term>character</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>26.1529</score>
+</Term>
+<Term id="328">
+<name_term>m</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>26.0504</score>
+</Term>
+<Term id="329">
+<name_term>declaration</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>25.7521</score>
+</Term>
+<Term id="330">
+<name_term>understanding</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>25.7507</score>
+</Term>
+<Term id="331">
+<name_term>store</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>25.7341</score>
+</Term>
+<Term id="332">
+<name_term>type code</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>25.6674</score>
+</Term>
+<Term id="333">
+<name_term>start</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>25.664</score>
+</Term>
+<Term id="334">
+<name_term>page</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>25.6393</score>
+</Term>
+<Term id="335">
+<name_term>priority</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>25.6336</score>
+</Term>
+<Term id="336">
+<name_term>java list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>25.5609</score>
+</Term>
+<Term id="337">
+<name_term>service</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>25.3285</score>
+</Term>
+<Term id="338">
+<name_term>li code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>25.3265</score>
+</Term>
+<Term id="339">
+<name_term>container</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>25.3174</score>
+</Term>
+<Term id="340">
+<name_term>abstractlist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>25.2876</score>
+</Term>
+<Term id="341">
+<name_term>songs</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>25.1742</score>
+</Term>
+<Term id="342">
+<name_term>eclipse</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>25.126</score>
+</Term>
+<Term id="343">
+<name_term>piece</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>24.8505</score>
+</Term>
+<Term id="344">
+<name_term>sort code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>24.8118</score>
+</Term>
+<Term id="345">
+<name_term>gui</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>24.6951</score>
+</Term>
+<Term id="346">
+<name_term>docs</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>24.6423</score>
+</Term>
+<Term id="347">
+<name_term>code linkedlist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>24.6134</score>
+</Term>
+<Term id="348">
+<name_term>message</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>24.5106</score>
+</Term>
+<Term id="349">
+<name_term>block</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>24.3771</score>
+</Term>
+<Term id="350">
+<name_term>customer</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>24.2998</score>
+</Term>
+<Term id="351">
+<name_term>salary</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>24.2205</score>
+</Term>
+<Term id="352">
+<name_term>activity</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>24.2028</score>
+</Term>
+<Term id="353">
+<name_term>programming</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>24.0271</score>
+</Term>
+<Term id="354">
+<name_term>usage</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>24.0216</score>
+</Term>
+<Term id="355">
+<name_term>iterable</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>24.0128</score>
+</Term>
+<Term id="356">
+<name_term>web</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.9056</score>
+</Term>
+<Term id="357">
+<name_term>range</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.8556</score>
+</Term>
+<Term id="358">
+<name_term>efficiency</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.8174</score>
+</Term>
+<Term id="359">
+<name_term>second</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.705</score>
+</Term>
+<Term id="360">
+<name_term>load</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.6217</score>
+</Term>
+<Term id="361">
+<name_term>collectionutils</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>23.6018</score>
+</Term>
+<Term id="362">
+<name_term>day</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.5303</score>
+</Term>
+<Term id="363">
+<name_term>methods</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.5278</score>
+</Term>
+<Term id="364">
+<name_term>sense</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.4999</score>
+</Term>
+<Term id="365">
+<name_term>space</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.4753</score>
+</Term>
+<Term id="366">
+<name_term>code treeset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>23.4538</score>
+</Term>
+<Term id="367">
+<name_term>min</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.3941</score>
+</Term>
+<Term id="368">
+<name_term>netbeans</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>23.3405</score>
+</Term>
+<Term id="369">
+<name_term>child</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.3227</score>
+</Term>
+<Term id="370">
+<name_term>head</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.3084</score>
+</Term>
+<Term id="371">
+<name_term>address</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.2072</score>
+</Term>
+<Term id="372">
+<name_term>enter</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.1533</score>
+</Term>
+<Term id="373">
+<name_term>linkedlist code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>23.0636</score>
+</Term>
+<Term id="374">
+<name_term>cat</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.0222</score>
+</Term>
+<Term id="375">
+<name_term>gc</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.0095</score>
+</Term>
+<Term id="376">
+<name_term>card</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>22.9527</score>
+</Term>
+<Term id="377">
+<name_term>javadocs</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>22.7977</score>
+</Term>
+<Term id="378">
+<name_term>https</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>22.7936</score>
+</Term>
+<Term id="379">
+<name_term>hasnext</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>22.7791</score>
+</Term>
+<Term id="380">
+<name_term>rel</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>22.7341</score>
+</Term>
+<Term id="381">
+<name_term>ol</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>22.7225</score>
+</Term>
+<Term id="382">
+<name_term>runtime</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>22.6947</score>
+</Term>
+<Term id="383">
+<name_term>navigableset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>22.6906</score>
+</Term>
+<Term id="384">
+<name_term>request</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>22.6791</score>
+</Term>
+<Term id="385">
+<name_term>modification</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>22.6367</score>
+</Term>
+<Term id="386">
+<name_term>process</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>22.6278</score>
+</Term>
+<Term id="387">
+<name_term>signature</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>22.6234</score>
+</Term>
+<Term id="388">
+<name_term>member</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>22.4157</score>
+</Term>
+<Term id="389">
+<name_term>generic</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>22.3756</score>
+</Term>
+<Term id="390">
+<name_term>predicate</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>22.3727</score>
+</Term>
+<Term id="391">
+<name_term>subclass</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>22.2139</score>
+</Term>
+<Term id="392">
+<name_term>subset</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>22.1266</score>
+</Term>
+<Term id="393">
+<name_term>q</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>22.0764</score>
+</Term>
+<Term id="394">
+<name_term>equivalent</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>22.0562</score>
+</Term>
+<Term id="395">
+<name_term>enumeration</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>22.0326</score>
+</Term>
+<Term id="396">
+<name_term>arraydeque</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>22.0014</score>
+</Term>
+<Term id="397">
+<name_term>list map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>21.9224</score>
+</Term>
+<Term id="398">
+<name_term>class code</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.9209</score>
+</Term>
+<Term id="399">
+<name_term>utility</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.8748</score>
+</Term>
+<Term id="400">
+<name_term>insert</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.8419</score>
+</Term>
+<Term id="401">
+<name_term>grid</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.8222</score>
+</Term>
+<Term id="402">
+<name_term>method code</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.8127</score>
+</Term>
+<Term id="403">
+<name_term>hashcode code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>21.7954</score>
+</Term>
+<Term id="404">
+<name_term>middle</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.781</score>
+</Term>
+<Term id="405">
+<name_term>float</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.7786</score>
+</Term>
+<Term id="406">
+<name_term>coin</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.7767</score>
+</Term>
+<Term id="407">
+<name_term>iterator code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>21.7199</score>
+</Term>
+<Term id="408">
+<name_term>frequency</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.6373</score>
+</Term>
+<Term id="409">
+<name_term>treeset code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>21.634</score>
+</Term>
+<Term id="410">
+<name_term>fact</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.5986</score>
+</Term>
+<Term id="411">
+<name_term>heap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>21.5754</score>
+</Term>
+<Term id="412">
+<name_term>behaviour</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.56</score>
+</Term>
+<Term id="413">
+<name_term>persons</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.5097</score>
+</Term>
+<Term id="414">
+<name_term>entryset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>21.4862</score>
+</Term>
+<Term id="415">
+<name_term>concept</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.4466</score>
+</Term>
+<Term id="416">
+<name_term>and</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.4024</score>
+</Term>
+<Term id="417">
+<name_term>insertion order</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>21.3872</score>
+</Term>
+<Term id="418">
+<name_term>synchronization</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.3637</score>
+</Term>
+<Term id="419">
+<name_term>nothing</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.3555</score>
+</Term>
+<Term id="420">
+<name_term>syntax</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.3442</score>
+</Term>
+<Term id="421">
+<name_term>sum</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.3194</score>
+</Term>
+<Term id="422">
+<name_term>jvm</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>21.1836</score>
+</Term>
+<Term id="423">
+<name_term>multiple</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.171</score>
+</Term>
+<Term id="424">
+<name_term>github</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>21.1075</score>
+</Term>
+<Term id="425">
+<name_term>advice</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.106</score>
+</Term>
+<Term id="426">
+<name_term>nullpointerexception</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>21.052</score>
+</Term>
+<Term id="427">
+<name_term>bar</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>21.0461</score>
+</Term>
+<Term id="428">
+<name_term>template</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>20.9284</score>
+</Term>
+<Term id="429">
+<name_term>garbage</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>20.8953</score>
+</Term>
+<Term id="430">
+<name_term>containsall</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>20.8293</score>
+</Term>
+<Term id="431">
+<name_term>binarysearch</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>20.7897</score>
+</Term>
+<Term id="432">
+<name_term>package</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>20.7702</score>
+</Term>
+<Term id="433">
+<name_term>player</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>20.5966</score>
+</Term>
+<Term id="434">
+<name_term>base</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>20.5518</score>
+</Term>
+<Term id="435">
+<name_term>queries</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>20.5179</score>
+</Term>
+<Term id="437">
+<name_term>code collections</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>20.48</score>
+</Term>
+<Term id="438">
+<name_term>context</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>20.4672</score>
+</Term>
+<Term id="439">
+<name_term>log</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>20.4459</score>
+</Term>
+<Term id="440">
+<name_term>mongodb</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>20.4062</score>
+</Term>
+<Term id="441">
+<name_term>animal</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>20.3652</score>
+</Term>
+<Term id="442">
+<name_term>comparable</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>20.3592</score>
+</Term>
+<Term id="443">
+<name_term>side</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>20.3326</score>
+</Term>
+<Term id="444">
+<name_term>predicates</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>20.2762</score>
+</Term>
+<Term id="445">
+<name_term>trouble</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>20.2355</score>
+</Term>
+<Term id="446">
+<name_term>j</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>20.2001</score>
+</Term>
+<Term id="447">
+<name_term>overhead</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>20.1035</score>
+</Term>
+<Term id="448">
+<name_term>noreferrer code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>20.0935</score>
+</Term>
+<Term id="449">
+<name_term>first</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>20.0837</score>
+</Term>
+<Term id="450">
+<name_term>event</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>20.0595</score>
+</Term>
+<Term id="451">
+<name_term>rest</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>20.0511</score>
+</Term>
+<Term id="452">
+<name_term>country</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>20.0301</score>
+</Term>
+<Term id="453">
+<name_term>while</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>19.9645</score>
+</Term>
+<Term id="454">
+<name_term>php</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.9517</score>
+</Term>
+<Term id="455">
+<name_term>html rel</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.865</score>
+</Term>
+<Term id="456">
+<name_term>enumset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.7481</score>
+</Term>
+<Term id="457">
+<name_term>csv</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.6289</score>
+</Term>
+<Term id="458">
+<name_term>clone</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>19.6158</score>
+</Term>
+<Term id="459">
+<name_term>interview</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>19.6084</score>
+</Term>
+<Term id="460">
+<name_term>code list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.5568</score>
+</Term>
+<Term id="461">
+<name_term>concurrentlinkedqueue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.5568</score>
+</Term>
+<Term id="462">
+<name_term>ps</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>19.5409</score>
+</Term>
+<Term id="463">
+<name_term>prettyprint-override</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.5323</score>
+</Term>
+<Term id="464">
+<name_term>classcastexception</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.5208</score>
+</Term>
+<Term id="465">
+<name_term>post</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>19.5099</score>
+</Term>
+<Term id="466">
+<name_term>javafx</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.4803</score>
+</Term>
+<Term id="467">
+<name_term>equality</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>19.4379</score>
+</Term>
+<Term id="468">
+<name_term>removal</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>19.4356</score>
+</Term>
+<Term id="469">
+<name_term>deck</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.3282</score>
+</Term>
+<Term id="470">
+<name_term>unmodifiablelist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.3123</score>
+</Term>
+<Term id="471">
+<name_term>synchronizedlist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.3067</score>
+</Term>
+<Term id="472">
+<name_term>lists</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.1764</score>
+</Term>
+<Term id="473">
+<name_term>lambda</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>19.1699</score>
+</Term>
+<Term id="474">
+<name_term>collision</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>19.0117</score>
+</Term>
+<Term id="475">
+<name_term>assignment</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>19.0053</score>
+</Term>
+<Term id="476">
+<name_term>action</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>18.9957</score>
+</Term>
+<Term id="477">
+<name_term>cast</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>18.9119</score>
+</Term>
+<Term id="478">
+<name_term>execution</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>18.9119</score>
+</Term>
+<Term id="479">
+<name_term>limit</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>18.8607</score>
+</Term>
+<Term id="480">
+<name_term>factor</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>18.857</score>
+</Term>
+<Term id="481">
+<name_term>circularfifobuffer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>18.8455</score>
+</Term>
+<Term id="482">
+<name_term>reflection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>18.8112</score>
+</Term>
+<Term id="483">
+<name_term>removeall</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>18.8112</score>
+</Term>
+<Term id="484">
+<name_term>quantity</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>18.6436</score>
+</Term>
+<Term id="485">
+<name_term>match</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>18.636</score>
+</Term>
+<Term id="486">
+<name_term>key-value</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>18.6117</score>
+</Term>
+<Term id="487">
+<name_term>linked</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>18.603</score>
+</Term>
+<Term id="488">
+<name_term>not</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>18.5443</score>
+</Term>
+<Term id="489">
+<name_term>abstractset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>18.5138</score>
+</Term>
+<Term id="490">
+<name_term>code comparator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>18.4787</score>
+</Term>
+<Term id="491">
+<name_term>keys</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>18.4192</score>
+</Term>
+<Term id="492">
+<name_term>listiterator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>18.3625</score>
+</Term>
+<Term id="493">
+<name_term>basis</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>18.3097</score>
+</Term>
+<Term id="494">
+<name_term>tostring</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>18.2722</score>
+</Term>
+<Term id="495">
+<name_term>hierarchy</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>18.1842</score>
+</Term>
+<Term id="496">
+<name_term>boolean</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>18.0998</score>
+</Term>
+<Term id="497">
+<name_term>dog</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>18.0899</score>
+</Term>
+<Term id="498">
+<name_term>pointer</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>18.0113</score>
+</Term>
+<Term id="499">
+<name_term>look</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.8999</score>
+</Term>
+<Term id="500">
+<name_term>list1</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.8916</score>
+</Term>
+<Term id="501">
+<name_term>can</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.8783</score>
+</Term>
+<Term id="502">
+<name_term>distance</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.8718</score>
+</Term>
+<Term id="503">
+<name_term>strong br</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.822</score>
+</Term>
+<Term id="504">
+<name_term>androidruntime</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.8102</score>
+</Term>
+<Term id="505">
+<name_term>user0_</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.8102</score>
+</Term>
+<Term id="506">
+<name_term>language</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.8031</score>
+</Term>
+<Term id="507">
+<name_term>retainall</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.7668</score>
+</Term>
+<Term id="508">
+<name_term>so</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.7646</score>
+</Term>
+<Term id="509">
+<name_term>image description</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.7054</score>
+</Term>
+<Term id="510">
+<name_term>yes</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.6612</score>
+</Term>
+<Term id="511">
+<name_term>warning</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.5572</score>
+</Term>
+<Term id="512">
+<name_term>safety</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.5521</score>
+</Term>
+<Term id="513">
+<name_term>strong em</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.5493</score>
+</Term>
+<Term id="514">
+<name_term>creation</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.5434</score>
+</Term>
+<Term id="515">
+<name_term>collection object</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.4986</score>
+</Term>
+<Term id="516">
+<name_term>enummap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.4283</score>
+</Term>
+<Term id="517">
+<name_term>trees</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.4053</score>
+</Term>
+<Term id="518">
+<name_term>advantage</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.3943</score>
+</Term>
+<Term id="519">
+<name_term>price</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.3142</score>
+</Term>
+<Term id="520">
+<name_term>comparator code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.3025</score>
+</Term>
+<Term id="521">
+<name_term>jaxb</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.2795</score>
+</Term>
+<Term id="522">
+<name_term>classa</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.2502</score>
+</Term>
+<Term id="523">
+<name_term>menu</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.2502</score>
+</Term>
+<Term id="524">
+<name_term>thread-safe</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.2436</score>
+</Term>
+<Term id="525">
+<name_term>converting</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.2095</score>
+</Term>
+<Term id="526">
+<name_term>print</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.1623</score>
+</Term>
+<Term id="527">
+<name_term>run</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.0891</score>
+</Term>
+<Term id="528">
+<name_term>relationship</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>17.0056</score>
+</Term>
+<Term id="529">
+<name_term>session</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.9747</score>
+</Term>
+<Term id="530">
+<name_term>listview</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.9544</score>
+</Term>
+<Term id="531">
+<name_term>addition</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.9469</score>
+</Term>
+<Term id="532">
+<name_term>vendingmachine</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.9197</score>
+</Term>
+<Term id="533">
+<name_term>explanation</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.8986</score>
+</Term>
+<Term id="534">
+<name_term>category</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.8721</score>
+</Term>
+<Term id="535">
+<name_term>txt</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.8644</score>
+</Term>
+<Term id="536">
+<name_term>fifo</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.859</score>
+</Term>
+<Term id="537">
+<name_term>lock</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.859</score>
+</Term>
+<Term id="538">
+<name_term>p</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.8463</score>
+</Term>
+<Term id="539">
+<name_term>cell</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.7828</score>
+</Term>
+<Term id="540">
+<name_term>classes</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.7804</score>
+</Term>
+<Term id="541">
+<name_term>does</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.7546</score>
+</Term>
+<Term id="542">
+<name_term>printing</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.7546</score>
+</Term>
+<Term id="543">
+<name_term>items</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.7379</score>
+</Term>
+<Term id="544">
+<name_term>conversion</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.7133</score>
+</Term>
+<Term id="545">
+<name_term>reading</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.6662</score>
+</Term>
+<Term id="546">
+<name_term>vectors</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.6635</score>
+</Term>
+<Term id="547">
+<name_term>ok</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.6543</score>
+</Term>
+<Term id="548">
+<name_term>hand</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.6442</score>
+</Term>
+<Term id="549">
+<name_term>source code</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.64</score>
+</Term>
+<Term id="550">
+<name_term>command</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.6352</score>
+</Term>
+<Term id="551">
+<name_term>expression</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.6222</score>
+</Term>
+<Term id="552">
+<name_term>board</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.5776</score>
+</Term>
+<Term id="553">
+<name_term>link</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.5539</score>
+</Term>
+<Term id="554">
+<name_term>concurrency</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.5496</score>
+</Term>
+<Term id="555">
+<name_term>myclass</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.5288</score>
+</Term>
+<Term id="556">
+<name_term>blockingqueue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.501</score>
+</Term>
+<Term id="557">
+<name_term>modification exception</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.4833</score>
+</Term>
+<Term id="558">
+<name_term>put</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.4788</score>
+</Term>
+<Term id="559">
+<name_term>num</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.4183</score>
+</Term>
+<Term id="560">
+<name_term>collection class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.4152</score>
+</Term>
+<Term id="561">
+<name_term>string array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.4112</score>
+</Term>
+<Term id="562">
+<name_term>linkedblockingqueue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.3876</score>
+</Term>
+<Term id="563">
+<name_term>initialization</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.3872</score>
+</Term>
+<Term id="564">
+<name_term>lista</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.3518</score>
+</Term>
+<Term id="565">
+<name_term>randomaccess</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.3518</score>
+</Term>
+<Term id="566">
+<name_term>questions</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.3476</score>
+</Term>
+<Term id="567">
+<name_term>stream api</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.2171</score>
+</Term>
+<Term id="568">
+<name_term>email</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.2104</score>
+</Term>
+<Term id="569">
+<name_term>intersection</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.1857</score>
+</Term>
+<Term id="570">
+<name_term>abstractmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.1373</score>
+</Term>
+<Term id="571">
+<name_term>collection type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.1273</score>
+</Term>
+<Term id="572">
+<name_term>combination</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.0767</score>
+</Term>
+<Term id="573">
+<name_term>code int</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.0504</score>
+</Term>
+<Term id="574">
+<name_term>concurrent</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.0474</score>
+</Term>
+<Term id="575">
+<name_term>vfy</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.0292</score>
+</Term>
+<Term id="576">
+<name_term>java hashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.9851</score>
+</Term>
+<Term id="577">
+<name_term>arr</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.94</score>
+</Term>
+<Term id="578">
+<name_term>code pre</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.9377</score>
+</Term>
+<Term id="579">
+<name_term>pre class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.9377</score>
+</Term>
+<Term id="580">
+<name_term>prettyprint-override code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.9377</score>
+</Term>
+<Term id="581">
+<name_term>generic type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.9289</score>
+</Term>
+<Term id="582">
+<name_term>return type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.9213</score>
+</Term>
+<Term id="583">
+<name_term>legacy</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.8485</score>
+</Term>
+<Term id="584">
+<name_term>sub</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.8406</score>
+</Term>
+<Term id="585">
+<name_term>collector</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.8146</score>
+</Term>
+<Term id="586">
+<name_term>null code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.783</score>
+</Term>
+<Term id="587">
+<name_term>cassandra</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.7659</score>
+</Term>
+<Term id="588">
+<name_term>synchronizedmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.7449</score>
+</Term>
+<Term id="589">
+<name_term>random</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.7433</score>
+</Term>
+<Term id="590">
+<name_term>but</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.7345</score>
+</Term>
+<Term id="591">
+<name_term>clojure</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.7044</score>
+</Term>
+<Term id="592">
+<name_term>gwt</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.6977</score>
+</Term>
+<Term id="593">
+<name_term>wildcard</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.6926</score>
+</Term>
+<Term id="594">
+<name_term>text file</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.6051</score>
+</Term>
+<Term id="595">
+<name_term>ui</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.6047</score>
+</Term>
+<Term id="596">
+<name_term>main</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.583</score>
+</Term>
+<Term id="597">
+<name_term>obj</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.5488</score>
+</Term>
+<Term id="598">
+<name_term>step</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.53</score>
+</Term>
+<Term id="599">
+<name_term>java api</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.5284</score>
+</Term>
+<Term id="600">
+<name_term>path</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.5173</score>
+</Term>
+<Term id="601">
+<name_term>script</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.4918</score>
+</Term>
+<Term id="602">
+<name_term>servlet</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.4918</score>
+</Term>
+<Term id="603">
+<name_term>java map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.4425</score>
+</Term>
+<Term id="604">
+<name_term>cost</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.4099</score>
+</Term>
+<Term id="605">
+<name_term>console</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.3909</score>
+</Term>
+<Term id="606">
+<name_term>hash map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.3708</score>
+</Term>
+<Term id="607">
+<name_term>year</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.3657</score>
+</Term>
+<Term id="608">
+<name_term>speed</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.3625</score>
+</Term>
+<Term id="609">
+<name_term>concurrent modification</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.3539</score>
+</Term>
+<Term id="610">
+<name_term>multiset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.3535</score>
+</Term>
+<Term id="611">
+<name_term>optimization</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.3481</score>
+</Term>
+<Term id="612">
+<name_term>choice</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.3237</score>
+</Term>
+<Term id="613">
+<name_term>org wiki</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.2298</score>
+</Term>
+<Term id="614">
+<name_term>unit</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.1941</score>
+</Term>
+<Term id="615">
+<name_term>job</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.1939</score>
+</Term>
+<Term id="616">
+<name_term>suggestion</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.1939</score>
+</Term>
+<Term id="617">
+<name_term>junit</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.1378</score>
+</Term>
+<Term id="618">
+<name_term>dto</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.127</score>
+</Term>
+<Term id="619">
+<name_term>weakhashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.127</score>
+</Term>
+<Term id="620">
+<name_term>processing</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.1218</score>
+</Term>
+<Term id="621">
+<name_term>track</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.1218</score>
+</Term>
+<Term id="622">
+<name_term>++</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.0975</score>
+</Term>
+<Term id="623">
+<name_term>dozer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.0804</score>
+</Term>
+<Term id="624">
+<name_term>code treemap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.0627</score>
+</Term>
+<Term id="625">
+<name_term>tag</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.0388</score>
+</Term>
+<Term id="626">
+<name_term>let</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>15.0058</score>
+</Term>
+<Term id="627">
+<name_term>stuff</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.9552</score>
+</Term>
+<Term id="628">
+<name_term>manner</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.953</score>
+</Term>
+<Term id="629">
+<name_term>simple</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.9012</score>
+</Term>
+<Term id="630">
+<name_term>status</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.8781</score>
+</Term>
+<Term id="631">
+<name_term>util collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.8735</score>
+</Term>
+<Term id="632">
+<name_term>navigablemap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.8463</score>
+</Term>
+<Term id="633">
+<name_term>foo code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.8369</score>
+</Term>
+<Term id="634">
+<name_term>noreferrer img</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.8158</score>
+</Term>
+<Term id="635">
+<name_term>blocks</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.811</score>
+</Term>
+<Term id="636">
+<name_term>union</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.811</score>
+</Term>
+<Term id="637">
+<name_term>getter</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.8068</score>
+</Term>
+<Term id="638">
+<name_term>comparing</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.8006</score>
+</Term>
+<Term id="639">
+<name_term>moment</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.7682</score>
+</Term>
+<Term id="640">
+<name_term>jpg</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.7399</score>
+</Term>
+<Term id="641">
+<name_term>list2</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.7008</score>
+</Term>
+<Term id="642">
+<name_term>jdbc</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.6676</score>
+</Term>
+<Term id="643">
+<name_term>weight</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.6648</score>
+</Term>
+<Term id="644">
+<name_term>detail</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.637</score>
+</Term>
+<Term id="645">
+<name_term>factory</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.6284</score>
+</Term>
+<Term id="646">
+<name_term>map integer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.6239</score>
+</Term>
+<Term id="647">
+<name_term>color</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.5723</score>
+</Term>
+<Term id="648">
+<name_term>root</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.5634</score>
+</Term>
+<Term id="649">
+<name_term>sorted</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.5323</score>
+</Term>
+<Term id="650">
+<name_term>list list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.5096</score>
+</Term>
+<Term id="651">
+<name_term>symbol</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.4997</score>
+</Term>
+<Term id="652">
+<name_term>coll</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.4967</score>
+</Term>
+<Term id="653">
+<name_term>contact</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.4967</score>
+</Term>
+<Term id="654">
+<name_term>definition</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.4917</score>
+</Term>
+<Term id="655">
+<name_term>mechanism</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.4917</score>
+</Term>
+<Term id="656">
+<name_term>consumer</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.4808</score>
+</Term>
+<Term id="657">
+<name_term>lambdaj</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.4536</score>
+</Term>
+<Term id="658">
+<name_term>addall code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.446</score>
+</Term>
+<Term id="659">
+<name_term>ms</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.3949</score>
+</Term>
+<Term id="660">
+<name_term>jackson</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.3896</score>
+</Term>
+<Term id="661">
+<name_term>document</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.3849</score>
+</Term>
+<Term id="662">
+<name_term>resultset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.3589</score>
+</Term>
+<Term id="663">
+<name_term>immutablelist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.3472</score>
+</Term>
+<Term id="664">
+<name_term>right</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.3426</score>
+</Term>
+<Term id="665">
+<name_term>unsupportedoperationexception</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.3033</score>
+</Term>
+<Term id="666">
+<name_term>contains</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.283</score>
+</Term>
+<Term id="667">
+<name_term>dalvikvm</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.2425</score>
+</Term>
+<Term id="668">
+<name_term>mylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.2255</score>
+</Term>
+<Term id="669">
+<name_term>direction</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.2228</score>
+</Term>
+<Term id="670">
+<name_term>possibility</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.1596</score>
+</Term>
+<Term id="671">
+<name_term>code br</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.1554</score>
+</Term>
+<Term id="672">
+<name_term>classb</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.151</score>
+</Term>
+<Term id="673">
+<name_term>download</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.1403</score>
+</Term>
+<Term id="674">
+<name_term>singleton</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.1189</score>
+</Term>
+<Term id="675">
+<name_term>l</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.0699</score>
+</Term>
+<Term id="676">
+<name_term>operator</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.058</score>
+</Term>
+<Term id="677">
+<name_term>read</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>14.0574</score>
+</Term>
+<Term id="678">
+<name_term>gson</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.0272</score>
+</Term>
+<Term id="679">
+<name_term>waiting</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.9768</score>
+</Term>
+<Term id="680">
+<name_term>developer</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.9302</score>
+</Term>
+<Term id="681">
+<name_term>button</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.9192</score>
+</Term>
+<Term id="682">
+<name_term>arrays</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.9045</score>
+</Term>
+<Term id="683">
+<name_term>code snippet</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.8874</score>
+</Term>
+<Term id="684">
+<name_term>int code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.8812</score>
+</Term>
+<Term id="685">
+<name_term>jre</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.8664</score>
+</Term>
+<Term id="686">
+<name_term>buffer</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.8654</score>
+</Term>
+<Term id="687">
+<name_term>beginning</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.8617</score>
+</Term>
+<Term id="688">
+<name_term>comment</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.8617</score>
+</Term>
+<Term id="689">
+<name_term>today</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.8617</score>
+</Term>
+<Term id="690">
+<name_term>knowledge</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.8518</score>
+</Term>
+<Term id="691">
+<name_term>iterate</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.8515</score>
+</Term>
+<Term id="692">
+<name_term>iterating</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.8515</score>
+</Term>
+<Term id="693">
+<name_term>sort method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.828</score>
+</Term>
+<Term id="694">
+<name_term>listb</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.7355</score>
+</Term>
+<Term id="695">
+<name_term>stringbuilder</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.7355</score>
+</Term>
+<Term id="696">
+<name_term>println</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.7349</score>
+</Term>
+<Term id="697">
+<name_term>mistake</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.7323</score>
+</Term>
+<Term id="698">
+<name_term>top</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.6532</score>
+</Term>
+<Term id="699">
+<name_term>cpu</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.5553</score>
+</Term>
+<Term id="700">
+<name_term>import</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.5315</score>
+</Term>
+<Term id="701">
+<name_term>environment</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.5044</score>
+</Term>
+<Term id="702">
+<name_term>treemap code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.4946</score>
+</Term>
+<Term id="703">
+<name_term>none</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.4814</score>
+</Term>
+<Term id="704">
+<name_term>mismatch</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.4333</score>
+</Term>
+<Term id="705">
+<name_term>confusion</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.4178</score>
+</Term>
+<Term id="706">
+<name_term>lang-java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.3999</score>
+</Term>
+<Term id="707">
+<name_term>song</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.3995</score>
+</Term>
+<Term id="708">
+<name_term>power</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.3947</score>
+</Term>
+<Term id="709">
+<name_term>use case</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.3342</score>
+</Term>
+<Term id="710">
+<name_term>types</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.2874</score>
+</Term>
+<Term id="711">
+<name_term>hamcrest</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.2741</score>
+</Term>
+<Term id="712">
+<name_term>myobject</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.2403</score>
+</Term>
+<Term id="713">
+<name_term>doubt</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.2316</score>
+</Term>
+<Term id="714">
+<name_term>apis</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.204</score>
+</Term>
+<Term id="715">
+<name_term>computer</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.204</score>
+</Term>
+<Term id="716">
+<name_term>concurrentmodificationexception code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.1971</score>
+</Term>
+<Term id="717">
+<name_term>u</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.1544</score>
+</Term>
+<Term id="718">
+<name_term>response</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.1538</score>
+</Term>
+<Term id="719">
+<name_term>set map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.1139</score>
+</Term>
+<Term id="720">
+<name_term>bunch</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.1058</score>
+</Term>
+<Term id="721">
+<name_term>account</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.0858</score>
+</Term>
+<Term id="722">
+<name_term>resource</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.0858</score>
+</Term>
+<Term id="723">
+<name_term>background</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>13.046</score>
+</Term>
+<Term id="724">
+<name_term>overflow</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.9869</score>
+</Term>
+<Term id="725">
+<name_term>practices</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.9869</score>
+</Term>
+<Term id="726">
+<name_term>list code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.9555</score>
+</Term>
+<Term id="727">
+<name_term>load factor</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.9255</score>
+</Term>
+<Term id="728">
+<name_term>sheet</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.9099</score>
+</Term>
+<Term id="729">
+<name_term>name code</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.8668</score>
+</Term>
+<Term id="730">
+<name_term>ie</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.8614</score>
+</Term>
+<Term id="731">
+<name_term>override</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.8614</score>
+</Term>
+<Term id="732">
+<name_term>working</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.8543</score>
+</Term>
+<Term id="733">
+<name_term>jar</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.8375</score>
+</Term>
+<Term id="734">
+<name_term>ejb</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.8149</score>
+</Term>
+<Term id="735">
+<name_term>code concurrentmodificationexception</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.8096</score>
+</Term>
+<Term id="736">
+<name_term>code implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.8096</score>
+</Term>
+<Term id="737">
+<name_term>lru</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.8033</score>
+</Term>
+<Term id="738">
+<name_term>worker</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.8033</score>
+</Term>
+<Term id="739">
+<name_term>mind</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.7937</score>
+</Term>
+<Term id="740">
+<name_term>compilation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.7936</score>
+</Term>
+<Term id="741">
+<name_term>util list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.7733</score>
+</Term>
+<Term id="742">
+<name_term>value code</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.7537</score>
+</Term>
+<Term id="743">
+<name_term>synchronizedset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.752</score>
+</Term>
+<Term id="744">
+<name_term>annotation</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.7503</score>
+</Term>
+<Term id="745">
+<name_term>io</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.7503</score>
+</Term>
+<Term id="746">
+<name_term>dont</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.7346</score>
+</Term>
+<Term id="747">
+<name_term>helper</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.7158</score>
+</Term>
+<Term id="748">
+<name_term>arraylist integer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.6741</score>
+</Term>
+<Term id="749">
+<name_term>copyonwritearrayset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.618</score>
+</Term>
+<Term id="750">
+<name_term>party</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.6078</score>
+</Term>
+<Term id="751">
+<name_term>enums</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.6059</score>
+</Term>
+<Term id="752">
+<name_term>lifo</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.6059</score>
+</Term>
+<Term id="753">
+<name_term>equals</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.5729</score>
+</Term>
+<Term id="754">
+<name_term>strong code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.5696</score>
+</Term>
+<Term id="755">
+<name_term>bag</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.4637</score>
+</Term>
+<Term id="756">
+<name_term>avg</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.4409</score>
+</Term>
+<Term id="757">
+<name_term>jstl</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.4274</score>
+</Term>
+<Term id="758">
+<name_term>searching</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.3966</score>
+</Term>
+<Term id="759">
+<name_term>comparable interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.3892</score>
+</Term>
+<Term id="760">
+<name_term>attempt</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.3472</score>
+</Term>
+<Term id="761">
+<name_term>size code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.3389</score>
+</Term>
+<Term id="762">
+<name_term>s</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.3284</score>
+</Term>
+<Term id="763">
+<name_term>for-each</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.3164</score>
+</Term>
+<Term id="764">
+<name_term>relation</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.3164</score>
+</Term>
+<Term id="765">
+<name_term>tutorial</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.3164</score>
+</Term>
+<Term id="766">
+<name_term>department</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.3087</score>
+</Term>
+<Term id="767">
+<name_term>feature</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.2865</score>
+</Term>
+<Term id="768">
+<name_term>code li</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.261</score>
+</Term>
+<Term id="769">
+<name_term>openjdk</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.2405</score>
+</Term>
+<Term id="770">
+<name_term>google guava</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.2029</score>
+</Term>
+<Term id="771">
+<name_term>isempty</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.1952</score>
+</Term>
+<Term id="772">
+<name_term>storage</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.1673</score>
+</Term>
+<Term id="773">
+<name_term>support</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.154</score>
+</Term>
+<Term id="774">
+<name_term>selection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.1103</score>
+</Term>
+<Term id="775">
+<name_term>mean</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.0914</score>
+</Term>
+<Term id="776">
+<name_term>adapter</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.0878</score>
+</Term>
+<Term id="777">
+<name_term>python</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.0527</score>
+</Term>
+<Term id="778">
+<name_term>code collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.0445</score>
+</Term>
+<Term id="779">
+<name_term>implement</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.0306</score>
+</Term>
+<Term id="780">
+<name_term>java arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.0081</score>
+</Term>
+<Term id="781">
+<name_term>sample code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.0022</score>
+</Term>
+<Term id="782">
+<name_term>unmodifiablemap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.9859</score>
+</Term>
+<Term id="783">
+<name_term>filters</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.9756</score>
+</Term>
+<Term id="784">
+<name_term>compareto method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.9669</score>
+</Term>
+<Term id="785">
+<name_term>goal</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.9613</score>
+</Term>
+<Term id="786">
+<name_term>reverse</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.9613</score>
+</Term>
+<Term id="787">
+<name_term>show</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.9466</score>
+</Term>
+<Term id="788">
+<name_term>best</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.9025</score>
+</Term>
+<Term id="789">
+<name_term>hope</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.9025</score>
+</Term>
+<Term id="790">
+<name_term>whats</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.9025</score>
+</Term>
+<Term id="791">
+<name_term>world</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.8968</score>
+</Term>
+<Term id="792">
+<name_term>poll</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.889</score>
+</Term>
+<Term id="793">
+<name_term>w</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.889</score>
+</Term>
+<Term id="794">
+<name_term>immutablemap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.8769</score>
+</Term>
+<Term id="795">
+<name_term>priorityblockingqueue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.8769</score>
+</Term>
+<Term id="797">
+<name_term>iterables</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.8463</score>
+</Term>
+<Term id="798">
+<name_term>letter</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.8365</score>
+</Term>
+<Term id="799">
+<name_term>couple</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.8341</score>
+</Term>
+<Term id="800">
+<name_term>subtype</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.7967</score>
+</Term>
+<Term id="801">
+<name_term>entries</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.7636</score>
+</Term>
+<Term id="802">
+<name_term>compareto code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.7441</score>
+</Term>
+<Term id="803">
+<name_term>time complexity</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.7376</score>
+</Term>
+<Term id="804">
+<name_term>rule</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.725</score>
+</Term>
+<Term id="805">
+<name_term>string code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.7175</score>
+</Term>
+<Term id="806">
+<name_term>linked list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.6983</score>
+</Term>
+<Term id="807">
+<name_term>score</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.6979</score>
+</Term>
+<Term id="808">
+<name_term>containskey</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.6239</score>
+</Term>
+<Term id="809">
+<name_term>uniqueness</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.6239</score>
+</Term>
+<Term id="810">
+<name_term>mm</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.6234</score>
+</Term>
+<Term id="811">
+<name_term>original list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.6074</score>
+</Term>
+<Term id="812">
+<name_term>section</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.5789</score>
+</Term>
+<Term id="813">
+<name_term>chroniclemessagebean</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.5766</score>
+</Term>
+<Term id="814">
+<name_term>mammal</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.5766</score>
+</Term>
+<Term id="815">
+<name_term>wifilocationapp$wifimode</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.5766</score>
+</Term>
+<Term id="816">
+<name_term>backing</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.5394</score>
+</Term>
+<Term id="817">
+<name_term>concurrentskiplistset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.5394</score>
+</Term>
+<Term id="818">
+<name_term>code arraylist code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.52</score>
+</Term>
+<Term id="819">
+<name_term>timestamp</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.4778</score>
+</Term>
+<Term id="820">
+<name_term>platform</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.4768</score>
+</Term>
+<Term id="821">
+<name_term>stringbuffer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.4556</score>
+</Term>
+<Term id="822">
+<name_term>tom</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.4556</score>
+</Term>
+<Term id="823">
+<name_term>filtering</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.4035</score>
+</Term>
+<Term id="824">
+<name_term>implementing</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.4035</score>
+</Term>
+<Term id="825">
+<name_term>validation</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.3767</score>
+</Term>
+<Term id="826">
+<name_term>experience</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.3177</score>
+</Term>
+<Term id="827">
+<name_term>timsort</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.3073</score>
+</Term>
+<Term id="828">
+<name_term>collection string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.2995</score>
+</Term>
+<Term id="829">
+<name_term>cats</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.279</score>
+</Term>
+<Term id="830">
+<name_term>nofollow code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.2692</score>
+</Term>
+<Term id="831">
+<name_term>matter</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.2537</score>
+</Term>
+<Term id="832">
+<name_term>doc</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.248</score>
+</Term>
+<Term id="833">
+<name_term>java8</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.248</score>
+</Term>
+<Term id="834">
+<name_term>ordering</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.2228</score>
+</Term>
+<Term id="835">
+<name_term>producer</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.2226</score>
+</Term>
+<Term id="836">
+<name_term>toarray code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.2072</score>
+</Term>
+<Term id="837">
+<name_term>matrix</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.2008</score>
+</Term>
+<Term id="838">
+<name_term>duplicates</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.1435</score>
+</Term>
+<Term id="839">
+<name_term>folder</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.1191</score>
+</Term>
+<Term id="840">
+<name_term>noreferrer http</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.1082</score>
+</Term>
+<Term id="841">
+<name_term>wificollection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.0775</score>
+</Term>
+<Term id="842">
+<name_term>effect</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>11.055</score>
+</Term>
+<Term id="843">
+<name_term>arraylist object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.0536</score>
+</Term>
+<Term id="844">
+<name_term>custom comparator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.0536</score>
+</Term>
+<Term id="845">
+<name_term>casting</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.0526</score>
+</Term>
+<Term id="846">
+<name_term>strong update</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.9944</score>
+</Term>
+<Term id="847">
+<name_term>soap</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.9772</score>
+</Term>
+<Term id="848">
+<name_term>treesets</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.9734</score>
+</Term>
+<Term id="849">
+<name_term>getvalue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.9668</score>
+</Term>
+<Term id="850">
+<name_term>superclass</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.9668</score>
+</Term>
+<Term id="851">
+<name_term>code queue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.9586</score>
+</Term>
+<Term id="852">
+<name_term>code name</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.9373</score>
+</Term>
+<Term id="853">
+<name_term>lang-java prettyprint-override</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.9339</score>
+</Term>
+<Term id="854">
+<name_term>beginner</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.9322</score>
+</Term>
+<Term id="855">
+<name_term>char</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.9283</score>
+</Term>
+<Term id="856">
+<name_term>topic</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.9172</score>
+</Term>
+<Term id="857">
+<name_term>returning</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.8992</score>
+</Term>
+<Term id="858">
+<name_term>listener</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.8606</score>
+</Term>
+<Term id="859">
+<name_term>will</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.8519</score>
+</Term>
+<Term id="860">
+<name_term>nofollow http</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.8485</score>
+</Term>
+<Term id="861">
+<name_term>ul li</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.8423</score>
+</Term>
+<Term id="862">
+<name_term>hasmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.8392</score>
+</Term>
+<Term id="863">
+<name_term>generics</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.836</score>
+</Term>
+<Term id="864">
+<name_term>hash table</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.8036</score>
+</Term>
+<Term id="865">
+<name_term>controller</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.7905</score>
+</Term>
+<Term id="866">
+<name_term>jdk1</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.7817</score>
+</Term>
+<Term id="867">
+<name_term>times</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.7767</score>
+</Term>
+<Term id="868">
+<name_term>queue code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.7581</score>
+</Term>
+<Term id="869">
+<name_term>research</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.72</score>
+</Term>
+<Term id="870">
+<name_term>standard</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.72</score>
+</Term>
+<Term id="871">
+<name_term>sup</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.7167</score>
+</Term>
+<Term id="872">
+<name_term>abstract class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.7133</score>
+</Term>
+<Term id="873">
+<name_term>multikeymap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.7076</score>
+</Term>
+<Term id="874">
+<name_term>code type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.7001</score>
+</Term>
+<Term id="875">
+<name_term>peer</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.6881</score>
+</Term>
+<Term id="876">
+<name_term>fixedsubplan</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.6861</score>
+</Term>
+<Term id="877">
+<name_term>fx</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.6861</score>
+</Term>
+<Term id="878">
+<name_term>snapshot</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.6657</score>
+</Term>
+<Term id="879">
+<name_term>public class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.6366</score>
+</Term>
+<Term id="880">
+<name_term>code compareto</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.61</score>
+</Term>
+<Term id="881">
+<name_term>priority queue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.6005</score>
+</Term>
+<Term id="882">
+<name_term>code array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.5929</score>
+</Term>
+<Term id="883">
+<name_term>month</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.5758</score>
+</Term>
+<Term id="884">
+<name_term>firebase</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.5535</score>
+</Term>
+<Term id="885">
+<name_term>jimmyc</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.55</score>
+</Term>
+<Term id="886">
+<name_term>summer</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.55</score>
+</Term>
+<Term id="887">
+<name_term>br br</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.5266</score>
+</Term>
+<Term id="888">
+<name_term>john</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.4986</score>
+</Term>
+<Term id="889">
+<name_term>connection</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.4903</score>
+</Term>
+<Term id="890">
+<name_term>network</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.4903</score>
+</Term>
+<Term id="891">
+<name_term>t1</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.4796</score>
+</Term>
+<Term id="892">
+<name_term>al</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.4652</score>
+</Term>
+<Term id="893">
+<name_term>ljava</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.4652</score>
+</Term>
+<Term id="894">
+<name_term>mergesort</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.4652</score>
+</Term>
+<Term id="895">
+<name_term>style</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.4533</score>
+</Term>
+<Term id="896">
+<name_term>code size</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.4038</score>
+</Term>
+<Term id="897">
+<name_term>fields</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.3998</score>
+</Term>
+<Term id="898">
+<name_term>storing</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.3895</score>
+</Term>
+<Term id="899">
+<name_term>thx</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.3895</score>
+</Term>
+<Term id="900">
+<name_term>interface code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.3872</score>
+</Term>
+<Term id="901">
+<name_term>transaction</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.3783</score>
+</Term>
+<Term id="902">
+<name_term>h</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.3412</score>
+</Term>
+<Term id="903">
+<name_term>screen</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.3309</score>
+</Term>
+<Term id="904">
+<name_term>col</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.3238</score>
+</Term>
+<Term id="905">
+<name_term>concurrentskiplistmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.3238</score>
+</Term>
+<Term id="906">
+<name_term>observablelist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.3238</score>
+</Term>
+<Term id="907">
+<name_term>benefit</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.3191</score>
+</Term>
+<Term id="908">
+<name_term>code function</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.2876</score>
+</Term>
+<Term id="909">
+<name_term>family</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.2702</score>
+</Term>
+<Term id="910">
+<name_term>info</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.2556</score>
+</Term>
+<Term id="911">
+<name_term>t2</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.2454</score>
+</Term>
+<Term id="912">
+<name_term>binary search</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.2381</score>
+</Term>
+<Term id="913">
+<name_term>constant time</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.2381</score>
+</Term>
+<Term id="914">
+<name_term>target</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.2233</score>
+</Term>
+<Term id="915">
+<name_term>wikipedia</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.2233</score>
+</Term>
+<Term id="916">
+<name_term>thought</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.1942</score>
+</Term>
+<Term id="917">
+<name_term>article</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.1848</score>
+</Term>
+<Term id="918">
+<name_term>subject</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.1406</score>
+</Term>
+<Term id="919">
+<name_term>general contract</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.1402</score>
+</Term>
+<Term id="920">
+<name_term>'a</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.1079</score>
+</Term>
+<Term id="921">
+<name_term>arrayblockingqueue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.1079</score>
+</Term>
+<Term id="922">
+<name_term>h3</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.0807</score>
+</Term>
+<Term id="923">
+<name_term>collections sort</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.0786</score>
+</Term>
+<Term id="924">
+<name_term>byte</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.0431</score>
+</Term>
+<Term id="925">
+<name_term>trove</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.0431</score>
+</Term>
+<Term id="926">
+<name_term>kotlin</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.9937</score>
+</Term>
+<Term id="927">
+<name_term>modcount</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.9937</score>
+</Term>
+<Term id="928">
+<name_term>error message</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.9878</score>
+</Term>
+<Term id="929">
+<name_term>maximum</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.9866</score>
+</Term>
+<Term id="930">
+<name_term>representation</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.9866</score>
+</Term>
+<Term id="931">
+<name_term>component</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.9546</score>
+</Term>
+<Term id="932">
+<name_term>intellij</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.9521</score>
+</Term>
+<Term id="933">
+<name_term>scanner</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.9415</score>
+</Term>
+<Term id="934">
+<name_term>operations</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.9199</score>
+</Term>
+<Term id="935">
+<name_term>sets</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.8867</score>
+</Term>
+<Term id="936">
+<name_term>comparison method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.8702</score>
+</Term>
+<Term id="937">
+<name_term>flow</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.8701</score>
+</Term>
+<Term id="938">
+<name_term>dat</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.866</score>
+</Term>
+<Term id="939">
+<name_term>user_id</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.866</score>
+</Term>
+<Term id="940">
+<name_term>generic method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.8372</score>
+</Term>
+<Term id="941">
+<name_term>int index</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.8214</score>
+</Term>
+<Term id="942">
+<name_term>comparator interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.8142</score>
+</Term>
+<Term id="943">
+<name_term>windows</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.8111</score>
+</Term>
+<Term id="944">
+<name_term>classx</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.7956</score>
+</Term>
+<Term id="945">
+<name_term>random access</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.7814</score>
+</Term>
+<Term id="946">
+<name_term>employee code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.7801</score>
+</Term>
+<Term id="947">
+<name_term>opinion</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.7789</score>
+</Term>
+<Term id="948">
+<name_term>map key</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.7584</score>
+</Term>
+<Term id="949">
+<name_term>threads</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.7435</score>
+</Term>
+<Term id="950">
+<name_term>records</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.7285</score>
+</Term>
+<Term id="951">
+<name_term>ide</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.715</score>
+</Term>
+<Term id="952">
+<name_term>meaning</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.715</score>
+</Term>
+<Term id="953">
+<name_term>present</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.715</score>
+</Term>
+<Term id="954">
+<name_term>retrieval</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.7149</score>
+</Term>
+<Term id="955">
+<name_term>void</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.7149</score>
+</Term>
+<Term id="956">
+<name_term>identifier</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.6844</score>
+</Term>
+<Term id="957">
+<name_term>sentence</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.6844</score>
+</Term>
+<Term id="958">
+<name_term>single</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.6824</score>
+</Term>
+<Term id="959">
+<name_term>code remove</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.6597</score>
+</Term>
+<Term id="960">
+<name_term>multi</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.6422</score>
+</Term>
+<Term id="961">
+<name_term>author</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.6026</score>
+</Term>
+<Term id="962">
+<name_term>batch</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.6026</score>
+</Term>
+<Term id="963">
+<name_term>phone</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.6026</score>
+</Term>
+<Term id="964">
+<name_term>week</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.6026</score>
+</Term>
+<Term id="965">
+<name_term>domain</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.5991</score>
+</Term>
+<Term id="966">
+<name_term>grouping</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.5991</score>
+</Term>
+<Term id="967">
+<name_term>h1</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.5966</score>
+</Term>
+<Term id="968">
+<name_term>code id</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.5672</score>
+</Term>
+<Term id="969">
+<name_term>id code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.5672</score>
+</Term>
+<Term id="970">
+<name_term>new</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.564</score>
+</Term>
+<Term id="971">
+<name_term>owner</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.5184</score>
+</Term>
+<Term id="972">
+<name_term>jsonarray</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.5136</score>
+</Term>
+<Term id="973">
+<name_term>directory</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.5046</score>
+</Term>
+<Term id="974">
+<name_term>indices</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.5046</score>
+</Term>
+<Term id="975">
+<name_term>numbers</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.5041</score>
+</Term>
+<Term id="976">
+<name_term>code addall</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.448</score>
+</Term>
+<Term id="977">
+<name_term>collection api</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.442</score>
+</Term>
+<Term id="978">
+<name_term>box</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.4413</score>
+</Term>
+<Term id="979">
+<name_term>push</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.4125</score>
+</Term>
+<Term id="980">
+<name_term>temp</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.4125</score>
+</Term>
+<Term id="981">
+<name_term>initial capacity</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.4064</score>
+</Term>
+<Term id="982">
+<name_term>notification</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.3772</score>
+</Term>
+<Term id="983">
+<name_term>erasure</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.3679</score>
+</Term>
+<Term id="984">
+<name_term>repository</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.3679</score>
+</Term>
+<Term id="985">
+<name_term>cheers</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.3524</score>
+</Term>
+<Term id="986">
+<name_term>body</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.2978</score>
+</Term>
+<Term id="987">
+<name_term>programmer</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.2978</score>
+</Term>
+<Term id="988">
+<name_term>ram</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.2886</score>
+</Term>
+<Term id="989">
+<name_term>scjp</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.2886</score>
+</Term>
+<Term id="990">
+<name_term>key code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.2492</score>
+</Term>
+<Term id="991">
+<name_term>java stream</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.2448</score>
+</Term>
+<Term id="992">
+<name_term>report</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.2436</score>
+</Term>
+<Term id="993">
+<name_term>swap</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.2333</score>
+</Term>
+<Term id="994">
+<name_term>school</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.1663</score>
+</Term>
+<Term id="995">
+<name_term>occurrence</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.1657</score>
+</Term>
+<Term id="996">
+<name_term>code linkedhashset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.1415</score>
+</Term>
+<Term id="997">
+<name_term>building</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.139</score>
+</Term>
+<Term id="998">
+<name_term>code copyonwritearraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.1304</score>
+</Term>
+<Term id="999">
+<name_term>red-black tree</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.1276</score>
+</Term>
+<Term id="1000">
+<name_term>comparable code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.1199</score>
+</Term>
+<Term id="1001">
+<name_term>calculation</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.0916</score>
+</Term>
+<Term id="1002">
+<name_term>join</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.0916</score>
+</Term>
+<Term id="1003">
+<name_term>convert list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.0708</score>
+</Term>
+<Term id="1004">
+<name_term>e2</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.0645</score>
+</Term>
+<Term id="1005">
+<name_term>string value</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.0594</score>
+</Term>
+<Term id="1006">
+<name_term>company</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.0505</score>
+</Term>
+<Term id="1007">
+<name_term>binary</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.0369</score>
+</Term>
+<Term id="1008">
+<name_term>strong li</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.0253</score>
+</Term>
+<Term id="1009">
+<name_term>code hashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.0217</score>
+</Term>
+<Term id="1010">
+<name_term>setter</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.021</score>
+</Term>
+<Term id="1011">
+<name_term>thread safety</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.0205</score>
+</Term>
+<Term id="1012">
+<name_term>entry code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.9929</score>
+</Term>
+<Term id="1013">
+<name_term>ingredient{name</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.9675</score>
+</Term>
+<Term id="1014">
+<name_term>layer</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.9606</score>
+</Term>
+<Term id="1015">
+<name_term>cant</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.9535</score>
+</Term>
+<Term id="1016">
+<name_term>duplication</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.9535</score>
+</Term>
+<Term id="1017">
+<name_term>map object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.9174</score>
+</Term>
+<Term id="1018">
+<name_term>segment</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.9112</score>
+</Term>
+<Term id="1019">
+<name_term>ab</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.9111</score>
+</Term>
+<Term id="1020">
+<name_term>circle</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.9111</score>
+</Term>
+<Term id="1021">
+<name_term>dev</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.9111</score>
+</Term>
+<Term id="1022">
+<name_term>jcombobox</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.9111</score>
+</Term>
+<Term id="1023">
+<name_term>lobservicerequestdetails</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.9051</score>
+</Term>
+<Term id="1024">
+<name_term>ooooo</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.9051</score>
+</Term>
+<Term id="1025">
+<name_term>keyword</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.8881</score>
+</Term>
+<Term id="1026">
+<name_term>main java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.8762</score>
+</Term>
+<Term id="1027">
+<name_term>datatype</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.8639</score>
+</Term>
+<Term id="1028">
+<name_term>math</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.8639</score>
+</Term>
+<Term id="1029">
+<name_term>iteration order</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.8619</score>
+</Term>
+<Term id="1030">
+<name_term>garbage collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.8451</score>
+</Term>
+<Term id="1031">
+<name_term>general</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.8268</score>
+</Term>
+<Term id="1032">
+<name_term>write</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.8268</score>
+</Term>
+<Term id="1033">
+<name_term>hashtable code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.8033</score>
+</Term>
+<Term id="1034">
+<name_term>sortorder</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.8033</score>
+</Term>
+<Term id="1035">
+<name_term>audi</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.7818</score>
+</Term>
+<Term id="1036">
+<name_term>type parameter</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.7763</score>
+</Term>
+<Term id="1037">
+<name_term>z</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.7735</score>
+</Term>
+<Term id="1038">
+<name_term>assume</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.7673</score>
+</Term>
+<Term id="1039">
+<name_term>clarification</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.7673</score>
+</Term>
+<Term id="1040">
+<name_term>empty list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.7553</score>
+</Term>
+<Term id="1041">
+<name_term>org apache</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.7471</score>
+</Term>
+<Term id="1042">
+<name_term>inheritance</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.7419</score>
+</Term>
+<Term id="1043">
+<name_term>base class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.7028</score>
+</Term>
+<Term id="1044">
+<name_term>average</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.6885</score>
+</Term>
+<Term id="1045">
+<name_term>iterable code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.686</score>
+</Term>
+<Term id="1046">
+<name_term>decision</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.674</score>
+</Term>
+<Term id="1047">
+<name_term>results</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.6648</score>
+</Term>
+<Term id="1048">
+<name_term>generic collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.6522</score>
+</Term>
+<Term id="1049">
+<name_term>banana</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.6251</score>
+</Term>
+<Term id="1050">
+<name_term>javac</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.6251</score>
+</Term>
+<Term id="1051">
+<name_term>code hashcode</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.6197</score>
+</Term>
+<Term id="1052">
+<name_term>comma</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.6083</score>
+</Term>
+<Term id="1053">
+<name_term>treemultiset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.604</score>
+</Term>
+<Term id="1054">
+<name_term>hashmap integer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.5953</score>
+</Term>
+<Term id="1055">
+<name_term>names</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.5873</score>
+</Term>
+<Term id="1056">
+<name_term>chm</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.5661</score>
+</Term>
+<Term id="1057">
+<name_term>copyonwritearraylist code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.5597</score>
+</Term>
+<Term id="1058">
+<name_term>hint</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.547</score>
+</Term>
+<Term id="1059">
+<name_term>split</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.5326</score>
+</Term>
+<Term id="1060">
+<name_term>region</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.5238</score>
+</Term>
+<Term id="1061">
+<name_term>properties</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.5124</score>
+</Term>
+<Term id="1062">
+<name_term>select</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.5029</score>
+</Term>
+<Term id="1063">
+<name_term>selenium</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.5029</score>
+</Term>
+<Term id="1064">
+<name_term>xyz</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.5029</score>
+</Term>
+<Term id="1065">
+<name_term>datastructure</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.4607</score>
+</Term>
+<Term id="1066">
+<name_term>refactor</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.4607</score>
+</Term>
+<Term id="1067">
+<name_term>a2</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.412</score>
+</Term>
+<Term id="1068">
+<name_term>schema</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.412</score>
+</Term>
+<Term id="1069">
+<name_term>dependency</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.4079</score>
+</Term>
+<Term id="1070">
+<name_term>lib</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.4079</score>
+</Term>
+<Term id="1071">
+<name_term>synchronizedcollection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.4079</score>
+</Term>
+<Term id="1072">
+<name_term>java streams</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.3929</score>
+</Term>
+<Term id="1073">
+<name_term>util arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.3929</score>
+</Term>
+<Term id="1074">
+<name_term>core</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.3923</score>
+</Term>
+<Term id="1075">
+<name_term>site</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.3923</score>
+</Term>
+<Term id="1076">
+<name_term>hashsets</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.3914</score>
+</Term>
+<Term id="1077">
+<name_term>emp</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.3837</score>
+</Term>
+<Term id="1078">
+<name_term>pastebin</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.3825</score>
+</Term>
+<Term id="1079">
+<name_term>hashmap code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.3627</score>
+</Term>
+<Term id="1080">
+<name_term>user code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.352</score>
+</Term>
+<Term id="1081">
+<name_term>doesnt</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.327</score>
+</Term>
+<Term id="1082">
+<name_term>exercise</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.3265</score>
+</Term>
+<Term id="1083">
+<name_term>primary key</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.321</score>
+</Term>
+<Term id="1084">
+<name_term>tail</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.3091</score>
+</Term>
+<Term id="1085">
+<name_term>stack overflow</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.3023</score>
+</Term>
+<Term id="1086">
+<name_term>men</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.2793</score>
+</Term>
+<Term id="1087">
+<name_term>parent class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.2711</score>
+</Term>
+<Term id="1088">
+<name_term>csv file</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.2544</score>
+</Term>
+<Term id="1089">
+<name_term>driver</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.2497</score>
+</Term>
+<Term id="1090">
+<name_term>delete</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.2257</score>
+</Term>
+<Term id="1091">
+<name_term>excel</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.2257</score>
+</Term>
+<Term id="1092">
+<name_term>mark</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.2257</score>
+</Term>
+<Term id="1093">
+<name_term>code foo</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.2255</score>
+</Term>
+<Term id="1094">
+<name_term>serialization</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.2139</score>
+</Term>
+<Term id="1095">
+<name_term>luck</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.2051</score>
+</Term>
+<Term id="1096">
+<name_term>retrieve</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.2051</score>
+</Term>
+<Term id="1097">
+<name_term>remove method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.2004</score>
+</Term>
+<Term id="1098">
+<name_term>hashset string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.1652</score>
+</Term>
+<Term id="1099">
+<name_term>waiting area</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.1523</score>
+</Term>
+<Term id="1100">
+<name_term>code concurrenthashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.1487</score>
+</Term>
+<Term id="1101">
+<name_term>returns</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.1256</score>
+</Term>
+<Term id="1102">
+<name_term>javax</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.1253</score>
+</Term>
+<Term id="1103">
+<name_term>code employee</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.1226</score>
+</Term>
+<Term id="1104">
+<name_term>rectangle</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.0863</score>
+</Term>
+<Term id="1105">
+<name_term>struts2</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.0863</score>
+</Term>
+<Term id="1106">
+<name_term>null pointer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.0697</score>
+</Term>
+<Term id="1107">
+<name_term>effective java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.0581</score>
+</Term>
+<Term id="1108">
+<name_term>ip</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.05</score>
+</Term>
+<Term id="1109">
+<name_term>jboss</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.05</score>
+</Term>
+<Term id="1110">
+<name_term>front</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.0426</score>
+</Term>
+<Term id="1111">
+<name_term>team</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.0423</score>
+</Term>
+<Term id="1112">
+<name_term>div</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.0341</score>
+</Term>
+<Term id="1113">
+<name_term>compare method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.0334</score>
+</Term>
+<Term id="1114">
+<name_term>identityhashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.0296</score>
+</Term>
+<Term id="1115">
+<name_term>percent</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.0296</score>
+</Term>
+<Term id="1116">
+<name_term>code collection code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.0241</score>
+</Term>
+<Term id="1117">
+<name_term>customcollectiontype</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.0146</score>
+</Term>
+<Term id="1118">
+<name_term>transsummarydatavo</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.0146</score>
+</Term>
+<Term id="1119">
+<name_term>concurrenthashmap code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.9891</score>
+</Term>
+<Term id="1120">
+<name_term>stock</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.9833</score>
+</Term>
+<Term id="1121">
+<name_term>cause</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.9801</score>
+</Term>
+<Term id="1122">
+<name_term>control</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.9801</score>
+</Term>
+<Term id="1123">
+<name_term>pass</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.9801</score>
+</Term>
+<Term id="1124">
+<name_term>testing</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.9801</score>
+</Term>
+<Term id="1125">
+<name_term>class object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.9792</score>
+</Term>
+<Term id="1126">
+<name_term>identity</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.9644</score>
+</Term>
+<Term id="1127">
+<name_term>bloch</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.9616</score>
+</Term>
+<Term id="1128">
+<name_term>demo</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.9616</score>
+</Term>
+<Term id="1129">
+<name_term>object type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.927</score>
+</Term>
+<Term id="1130">
+<name_term>checking</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.9204</score>
+</Term>
+<Term id="1131">
+<name_term>compression</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.9125</score>
+</Term>
+<Term id="1132">
+<name_term>instantiation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.891</score>
+</Term>
+<Term id="1133">
+<name_term>trick</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.891</score>
+</Term>
+<Term id="1134">
+<name_term>alphabetical order</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.882</score>
+</Term>
+<Term id="1135">
+<name_term>interview question</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.8683</score>
+</Term>
+<Term id="1136">
+<name_term>inventory</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.8631</score>
+</Term>
+<Term id="1137">
+<name_term>bigdecimal</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.8522</score>
+</Term>
+<Term id="1138">
+<name_term>l2</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.8522</score>
+</Term>
+<Term id="1139">
+<name_term>multimaps</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.8522</score>
+</Term>
+<Term id="1140">
+<name_term>outofmemoryerror</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.8489</score>
+</Term>
+<Term id="1141">
+<name_term>null key</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.8442</score>
+</Term>
+<Term id="1142">
+<name_term>mymap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.8406</score>
+</Term>
+<Term id="1143">
+<name_term>custom class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.8251</score>
+</Term>
+<Term id="1144">
+<name_term>sale</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.8218</score>
+</Term>
+<Term id="1145">
+<name_term>illegalargumentexception</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.8215</score>
+</Term>
+<Term id="1146">
+<name_term>increment</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.8215</score>
+</Term>
+<Term id="1147">
+<name_term>water</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.7923</score>
+</Term>
+<Term id="1148">
+<name_term>code car</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.7667</score>
+</Term>
+<Term id="1149">
+<name_term>code loop</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.7564</score>
+</Term>
+<Term id="1150">
+<name_term>ability</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.7556</score>
+</Term>
+<Term id="1151">
+<name_term>caller</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.7556</score>
+</Term>
+<Term id="1152">
+<name_term>period</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.7489</score>
+</Term>
+<Term id="1153">
+<name_term>red-black</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.7489</score>
+</Term>
+<Term id="1154">
+<name_term>v2</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.7489</score>
+</Term>
+<Term id="1155">
+<name_term>better</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.7459</score>
+</Term>
+<Term id="1156">
+<name_term>immutableset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.7149</score>
+</Term>
+<Term id="1157">
+<name_term>eclipselink</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.685</score>
+</Term>
+<Term id="1158">
+<name_term>for-loop</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.685</score>
+</Term>
+<Term id="1159">
+<name_term>holder</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.685</score>
+</Term>
+<Term id="1160">
+<name_term>visitor</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.685</score>
+</Term>
+<Term id="1161">
+<name_term>xxx</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.685</score>
+</Term>
+<Term id="1162">
+<name_term>allocation</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.6768</score>
+</Term>
+<Term id="1163">
+<name_term>paragraph</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.6768</score>
+</Term>
+<Term id="1164">
+<name_term>mysql</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.6473</score>
+</Term>
+<Term id="1165">
+<name_term>respect</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.6331</score>
+</Term>
+<Term id="1166">
+<name_term>java data</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.6208</score>
+</Term>
+<Term id="1167">
+<name_term>true code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.619</score>
+</Term>
+<Term id="1168">
+<name_term>compilation error</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.5867</score>
+</Term>
+<Term id="1169">
+<name_term>list implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.5867</score>
+</Term>
+<Term id="1170">
+<name_term>room</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.5842</score>
+</Term>
+<Term id="1171">
+<name_term>zip</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.5842</score>
+</Term>
+<Term id="1172">
+<name_term>keyset code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.5425</score>
+</Term>
+<Term id="1173">
+<name_term>multisets</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.5382</score>
+</Term>
+<Term id="1174">
+<name_term>user2</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.5382</score>
+</Term>
+<Term id="1175">
+<name_term>git</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.5323</score>
+</Term>
+<Term id="1176">
+<name_term>double code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.5277</score>
+</Term>
+<Term id="1177">
+<name_term>end index</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.5266</score>
+</Term>
+<Term id="1178">
+<name_term>chain</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.4672</score>
+</Term>
+<Term id="1179">
+<name_term>master</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.4672</score>
+</Term>
+<Term id="1180">
+<name_term>role</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.4672</score>
+</Term>
+<Term id="1181">
+<name_term>vertices</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4672</score>
+</Term>
+<Term id="1182">
+<name_term>display</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.466</score>
+</Term>
+<Term id="1183">
+<name_term>scope</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.466</score>
+</Term>
+<Term id="1184">
+<name_term>instances</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4655</score>
+</Term>
+<Term id="1185">
+<name_term>implementations</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.431</score>
+</Term>
+<Term id="1186">
+<name_term>false code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.428</score>
+</Term>
+<Term id="1187">
+<name_term>list iterator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4162</score>
+</Term>
+<Term id="1188">
+<name_term>cachebuilder</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4124</score>
+</Term>
+<Term id="1189">
+<name_term>fill</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.4124</score>
+</Term>
+<Term id="1190">
+<name_term>groovy</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4124</score>
+</Term>
+<Term id="1191">
+<name_term>hql</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4124</score>
+</Term>
+<Term id="1192">
+<name_term>ooooo thinker</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4112</score>
+</Term>
+<Term id="1193">
+<name_term>collect</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4031</score>
+</Term>
+<Term id="1194">
+<name_term>insight</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.4031</score>
+</Term>
+<Term id="1195">
+<name_term>dish</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.3995</score>
+</Term>
+<Term id="1196">
+<name_term>bound</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.3866</score>
+</Term>
+<Term id="1197">
+<name_term>getname</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.3866</score>
+</Term>
+<Term id="1198">
+<name_term>keyentity</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.385</score>
+</Term>
+<Term id="1199">
+<name_term>move</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.3615</score>
+</Term>
+<Term id="1200">
+<name_term>ref</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.3615</score>
+</Term>
+</Terms>

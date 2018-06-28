@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 public class PostLink implements Serializable {
-	private static final long serialVersionUID = 6721007321557363578L;
+	
 	private int id;
 	private Date date;
 	private int linkTypeId;

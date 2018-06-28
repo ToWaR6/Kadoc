@@ -15,6 +15,7 @@ import javafx.beans.property.StringProperty;
  *
  */
 public class Class {
+	
 	private StringProperty  name;
 	private ObjectProperty<ArrayList<String>> keywords;
 	private ObjectProperty<ArrayList<Question>> questions;
