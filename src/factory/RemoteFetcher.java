@@ -15,11 +15,11 @@ public class RemoteFetcher {
 	private Statement statement;
 	public RemoteFetcher() {
 		try {
-			Connection conn = DriverManager.getConnection("jdbc:mysql://localhost/db_stack?user=root&password=azertyuiop&useSSL=false&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC");
+			String password = "azertyuiop1";
+			Connection conn = DriverManager.getConnection("jdbc:mysql://localhost/db_stack?user=root&password="+password+"&useSSL=false&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC&allowPublicKeyRetrieval=true");
 			this.statement = conn.createStatement();
 		} catch (SQLException e) {
 			e.printStackTrace();
-			System.err.println("Try install Sql Connector");
 		}
 	}
 		

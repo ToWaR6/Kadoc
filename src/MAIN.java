@@ -6,8 +6,6 @@ import java.io.ObjectOutputStream;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
-
 import javax.xml.parsers.ParserConfigurationException;
 
 import org.graphstream.algorithm.ConnectedComponents;
@@ -15,6 +13,7 @@ import org.graphstream.graph.Node;
 import org.graphstream.graph.implementations.SingleGraph;
 import org.xml.sax.SAXException;
 
+import factory.QuestionFactory;
 import model.Question;
 
 
@@ -114,39 +113,13 @@ public class MAIN {
 		int minKeyword = 5;
 				
 		
-		//QuestionFactory qf = new QuestionFactory();
-		/*
-		System.out.print("Users : ");
-		HashMap<Integer, User> users = qf.setUsers();
-		System.out.println(users.size());
+		QuestionFactory qf = new QuestionFactory();
 		
-		System.out.print("Comments : ");	
-		ArrayList<Comment> comments = qf.setComment();
-		System.out.println(comments.size());
-		
-		System.out.print("Answers : ");	
-		HashMap<Integer, Answer> answers = qf.setAnswers(users, comments);		
-		System.out.println(answers.size());
-		
-		System.out.print("Questions : ");
-		HashMap<Integer, Question> questions = qf.setQuestions(users, comments, answers);
-		System.out.println(questions.size());
-		
-		comments = null;
-		
-//		System.out.print("Votes : ");	
-//		ArrayList<Vote> votes = qf.setVotes(users, answers, questions);
-//		System.out.println(votes.size());
-		
-		answers = null;
-		users = null;
-		
-//		System.out.print("PostLinks : ");	
-//		ArrayList<PostLink> postLinks = qf.setPostLinks(questions);
-//		System.out.println(postLinks.size());
-		
-		saveObjectToFile("Questions.ser", questions);
-		*/
+//		System.out.print("Questions : ");
+//		HashMap<Integer, Question> questions1 = qf.getAllSqlQuestions();
+//		System.out.println(questions1.size());
+//		saveObjectToFile("Questions.ser", questions1);
+
 		
 		//---------------------------------GET QUESTIONS---------------------------------
 		HashMap<Integer, Question> questions = (HashMap<Integer, Question>) loadObjectFromFile("Questions.ser");
@@ -209,14 +182,13 @@ public class MAIN {
 		}
 		
 		int cpt = 0;
-		int nbATraite = 100;
-//		int nbATraite = questionsKeywords.size();
+		int nbATraite = questionsKeywords.size();
 		int onePercent = nbATraite/100;
 		for (int id : questionsKeywords.keySet()) {
 			if (cpt%onePercent==0) {
 				System.out.print(cpt/onePercent+"%\r");
 			}
-			int idMostSimilar = getMostSimilarQuestion(id, questionsKeywords, Double.MAX_VALUE);
+			int idMostSimilar = getMostSimilarQuestion(id, questionsKeywords, 1);
 			if (idMostSimilar != -1) {
 				graph.addEdge(id+"."+idMostSimilar, Integer.toString(id), Integer.toString(idMostSimilar), true);
 				
@@ -226,31 +198,17 @@ public class MAIN {
 				break;
 			}
 		}
-		ArrayList<Node>nodes = (ArrayList<Node>) graph.getNodeSet();
-		System.out.println(nodes.size());
-		int index=0;
-		int indexLoupe = 0;
-		Iterator<Node> collect = graph.iterator();
-		Node n;
-		while (collect.hasNext()) {
-			indexLoupe++;
-			n = collect.next();
-			System.out.println("deg " + n.getDegree());
-			if (n.getDegree() == 0) {
-				index++;
-				//graph.removeNode(n);
-				System.out.println(graph.getNodeCount());
-			}			
+		for (int id : questionsKeywords.keySet()) {
+			Node n = graph.getNode(Integer.toString(id));
+			if(n.getDegree()==0)
+				graph.removeNode(n.getIndex());
 		}
-		System.out.println(index);
-		System.out.println(indexLoupe);
-
 		
 		ConnectedComponents cc = new ConnectedComponents();
 		cc.init(graph);
 		System.out.println(cc.getConnectedComponentsCount() + " composante(s) connexe(s) | C:"+cc.getGiantComponent().size());
 		
-		//graph.display();
+		graph.display();
 		
 		System.err.println("Graph Process : "+(float)(System.nanoTime() - time)/1000000000+" secondes");
 		time = System.nanoTime();
