@@ -13,6 +13,7 @@ import org.graphstream.graph.Node;
 import org.graphstream.graph.implementations.SingleGraph;
 import org.xml.sax.SAXException;
 
+import Classification.*;
 import factory.QuestionFactory;
 import model.Question;
 
@@ -71,38 +72,6 @@ public class MAIN {
 		return o;
 	}	
 	
-	public static int getMostSimilarQuestion(int idBaseQuestion, HashMap<Integer, ArrayList<String>> questionsKeywords, double percent) {
-		ArrayList<String> baseKeywords = questionsKeywords.get(idBaseQuestion);
-		double scoreMax = Double.MIN_VALUE;
-		int id = -1;
-		double scoreTmp;
-		for (int idQuestion : questionsKeywords.keySet()) {
-			if (idBaseQuestion != idQuestion) {
-				scoreTmp = getSimilarityScore(baseKeywords, questionsKeywords.get(idQuestion));
-				if (scoreTmp == 1) {
-					return idQuestion;
-				} else if (scoreTmp > scoreMax) {
-					id = idQuestion;
-					scoreMax = scoreTmp;
-				}
-			}
-		}
-		if (scoreMax >= percent) {
-			return id;
-		} else {
-			return -1;
-		}
-	}
-	
-	public static double getSimilarityScore(ArrayList<String> list1, ArrayList<String> list2) {
-		double score = 0;
-		for (String word : list1) {
-			if (list2.contains(word)) {
-				score++;
-			}
-		}
-		return score / Integer.max(list1.size(), list2.size());
-	}
 
 	public static void main(String[] args) throws SQLException, IOException, ClassNotFoundException, ParserConfigurationException, SAXException {
 		
@@ -180,15 +149,18 @@ public class MAIN {
 		for (int id : questionsKeywords.keySet()) {
 			graph.addNode(Integer.toString(id));
 		}
-		
+		double rate = 0.6;
+		SimilarityMeasure<ArrayList<String>> similarityMeasure = new TrivialSimiliratyMeasure(questionsKeywords, rate);
 		int cpt = 0;
 		int nbATraite = questionsKeywords.size();
 		int onePercent = nbATraite/100;
+		Question question;
 		for (int id : questionsKeywords.keySet()) {
+			question = questions.get(id);
 			if (cpt%onePercent==0) {
-				System.out.print(cpt/onePercent+"%\r");
+				System.out.print(cpt/onePercent+"% \r");
 			}
-			int idMostSimilar = getMostSimilarQuestion(id, questionsKeywords, 1);
+			int idMostSimilar = similarityMeasure.getMostSimilarQuestion(question);
 			if (idMostSimilar != -1) {
 				graph.addEdge(id+"."+idMostSimilar, Integer.toString(id), Integer.toString(idMostSimilar), true);
 				
