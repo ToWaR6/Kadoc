@@ -1,3 +1,4 @@
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -10,7 +11,9 @@ import javax.xml.parsers.ParserConfigurationException;
 
 import org.graphstream.algorithm.ConnectedComponents;
 import org.graphstream.graph.Node;
+import org.graphstream.graph.implementations.MultiGraph;
 import org.graphstream.graph.implementations.SingleGraph;
+import org.graphstream.stream.file.FileSinkDOT;
 import org.xml.sax.SAXException;
 
 import Classification.*;
@@ -56,22 +59,7 @@ public class MAIN {
 		}
 		return listKeyword;
 	}
-	
-	public static void saveObjectToFile(String nameFile, Object object) throws IOException {
-		FileOutputStream fos = new FileOutputStream(nameFile);
-		ObjectOutputStream oos = new ObjectOutputStream(fos);
-		oos.writeObject(object);
-		oos.close();
-	}
-	
-	public static Object loadObjectFromFile(String nameFile) throws ClassNotFoundException, IOException {
-		FileInputStream fis = new FileInputStream(nameFile);
-		ObjectInputStream ois = new ObjectInputStream(fis);
-		Object o = ois.readObject();
-		ois.close();
-		return o;
-	}	
-	
+		
 
 	public static void main(String[] args) throws SQLException, IOException, ClassNotFoundException, ParserConfigurationException, SAXException {
 		
@@ -80,23 +68,9 @@ public class MAIN {
 		long time = startTime;
 		
 		int minKeyword = 5;
-				
 		
-		QuestionFactory qf = new QuestionFactory();
-		
-//		System.out.print("Questions : ");
-//		HashMap<Integer, Question> questions1 = qf.getAllSqlQuestions();
-//		System.out.println(questions1.size());
-//		saveObjectToFile("Questions.ser", questions1);
-
 		
 		//---------------------------------GET QUESTIONS---------------------------------
-		HashMap<Integer, Question> questions = (HashMap<Integer, Question>) loadObjectFromFile("Questions.ser");
-		System.err.println("Get questions : "+(float)(System.nanoTime() - time)/1000000000+" secondes");
-		time = System.nanoTime();
-				
-//		HashMap<Integer, ArrayList<String>> questionsKeyword = new HashMap<Integer, ArrayList<String>>(); 
-		
 		//---------------------------------GET TF-IDF (XML)---------------------------------
 //		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 //		DocumentBuilder builder = factory.newDocumentBuilder();
@@ -134,48 +108,20 @@ public class MAIN {
 //			}
 //		}
 		
-		//---------------------------------SAVE INTO FILE---------------------------------
-//		saveObjectToFile("questionsKeywords_pre.ser", tmpSer);
-		
-		//---------------------------------GET QUESTIONS KEYWORDS---------------------------------
-		HashMap<Integer, ArrayList<String>> questionsKeywords = (HashMap<Integer, ArrayList<String>>) loadObjectFromFile("questionsKeywords_pre.ser");
-		System.err.println("Get questionKeyword : "+(float)(System.nanoTime() - time)/1000000000+" secondes");
-		time = System.nanoTime();
 		
 		//---------------------------------PROCESS CLASSES---------------------------------
 		
-		SingleGraph graph = new SingleGraph("Graphes des questions transformées en liste de keywords");
-		
-		for (int id : questionsKeywords.keySet()) {
-			graph.addNode(Integer.toString(id));
-		}
-		double rate = 0.6;
-		SimilarityMeasure<ArrayList<String>> similarityMeasure = new TrivialSimiliratyMeasure(questionsKeywords, rate);
-		int cpt = 0;
-		int nbATraite = questionsKeywords.size();
-		int onePercent = nbATraite/100;
-		Question question;
-		for (int id : questionsKeywords.keySet()) {
-			question = questions.get(id);
-			if (cpt%onePercent==0) {
-				System.out.print(cpt/onePercent+"% \r");
-			}
-			int idMostSimilar = similarityMeasure.getMostSimilarQuestion(question);
-			if (idMostSimilar != -1) {
-				graph.addEdge(id+"."+idMostSimilar, Integer.toString(id), Integer.toString(idMostSimilar), true);
+		MultiGraph graph = new MultiGraph("graph");
+		String filePath = "graph"+File.separator+"graph-60.dgs";
+		GraphGenerator<MultiGraph> graphGenerator = new GraphGenerator<MultiGraph>(0.6,graph);
 				
-			}
-			cpt++;
-			if (cpt >= nbATraite) {
-				break;
-			}
-		}
-		for (int id : questionsKeywords.keySet()) {
-			Node n = graph.getNode(Integer.toString(id));
-			if(n.getDegree()==0)
-				graph.removeNode(n.getIndex());
-		}
+		graph = graphGenerator.initializeWithSer("questions.ser", "questionsKeywords.ser")
+				.generateGraph(true)
+				.deleteLonelyNode()
+				.getGraph();
+		graph.write(filePath);
 		
+
 		ConnectedComponents cc = new ConnectedComponents();
 		cc.init(graph);
 		System.out.println(cc.getConnectedComponentsCount() + " composante(s) connexe(s) | C:"+cc.getGiantComponent().size());
