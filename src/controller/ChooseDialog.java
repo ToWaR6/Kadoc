@@ -9,7 +9,6 @@ import javafx.scene.image.Image;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
-import javafx.stage.StageStyle;
 import model.Class;
 import model.Question;
 /**
@@ -19,8 +18,6 @@ import model.Question;
  */
 public class ChooseDialog implements Runnable{
 	private MainApp mainApp;
-	private Class aClass;
-	private Question question;
 	private CountDownLatch countDownLatch;
 	
 	/**
@@ -32,8 +29,6 @@ public class ChooseDialog implements Runnable{
 	public ChooseDialog(MainApp mainApp,Class aClass,Question question)
 	{
 		this.mainApp = mainApp;
-		this.aClass = aClass;
-		this.question = question;
 	}
 	
 	/**

@@ -17,16 +17,51 @@ public class PostLinksFactory {
 	public ArrayList<PostLink> getAllPostLinks(HashMap<Integer, Question> questions) throws SQLException {
 		ArrayList<PostLink> postLinks = new ArrayList<PostLink>();
 		ResultSet resultSet = remoteFetcher.fetchAllPostLinks();
-		PostLink postlink;
+		PostLink postLink;
 		while (resultSet.next()) { 
-			postlink = new PostLink(
+			postLink = new PostLink(
 				resultSet.getInt("Id"), 
 				resultSet.getDate("CreationDate"), 
 				resultSet.getInt("LinkTypeId"), 
 				questions.get(resultSet.getInt("PostId")), 
 				questions.get(resultSet.getInt("RelatedPostId"))
 				);
-			postLinks.add(postlink);
+			postLinks.add(postLink);
+		}
+		return postLinks;
+	}
+	/**
+	 * Call {@link #getPostLinks(String) getPostLinks} with a the default table parameter
+	 * @return an arrayList of PostLink
+	 * @throws SQLException 
+	 */
+	public ArrayList<PostLink> getPostLinks() throws SQLException{
+		return getPostLinks("Postlinks");
+	}
+	/**
+	 * This function will create the postLink with dummy Question
+	 * @param view
+	 * @return
+	 * @throws SQLException
+	 */
+	public ArrayList<PostLink> getPostLinks(String view) throws SQLException{
+		ArrayList<PostLink> postLinks = new ArrayList<PostLink>();
+		ResultSet resultSet = remoteFetcher.fetchPostLinksFromTable(view);
+		PostLink postLink;
+		Question post,relatedPost;
+		while(resultSet.next()) {
+			post = new Question();
+			relatedPost = new Question();
+			post.setId(resultSet.getInt("PostId"));
+			relatedPost.setId(resultSet.getInt("RelatedPostId"));
+			postLink = new PostLink(
+					resultSet.getInt("Id"), 
+					resultSet.getDate("CreationDate"), 
+					resultSet.getInt("LinkTypeId"),
+					post, 
+					relatedPost
+			);
+			postLinks.add(postLink);
 		}
 		return postLinks;
 	}

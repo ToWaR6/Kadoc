@@ -1,8 +1,5 @@
 package classification;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-
 import model.Question;
 
 public interface SimilarityMeasure<T> {

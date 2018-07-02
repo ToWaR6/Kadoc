@@ -73,4 +73,10 @@ public class RemoteFetcher {
 				"From PostLinks"
 				);
 	}
+
+	public ResultSet fetchPostLinksFromTable(String view) throws SQLException {
+		return this.statement.executeQuery(
+				"Select *" + 
+				"From " + view );
+	}
 }
