@@ -6,44 +6,26 @@ import java.io.ObjectOutputStream;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
+
 import javax.xml.parsers.ParserConfigurationException;
 
 import org.graphstream.algorithm.ConnectedComponents;
+import org.graphstream.algorithm.ConnectedComponents.ConnectedComponent;
+import org.graphstream.graph.Edge;
+import org.graphstream.graph.ElementNotFoundException;
 import org.graphstream.graph.Node;
 import org.graphstream.graph.implementations.SingleGraph;
+import org.graphstream.stream.GraphParseException;
 import org.xml.sax.SAXException;
 
-import Classification.*;
+import classification.SimilarityMeasure;
+import classification.TrivialSimiliratyMeasure;
 import factory.QuestionFactory;
 import model.Question;
 
 
 public class MAIN {
-	
-	private static class TfIdf {
-		private String term;
-		private double score;
-		public TfIdf(String term, double score) {
-			super();
-			this.term = term;
-			this.score = score;
-		}
-		public String getTerm() {
-			return term;
-		}
-		public void setTerm(String term) {
-			this.term = term;
-		}
-		public double getScore() {
-			return score;
-		}
-		public void setScore(double score) {
-			this.score = score;
-		}
-		public String toString() {
-			return this.term+" | "+this.score;
-		}
-	}
 	
 	public static ArrayList<String> extractKeyword(String[] keywords, String text) {
 		ArrayList<String> listKeyword = new ArrayList<String>();
@@ -72,14 +54,46 @@ public class MAIN {
 		return o;
 	}	
 	
+	public static void connectedComponentSize(SingleGraph graph) {
+		int cpt;
+		ConnectedComponents ccs = new ConnectedComponents();
+		ccs.init(graph);
+		ccs.setCountAttribute("idComponent");
+		System.out.println(ccs.getConnectedComponentsCount() + " composante(s) connexe(s) | C:"+ccs.getGiantComponent().size());
 
-	public static void main(String[] args) throws SQLException, IOException, ClassNotFoundException, ParserConfigurationException, SAXException {
+		int[] kkKount = new int[ccs.getGiantComponent().size()]; 
+		Iterator<ConnectedComponents.ConnectedComponent> it = ccs.iterator();
+		while (it.hasNext()) {
+			ConnectedComponents.ConnectedComponent cc = it.next();
+			Iterator<Node> itNode = cc.iterator();
+			cpt = 0;
+			while (itNode.hasNext()) {
+				itNode.next();
+				cpt++;
+			}
+			if (cpt != 0) {
+				kkKount[cpt-1]++;
+			}
+		}
+		
+		cpt = 0;
+		for (int i = 0; i < kkKount.length; i++) {
+			if (kkKount[i] != 0) {
+				cpt += kkKount[i]*(i+1);
+				System.out.println("Il y a "+kkKount[i]+" composante(s) connexe(s) de taille "+ (i+1));
+			}
+		}
+		System.out.println("J'ai calculé et il y a "+cpt+" node(s)");
+	}
+
+	public static void main(String[] args) throws SQLException, IOException, ClassNotFoundException, ParserConfigurationException, SAXException, ElementNotFoundException, GraphParseException {
 		
 		System.out.println("Begin");
 		long startTime = System.nanoTime();
 		long time = startTime;
 		
 		int minKeyword = 5;
+		double rate = 0.6;
 				
 		
 		QuestionFactory qf = new QuestionFactory();
@@ -107,12 +121,9 @@ public class MAIN {
 		
 		//---------------------------------GET KEYWORDS---------------------------------
 //		NodeList nodeListTerm = doc.getElementsByTagName("name_term");
-//		NodeList nodeListScore = doc.getElementsByTagName("score");
 //		String[] keywords = new String[nodeListTerm.getLength()];
-//		TfIdf[] terms = new TfIdf[nodeListTerm.getLength()];
 //		for (int i=0; i < nodeListTerm.getLength(); i++) {
 //			keywords[i] = nodeListTerm.item(i).getTextContent();
-//			terms[i] = new TfIdf(nodeListTerm.item(i).getTextContent(), Double.parseDouble(nodeListScore.item(i).getTextContent()));
 //		}
 //		System.err.println("Keyword gen : "+(float)(System.nanoTime() - time)/1000000000+" secondes");
 //		time = System.nanoTime();
@@ -141,46 +152,74 @@ public class MAIN {
 		HashMap<Integer, ArrayList<String>> questionsKeywords = (HashMap<Integer, ArrayList<String>>) loadObjectFromFile("questionsKeywords_pre.ser");
 		System.err.println("Get questionKeyword : "+(float)(System.nanoTime() - time)/1000000000+" secondes");
 		time = System.nanoTime();
-		
-		//---------------------------------PROCESS CLASSES---------------------------------
-		
+//		
+//		//---------------------------------PROCESS CLASSES---------------------------------
+//		
 		SingleGraph graph = new SingleGraph("Graphes des questions transformées en liste de keywords");
-		
-		for (int id : questionsKeywords.keySet()) {
-			graph.addNode(Integer.toString(id));
-		}
-		double rate = 0.6;
+		graph.read("graph-0.6.dgs");
+//		
+//		for (int id : questionsKeywords.keySet()) {
+//			graph.addNode(Integer.toString(id));
+//		}
+//
 		SimilarityMeasure<ArrayList<String>> similarityMeasure = new TrivialSimiliratyMeasure(questionsKeywords, rate);
 		int cpt = 0;
-		int nbATraite = questionsKeywords.size();
-		int onePercent = nbATraite/100;
-		Question question;
-		for (int id : questionsKeywords.keySet()) {
-			question = questions.get(id);
-			if (cpt%onePercent==0) {
-				System.out.print(cpt/onePercent+"% \r");
+//		int nbATraite = 1000;
+//		int onePercent = nbATraite/100;
+//		Question question;
+//		for (int id : questionsKeywords.keySet()) {
+//			question = questions.get(id);
+//			if (cpt%onePercent==0) {
+//				System.out.print(cpt/onePercent+"% \r");
+//			}
+//			int idMostSimilar = similarityMeasure.getMostSimilarQuestion(question);
+//			if (idMostSimilar != -1) {
+//				graph.addEdge(id+"."+idMostSimilar, Integer.toString(id), Integer.toString(idMostSimilar), true);
+//				
+//			}
+//			cpt++;
+//			if (cpt >= nbATraite) {
+//				break;
+//			}
+//		}
+//		for (int id : questionsKeywords.keySet()) {
+//			Node n = graph.getNode(Integer.toString(id));
+//			if(n.getDegree()==0)
+//				graph.removeNode(n.getIndex());
+//		}
+		
+		connectedComponentSize(graph);
+
+		
+		ConnectedComponents ccs = new ConnectedComponents();
+		ccs.init(graph);
+		ccs.setCountAttribute("idComponent");
+		System.out.println(ccs.getConnectedComponentsCount() + " composante(s) connexe(s) | C:"+ccs.getGiantComponent().size());
+
+		int[] kkKount = new int[ccs.getGiantComponent().size()]; 
+		Iterator<ConnectedComponents.ConnectedComponent> it = ccs.iterator();
+		cpt = 0;
+		while (it.hasNext()) {
+			boolean similar = true;
+			ConnectedComponents.ConnectedComponent cc = it.next();
+			Iterator<Node> itNode = cc.iterator();
+			while (itNode.hasNext() && similar) {
+				Node n1 = itNode.next();
+				Iterator<Node> itNode2 = cc.iterator();
+				while (itNode2.hasNext() && similar) {
+					Node n2 = itNode2.next();
+					if (similarityMeasure.getSimiliratyMeasure(questionsKeywords.get(Integer.parseInt(n1.getId())), questionsKeywords.get(Integer.parseInt(n2.getId()))) != -1) {
+						similar = false;
+					}
+				}
 			}
-			int idMostSimilar = similarityMeasure.getMostSimilarQuestion(question);
-			if (idMostSimilar != -1) {
-				graph.addEdge(id+"."+idMostSimilar, Integer.toString(id), Integer.toString(idMostSimilar), true);
-				
-			}
-			cpt++;
-			if (cpt >= nbATraite) {
-				break;
+			if (similar) {
+				cpt++;
 			}
 		}
-		for (int id : questionsKeywords.keySet()) {
-			Node n = graph.getNode(Integer.toString(id));
-			if(n.getDegree()==0)
-				graph.removeNode(n.getIndex());
-		}
 		
-		ConnectedComponents cc = new ConnectedComponents();
-		cc.init(graph);
-		System.out.println(cc.getConnectedComponentsCount() + " composante(s) connexe(s) | C:"+cc.getGiantComponent().size());
-		
-		graph.display();
+		System.out.println("\n\nIl y a "+cpt+" composante(s) qui passe le deuxième test donc c'est bon vous pouvez rentrer chez vous ;)");
+		//graph.display();
 		
 		System.err.println("Graph Process : "+(float)(System.nanoTime() - time)/1000000000+" secondes");
 		time = System.nanoTime();
