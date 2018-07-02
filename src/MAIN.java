@@ -1,3 +1,4 @@
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -15,10 +16,11 @@ import org.graphstream.algorithm.ConnectedComponents.ConnectedComponent;
 import org.graphstream.graph.Edge;
 import org.graphstream.graph.ElementNotFoundException;
 import org.graphstream.graph.Node;
+import org.graphstream.graph.implementations.MultiGraph;
 import org.graphstream.graph.implementations.SingleGraph;
-import org.graphstream.stream.GraphParseException;
 import org.xml.sax.SAXException;
 
+import classification.GraphGenerator;
 import classification.SimilarityMeasure;
 import classification.TrivialSimiliratyMeasure;
 import factory.QuestionFactory;
@@ -93,24 +95,9 @@ public class MAIN {
 		long time = startTime;
 		
 		int minKeyword = 5;
-		double rate = 0.6;
-				
-		
-		QuestionFactory qf = new QuestionFactory();
-		
-//		System.out.print("Questions : ");
-//		HashMap<Integer, Question> questions1 = qf.getAllSqlQuestions();
-//		System.out.println(questions1.size());
-//		saveObjectToFile("Questions.ser", questions1);
-
+		double rate = 0.6;		
 		
 		//---------------------------------GET QUESTIONS---------------------------------
-		HashMap<Integer, Question> questions = (HashMap<Integer, Question>) loadObjectFromFile("Questions.ser");
-		System.err.println("Get questions : "+(float)(System.nanoTime() - time)/1000000000+" secondes");
-		time = System.nanoTime();
-				
-//		HashMap<Integer, ArrayList<String>> questionsKeyword = new HashMap<Integer, ArrayList<String>>(); 
-		
 		//---------------------------------GET TF-IDF (XML)---------------------------------
 //		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 //		DocumentBuilder builder = factory.newDocumentBuilder();
@@ -144,7 +131,6 @@ public class MAIN {
 //				tmpSer.put(id, questionsKeyword.get(id));
 //			}
 //		}
-		
 		//---------------------------------SAVE INTO FILE---------------------------------
 //		saveObjectToFile("questionsKeywords_pre.ser", tmpSer);
 		
@@ -218,6 +204,7 @@ public class MAIN {
 			}
 		}
 		
+		//---------------------------------PROCESS CLASSES---------------------------------
 		System.out.println("\n\nIl y a "+cpt+" composante(s) qui passe le deuxième test donc c'est bon vous pouvez rentrer chez vous ;)");
 		//graph.display();
 		
