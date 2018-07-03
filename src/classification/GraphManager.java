@@ -20,15 +20,13 @@ import model.Question;
  *
  * @param <T> the type of graph
  */
-public class GraphGenerator<T extends Graph> {
+public class GraphManager<T extends Graph> {
 	private double rate;
 	private HashMap<Integer, ArrayList<String>> questionsKeywords;
 	private HashMap<Integer, Question> questions;
-	private T graph;
 	
-	public GraphGenerator(double rate,T graph) {
+	public GraphManager(double rate,T graph) {
 		this.rate = rate;
-		this.graph = graph;
 		this.questionsKeywords = new HashMap<Integer, ArrayList<String>>();
 		this.questions = new HashMap<Integer, Question>();
 	}
@@ -37,7 +35,7 @@ public class GraphGenerator<T extends Graph> {
 	 * @param save
 	 * @return
 	 */
-	public GraphGenerator<T> initializeWithSQL(String keywordsFilepath,boolean save) {
+	public GraphManager<T> initializeWithSQL(String keywordsFilepath,boolean save) {
 		QuestionFactory questionFactory = new QuestionFactory();
 		questions  = questionFactory.getAllSqlQuestions();
 		initKeywords(keywordsFilepath);
@@ -52,17 +50,17 @@ public class GraphGenerator<T extends Graph> {
 	 * @param keywordsFilePath
 	 * @return
 	 */
-	public GraphGenerator<T> initializeWithSer(String questionsFilePath,String keywordsFilepath) {
+	public GraphManager<T> initializeWithSer(String questionsFilePath,String keywordsFilepath) {
 		QuestionFactory questionFactory = new QuestionFactory();
 		questions = questionFactory.getAllSerializedQuestions(questionsFilePath);
 		initKeywords(keywordsFilepath);
 		return this;
 	}
 	
-	public GraphGenerator<T> generateGraph(){
-		return generateGraph(false);
+	public GraphManager<T> generateGraph(T graph){
+		return generateGraph(graph,false);
 	}
-	public GraphGenerator<T> generateGraph(boolean displayProgress) {
+	public GraphManager<T> generateGraph(T graph,boolean displayProgress) {
 		SimilarityMeasure<ArrayList<String>> similarityMeasure = new TrivialSimiliratyMeasure(questionsKeywords, rate);
 		Question question;
 		for(int id : questionsKeywords.keySet()) {
@@ -83,7 +81,7 @@ public class GraphGenerator<T extends Graph> {
 		return this;
 	}
 	
-	public GraphGenerator<T> deleteLonelyNode(){
+	public GraphManager<T> deleteLonelyNode(T graph){
 		for (int id : questionsKeywords.keySet()) {
 			Node n = graph.getNode(Integer.toString(id));
 			if(n.getDegree()==0)
@@ -91,11 +89,15 @@ public class GraphGenerator<T extends Graph> {
 		}
 		return this;
 	}
-	
-	public T getGraph() {
-		return graph;
+	/**
+	 * This function return percentage of node in the same class of the model
+	 * @param modelGraph
+	 * @param testedGraph
+	 * @return
+	 */
+	public static <T extends Graph> double checkSimilarity(T modelGraph, T testedGraph) {
+		return 0.0;
 	}
-	
 	@SuppressWarnings("unchecked")
 	private void initKeywords(String keywordsFilepath) {
 		FileInputStream fileInputStream;

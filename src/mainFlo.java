@@ -7,6 +7,7 @@ import org.graphstream.graph.Graph;
 import org.graphstream.graph.implementations.MultiGraph;
 import org.graphstream.stream.GraphParseException;
 
+import classification.GraphManager;
 import factory.PostLinksFactory;
 import model.PostLink;
 
@@ -45,6 +46,6 @@ public class mainFlo {
 		System.out.println("#Node : "+ postLinkGraph.getNodeCount()+"\t|\t "+graph.getNodeCount());
 		System.out.println("#Edge : "+ postLinkGraph.getEdgeCount()+"\t|\t "+graph.getEdgeCount());
 		System.out.println("==================================");
-		graph.display();
+		System.out.println(GraphManager.checkSimilarity(postLinkGraph, graph));
 	}
 }
