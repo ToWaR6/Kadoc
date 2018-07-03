@@ -3,7 +3,6 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 import org.graphstream.graph.ElementNotFoundException;
-import org.graphstream.graph.Graph;
 import org.graphstream.graph.implementations.MultiGraph;
 import org.graphstream.stream.GraphParseException;
 
@@ -29,7 +28,7 @@ public class mainFlo {
 			e.printStackTrace();
 		}
 		
-		Graph postLinkGraph = new MultiGraph("PostLink");
+		MultiGraph postLinkGraph = new MultiGraph("PostLink");
 		postLinkGraph.setAutoCreate(true);
 		postLinkGraph.setStrict(false);
 		int questionId,linkedQuestionId;

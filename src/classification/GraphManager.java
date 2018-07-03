@@ -7,7 +7,10 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
 
+import org.graphstream.algorithm.ConnectedComponents;
+import org.graphstream.algorithm.ConnectedComponents.ConnectedComponent;
 import org.graphstream.graph.Graph;
 import org.graphstream.graph.Node;
 
@@ -63,9 +66,8 @@ public class GraphManager<T extends Graph> {
 	public GraphManager<T> generateGraph(T graph,boolean displayProgress) {
 		SimilarityMeasure<ArrayList<String>> similarityMeasure = new TrivialSimiliratyMeasure(questionsKeywords, rate);
 		Question question;
-		for(int id : questionsKeywords.keySet()) {
-			graph.addNode(Integer.toString(id));
-		}
+		graph.setStrict(false);
+		graph.setAutoCreate(true);
 		int cpt = 0;
 		int nbATraite = questionsKeywords.size();
 		int onePercent = nbATraite/100;
@@ -96,7 +98,38 @@ public class GraphManager<T extends Graph> {
 	 * @return
 	 */
 	public static <T extends Graph> double checkSimilarity(T modelGraph, T testedGraph) {
-		return 0.0;
+		String countAttribute = "idComposante";
+		ConnectedComponents connectedComponentsModelGraph = 
+				new ConnectedComponents(modelGraph);
+		connectedComponentsModelGraph.compute();
+		connectedComponentsModelGraph.setCountAttribute(countAttribute);
+		
+		ConnectedComponents connectedComponentsTestedGraph =
+				new ConnectedComponents(testedGraph);
+		connectedComponentsTestedGraph.compute();
+		connectedComponentsTestedGraph.setCountAttribute(countAttribute);
+		
+		Iterator<ConnectedComponent> iteratorConnectedComponent = 
+				connectedComponentsModelGraph.iterator();
+		ConnectedComponent connectedComponent;
+		Node node0Tested,node1Tested;
+		double goodComponent = 0D;
+		while(iteratorConnectedComponent.hasNext()) {
+			connectedComponent = iteratorConnectedComponent.next();
+			for(Node node0 : connectedComponent.getEachNode()) {
+				node0Tested = testedGraph.getNode(node0.toString());
+				if(node0Tested != null) {
+					for(Node node1 : connectedComponent.getEachNode()) {
+						node1Tested = testedGraph.getNode(node1.toString());
+						if(node1Tested != null) 
+							if (node0Tested.getAttribute(countAttribute) == node1Tested.getAttribute(countAttribute))
+								goodComponent+=1D;						
+						}
+					}
+			}
+		}
+		System.out.println(goodComponent);
+		return (double)goodComponent/modelGraph.getNodeCount();
 	}
 	@SuppressWarnings("unchecked")
 	private void initKeywords(String keywordsFilepath) {
