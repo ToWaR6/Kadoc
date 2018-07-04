@@ -7,12 +7,14 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 
 import org.graphstream.algorithm.ConnectedComponents;
 import org.graphstream.algorithm.ConnectedComponents.ConnectedComponent;
 import org.graphstream.graph.Graph;
 import org.graphstream.graph.Node;
+import org.graphstream.graph.implementations.SingleGraph;
 
 import factory.QuestionFactory;
 import model.Question;
@@ -92,12 +94,15 @@ public class GraphManager<T extends Graph> {
 		return this;
 	}
 	/**
-	 * This function return percentage of node in the same class of the model
+	 * This function returns the graph where the component are similar
+	 * It loops through all the pair of node in a component of the model 
+	 * and try to find if two nodes are in the same component in the tested graph 
+	 * If these two are in the same component then an edge is created
 	 * @param modelGraph
 	 * @param testedGraph
 	 * @return
 	 */
-	public static <T extends Graph> double checkSimilarity(T modelGraph, T testedGraph) {
+	public static <T extends Graph> Graph getSimilarComponent(T modelGraph, T testedGraph) {
 		String countAttribute = "idComposante";
 		ConnectedComponents connectedComponentsModelGraph = 
 				new ConnectedComponents(modelGraph);
@@ -112,8 +117,11 @@ public class GraphManager<T extends Graph> {
 		Iterator<ConnectedComponent> iteratorConnectedComponent = 
 				connectedComponentsModelGraph.iterator();
 		ConnectedComponent connectedComponent;
-		Node node0Tested,node1Tested;
-		double goodComponent = 0D;
+		Node node0Tested,node1Tested = null;
+		
+		Graph graphOfGoodComponents = new SingleGraph("Good component");
+		graphOfGoodComponents.setStrict(false);
+		graphOfGoodComponents.setAutoCreate(true);
 		while(iteratorConnectedComponent.hasNext()) {
 			connectedComponent = iteratorConnectedComponent.next();
 			for(Node node0 : connectedComponent.getEachNode()) {
@@ -121,16 +129,69 @@ public class GraphManager<T extends Graph> {
 				if(node0Tested != null) {
 					for(Node node1 : connectedComponent.getEachNode()) {
 						node1Tested = testedGraph.getNode(node1.toString());
-						if(node1Tested != null) 
-							if (node0Tested.getAttribute(countAttribute) == node1Tested.getAttribute(countAttribute))
-								goodComponent+=1D;						
+						if(node1Tested != null && !node1Tested.getId().equals(node0Tested.getId())
+								&& node1Tested.getIndex() > node0Tested.getIndex()) { 
+							if (node0Tested.getAttribute(countAttribute) == node1Tested.getAttribute(countAttribute)) {
+								graphOfGoodComponents.addEdge(
+										node0Tested.getId()+","+node1Tested.getId(),
+										node0Tested.getId(),
+										node1Tested.getId());
+							}
 						}
 					}
+				}
 			}
 		}
-		System.out.println(goodComponent);
-		return (double)goodComponent/modelGraph.getNodeCount();
+		return graphOfGoodComponents;
 	}
+	
+	/**
+	 * This function returns the graph where the component are similar
+	 * It loops through all the pair of node in a component of the model 
+	 * and try to find if two nodes are in the same component in the tested graph 
+	 * If these two are in the same component then an edge is created
+	 * @param modelGraph
+	 * @param testedGraph
+	 * @return
+	 */
+	public static <T extends Graph> HashSet<String> markedSimilarComponentNode(T modelGraph, T testedGraph) {
+		String countAttribute = "idComposante";
+		ConnectedComponents connectedComponentsModelGraph = 
+				new ConnectedComponents(modelGraph);
+		connectedComponentsModelGraph.compute();
+		connectedComponentsModelGraph.setCountAttribute(countAttribute);
+		
+		ConnectedComponents connectedComponentsTestedGraph =
+				new ConnectedComponents(testedGraph);
+		connectedComponentsTestedGraph.compute();
+		connectedComponentsTestedGraph.setCountAttribute(countAttribute);
+		
+		Iterator<ConnectedComponent> iteratorConnectedComponent = 
+				connectedComponentsModelGraph.iterator();
+		ConnectedComponent connectedComponent;
+		Node node0Tested,node1Tested = null;
+		HashSet <String> nodes = new HashSet<>();
+		while(iteratorConnectedComponent.hasNext()) {
+			connectedComponent = iteratorConnectedComponent.next();
+			for(Node node0 : connectedComponent.getEachNode()) {
+				node0Tested = testedGraph.getNode(node0.toString());
+				if(node0Tested != null) {
+					for(Node node1 : connectedComponent.getEachNode()) {
+						node1Tested = testedGraph.getNode(node1.toString());
+						if(node1Tested != null && !node1Tested.getId().equals(node0Tested.getId())
+								&& node1Tested.getIndex() > node0Tested.getIndex()) { 
+							if (node0Tested.getAttribute(countAttribute) == node1Tested.getAttribute(countAttribute)) {
+								nodes.add(node0Tested.toString());
+								nodes.add(node1Tested.toString());
+							}
+						}
+					}
+				}
+			}
+		}
+		return nodes;
+	}
+	
 	@SuppressWarnings("unchecked")
 	private void initKeywords(String keywordsFilepath) {
 		FileInputStream fileInputStream;

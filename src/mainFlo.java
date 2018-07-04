@@ -1,9 +1,11 @@
 import java.io.IOException;
 import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.HashSet;
 
 import org.graphstream.graph.ElementNotFoundException;
 import org.graphstream.graph.implementations.MultiGraph;
+import org.graphstream.graph.implementations.SingleGraph;
 import org.graphstream.stream.GraphParseException;
 
 import classification.GraphManager;
@@ -12,7 +14,7 @@ import model.PostLink;
 
 public class mainFlo {
 	public static void main(String[] args) {
-		MultiGraph graph = new MultiGraph("Graphes des questions transformées en liste de keywords");
+		SingleGraph graph = new SingleGraph("Graphes des questions transformées en liste de keywords");
 		graph.setAutoCreate(true);
 		graph.setStrict(false);
 		try {
@@ -27,8 +29,7 @@ public class mainFlo {
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
-		
-		MultiGraph postLinkGraph = new MultiGraph("PostLink");
+		MultiGraph postLinkGraph = new MultiGraph("Model");
 		postLinkGraph.setAutoCreate(true);
 		postLinkGraph.setStrict(false);
 		int questionId,linkedQuestionId;
@@ -37,14 +38,24 @@ public class mainFlo {
 			linkedQuestionId = postLink.getLinkedQuestion().getId();
 			postLinkGraph.addEdge(questionId+"."+linkedQuestionId,
 					Integer.toString(questionId),
-					Integer.toString(linkedQuestionId),
-					true);
+					Integer.toString(linkedQuestionId));
 		}
 		System.out.println("==================================");
 		System.out.println("PostLinkGraph \t|\t Graph");
 		System.out.println("#Node : "+ postLinkGraph.getNodeCount()+"\t|\t "+graph.getNodeCount());
 		System.out.println("#Edge : "+ postLinkGraph.getEdgeCount()+"\t|\t "+graph.getEdgeCount());
 		System.out.println("==================================");
-		System.out.println(GraphManager.checkSimilarity(postLinkGraph, graph));
+		GraphManager.getSimilarComponent(postLinkGraph, graph).display();
+		HashSet<String> nodes = GraphManager.markedSimilarComponentNode(postLinkGraph, graph);
+		graph.setAttribute("ui.stylesheet", "node {\r\n" + 
+				"        fill-color: black;\r\n" + 
+				"    }\r\n" + 
+				"    node.marked {\r\n" + 
+				"        fill-color: red;\r\n" + 
+				"    }");
+		for(String node : nodes) {
+			graph.getNode(node).addAttribute("ui.class", "marked");
+		}
+		graph.display();
 	}
 }
