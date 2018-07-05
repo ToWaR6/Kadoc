@@ -85,7 +85,6 @@ public class MainApp extends Application {
     	Class class2 = new Class("B",keywords2);
     	
     	classes.add(class1);classes.add(class2);
-    	
 		ArrayList<String> questions = new ArrayList<>();
 		questions.add("toto");
 	    questions.add("machin");questions.add("machin");
@@ -111,7 +110,7 @@ public class MainApp extends Application {
     				else {//How to display the choose Dialog
     					CountDownLatch finishCountDown = new CountDownLatch(1);//Semaphore
     					Platform.runLater(
-    						new ChooseDialog(this,new Class(),new Question())
+    						new ChooseDialog(this,winner)
     							.withCountDownLatch(finishCountDown)
     					);
     					try {
@@ -132,8 +131,6 @@ public class MainApp extends Application {
 	    		    	classData.set(index, winner);
 	    		    }
 	    		}
-    		}else {
-    			System.out.println("Create new class");
     		}
     		iteration++;
     		progress.set((double)iteration/total);//How to set the progress

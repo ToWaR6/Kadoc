@@ -36,7 +36,10 @@ public abstract class Post implements Serializable {
 		this.lastEditor = lastEditor;
 	}
 	
-	public Post() {}
+	public Post() {
+		this.body="Le corps d'une question, le corsp d'une question peut contenir des mots clefs interréssants";
+		this.id = 1234567890;
+	}
 	//GETTER & SETTER
 	public int getId() {
 		return id;
@@ -134,5 +137,7 @@ public abstract class Post implements Serializable {
 	public int getCommentCount() {
 		return this.mapComment.size();
 	}
-	
+	public String getUrl() {
+		return "https://stackoverflow.com/questions/"+id;
+	}
 }
