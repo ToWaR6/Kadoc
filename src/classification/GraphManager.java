@@ -30,7 +30,7 @@ public class GraphManager<T extends Graph> {
 	private HashMap<Integer, ArrayList<String>> questionsKeywords;
 	private HashMap<Integer, Question> questions;
 	
-	public GraphManager(double rate,T graph) {
+	public GraphManager(double rate) {
 		this.rate = rate;
 		this.questionsKeywords = new HashMap<Integer, ArrayList<String>>();
 		this.questions = new HashMap<Integer, Question>();
@@ -71,8 +71,8 @@ public class GraphManager<T extends Graph> {
 		graph.setStrict(false);
 		graph.setAutoCreate(true);
 		int cpt = 0;
-		int nbATraite = questionsKeywords.size();
-		int onePercent = nbATraite/100;
+		int nbATraiter = questionsKeywords.size();
+		int onePercent = (int)Math.ceil(nbATraiter/100D);
 		for (int id : questionsKeywords.keySet()) {
 			question = questions.get(id);
 			if (displayProgress & cpt%onePercent==0) 
@@ -87,9 +87,9 @@ public class GraphManager<T extends Graph> {
 	
 	public GraphManager<T> deleteLonelyNode(T graph){
 		for (int id : questionsKeywords.keySet()) {
-			Node n = graph.getNode(Integer.toString(id));
-			if(n.getDegree()==0)
-				graph.removeNode(n.getIndex());
+			Node node = graph.getNode(Integer.toString(id));
+			if(node!=null && node.getDegree()==0)
+				graph.removeNode(node.toString());
 		}
 		return this;
 	}
@@ -146,7 +146,7 @@ public class GraphManager<T extends Graph> {
 	}
 	
 	/**
-	 * This function returns the graph where the component are similar
+	 * This function returns an arrayList of node where the component are similar
 	 * It loops through all the pair of node in a component of the model 
 	 * and try to find if two nodes are in the same component in the tested graph 
 	 * If these two are in the same component then an edge is created
@@ -201,6 +201,7 @@ public class GraphManager<T extends Graph> {
 			questionsKeywords = (HashMap<Integer, ArrayList<String>>) objectInputStream.readObject();
 			objectInputStream.close();
 		} catch (IOException | ClassNotFoundException e) {
+			e.printStackTrace();
 			System.out.println("Problem while loading...");
 		}
 	}

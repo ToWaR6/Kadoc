@@ -14,18 +14,21 @@ import model.PostLink;
 
 public class mainFlo {
 	public static void main(String[] args) {
-		SingleGraph graph = new SingleGraph("Graphes des questions transformées en liste de keywords");
-		graph.setAutoCreate(true);
-		graph.setStrict(false);
+		SingleGraph graph = new SingleGraph("Graph 0.7 rate");
+//		GraphManager<SingleGraph> graphManager = new GraphManager<SingleGraph>(0.7)
+//				.initializeWithSer("src/resources/questions/Questions.ser", "src/resources/questions/questionsKeywords_pre-code.ser")
+//				.generateGraph(graph,true)
+//				.deleteLonelyNode(graph);
 		try {
-			graph.read("graph-0.6.dgs");
-		} catch (ElementNotFoundException | IOException | GraphParseException e) {
-			e.printStackTrace();
+			//graph.write("src/resources/graphs/graph-0.7.dgs");
+			graph.read("src/resources/graphs/graph-0.7.dgs");
+		} catch (IOException | ElementNotFoundException | GraphParseException  e1) {
+			e1.printStackTrace();
 		}
 		PostLinksFactory postLinksFactory = new PostLinksFactory();
 		ArrayList<PostLink> postLinks = null;
 		try {
-			postLinks = postLinksFactory.getPostLinks("LinkedPosts");
+			postLinks = postLinksFactory.getPostLinks();
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
@@ -53,6 +56,7 @@ public class mainFlo {
 				"    node.marked {\r\n" + 
 				"        fill-color: red;\r\n" + 
 				"    }");
+		System.out.println(nodes.size());
 		for(String node : nodes) {
 			graph.getNode(node).addAttribute("ui.class", "marked");
 		}
