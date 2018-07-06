@@ -28,19 +28,25 @@ public class ChooseClassDialogController {
 	private Button doNothingButton;
 	@FXML
 	private Button removeButton;
+	
 	private MainApp mainApp;
 	private HashMap<Pane,QuestionViewController> panesControllers;
 	private boolean removed;
 	
+	/**
+	 * Init the panesControllers to an empty HashMap and
+	 * The "removed" attributed to false
+	 */
 	public void initialize() {
 		panesControllers = new HashMap<Pane, QuestionViewController>();
 		removed = false;
 	}
+	
 	/**
 	 * This function return an anchorPane to insert in the gridPane
 	 * It also adds the controller and the pane to the Hashmap
-	 * @param question
-	 * @return
+	 * @param question a Question to format in a QuestionView
+	 * @return The AnchorPane to attach to the GridPane
 	 * @throws IOException
 	 */
 	private AnchorPane getQuestionPane(Question question) throws IOException {
@@ -80,9 +86,11 @@ public class ChooseClassDialogController {
 	 */
 	@FXML
 	private void doNothingButtonAction(){
+		removed = false;
 	    Stage stage = (Stage) doNothingButton.getScene().getWindow();
 	    stage.close();
 	}
+	
 	/**
 	 * This function is used by the remove button to change the attribute removed to true
 	 */
@@ -99,6 +107,11 @@ public class ChooseClassDialogController {
 			}
 		}
 	}
+	
+	/**
+	 * This function loop through the GridPane to find the questions selected
+	 * @return An ArrayList of selectedQuestion
+	 */
 	public ArrayList<Question> getSelectedQuestion() {
 		ArrayList<Question> questions = new ArrayList<Question>();
 		QuestionViewController questionViewController;
@@ -111,6 +124,10 @@ public class ChooseClassDialogController {
 		return questions;
 	}
 	
+	/**
+	 * Return the attribute removed
+	 * @return True if the button "Remove" has been clicked
+	 */
 	public boolean isRemoved() {
 		return removed;
 	}

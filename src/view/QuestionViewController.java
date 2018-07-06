@@ -28,7 +28,11 @@ public class QuestionViewController{
 	private Question question;
 	private boolean selected = false;
 	
-	
+	/**
+	 * Set the information of a question in the view
+	 * @param mainApp
+	 * @param question
+	 */
 	public void setQuestion(MainApp mainApp, Question question){
 		this.mainApp = mainApp;
 		this.question = question;
@@ -44,8 +48,9 @@ public class QuestionViewController{
 		String url = "https://stackoverflow.com/questions/"+question.getId();
 	    mainApp.getHostServices().showDocument(url);
 	}
+	
 	/**
-	 * Called when the user click on the pane
+	 * Called when the user clicks on the pane
 	 */
 	@FXML
 	private void selectPane() {
