@@ -108,16 +108,18 @@ public class MainApp extends Application {
     				if(winner == null)
     					winner = c;
     				else {//How to display the choose Dialog
-    					CountDownLatch finishCountDown = new CountDownLatch(1);//Semaphore
-    					Platform.runLater(
-    						new ChooseDialog(this,winner)
-    							.withCountDownLatch(finishCountDown)
-    					);
-    					try {
-							finishCountDown.await();
-						} catch (InterruptedException e) {
-							e.printStackTrace();
-						}
+    					if(winner.getQuestions().size()>0) {
+	    					CountDownLatch finishCountDown = new CountDownLatch(1);//Semaphore
+	    					Platform.runLater(
+	    						new ChooseDialog(this,winner)
+	    							.withCountDownLatch(finishCountDown)
+	    					);
+	    					try {
+								finishCountDown.await();
+							} catch (InterruptedException e) {
+								e.printStackTrace();
+							}
+    					}
     	            }
     			}
     		}

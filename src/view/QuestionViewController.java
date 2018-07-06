@@ -1,7 +1,6 @@
 package view;
 
 import controller.MainApp;
-import javafx.application.HostServices;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.layout.Border;
@@ -27,8 +26,9 @@ public class QuestionViewController{
 	
 	private MainApp mainApp;
 	private Question question;
-	private HostServices hostServices ;
 	private boolean selected = false;
+	
+	
 	public void setQuestion(MainApp mainApp, Question question){
 		this.mainApp = mainApp;
 		this.question = question;
@@ -50,7 +50,7 @@ public class QuestionViewController{
 	@FXML
 	private void selectPane() {
 		if(!selected) {
-			BorderStroke borderStroke = new BorderStroke(Color.BLACK,BorderStrokeStyle.SOLID,CornerRadii.EMPTY,BorderWidths.DEFAULT);
+			BorderStroke borderStroke = new BorderStroke(Color.RED,BorderStrokeStyle.SOLID,CornerRadii.EMPTY,BorderWidths.DEFAULT);
 			this.gridPane.setBorder(new Border(borderStroke));
 			selected=true;
 		}else {
@@ -61,5 +61,9 @@ public class QuestionViewController{
 	
 	public boolean isSelected() {
 		return selected;
+	}
+
+	public Question getQuestion() {
+		return this.question;
 	}
 }

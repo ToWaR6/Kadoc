@@ -1,22 +1,18 @@
 package controller;
 
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.Iterator;
+import java.util.ArrayList;
 import java.util.concurrent.CountDownLatch;
 
 import javafx.fxml.FXMLLoader;
-import javafx.scene.Node;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
 import javafx.scene.layout.AnchorPane;
-import javafx.scene.layout.GridPane;
-import javafx.scene.layout.Pane;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
 import model.Class;
 import model.Question;
-import view.QuestionViewController;
+import view.ChooseClassDialogController;
 /**
  * Open a dialog to choose if the question belong in a class
  * @author Florent
@@ -25,11 +21,10 @@ import view.QuestionViewController;
 public class ChooseDialog implements Runnable{
 	private MainApp mainApp;
 	private CountDownLatch countDownLatch;
-	private Class questionClass;
 	private AnchorPane page;
 	private Stage dialogStage;
-	private HashMap<Pane,QuestionViewController> controllers;
-	private GridPane gridPane;
+	private Class questionClass;
+	
 	/**
 	 * Constructor of the Runnable
 	 * @param mainApp The controller mainApp 
@@ -38,7 +33,6 @@ public class ChooseDialog implements Runnable{
 	 */
 	public ChooseDialog(MainApp mainApp,Class aClass)
 	{
-		controllers = new HashMap();
 		this.mainApp = mainApp;
 		this.questionClass = aClass;
 	}
@@ -59,6 +53,8 @@ public class ChooseDialog implements Runnable{
 	            FXMLLoader loader = new FXMLLoader();
 	            loader.setLocation(ChooseDialog.class.getResource("/view/ChooseClassDialog.fxml"));
 	            page = (AnchorPane) loader.load();
+	            ChooseClassDialogController controller = loader.getController();
+	            controller.initDialog(mainApp, questionClass);
 	            // Create the dialog Stage.
 	            dialogStage = new Stage();
 	            dialogStage.setResizable(false);
@@ -66,48 +62,21 @@ public class ChooseDialog implements Runnable{
 	            dialogStage.initOwner(mainApp.getPrimaryStage());
 	            dialogStage.initModality(Modality.APPLICATION_MODAL);
 	            dialogStage.getIcons().add(new Image(MainApp.class.getResourceAsStream("/view/resources/images/icon.png")));
-	            initGridPane();//Initialiser les panel
 	            Scene scene = new Scene(page);
 	            dialogStage.setScene(scene);
 	            // Show the dialog and wait until the user closes it
 	            dialogStage.showAndWait();
-	            
-	            //Process on question selected
-	            for(Node n:gridPane.getChildren()) {
-	            	if(controllers.get(n).isSelected()){
-	            		System.out.println("Remove from class");
-	            	}
+	            if(controller.isRemoved()) {
+		            ArrayList<Question> questions = controller.getSelectedQuestion();
+		            for(Question q : questions) {
+		            	questionClass.getQuestions().remove(q);
+		            }	
 	            }
 	            if(countDownLatch != null)
 	            	countDownLatch.countDown();
 	        } catch (IOException e) {
 	            e.printStackTrace();
 	        }
-	}
-	private AnchorPane getQuestionPane(Question question) throws IOException {
-		FXMLLoader loader = new FXMLLoader();
-		loader.setLocation(getClass().getResource("/view/QuestionView.fxml"));
-		AnchorPane pane = (AnchorPane)loader.load();
-		QuestionViewController controller = loader.getController();
-		controller.setQuestion(this.mainApp,question);
-		controllers.put(pane,controller);
-		return pane;
-	}
-	private void initGridPane() throws IOException {
-		gridPane = new GridPane();
-        int widthMax = 3;
-        int height = 0;
-        Question question;
-        Iterator<Question> iteratorQuestion = this.questionClass.getQuestions().iterator();
-        while(iteratorQuestion.hasNext()){
-        	for(int width = 0; width<widthMax && iteratorQuestion.hasNext();width++) {
-        		question = iteratorQuestion.next();
-        		AnchorPane questionPane = getQuestionPane(question);
-        		gridPane.add(questionPane, width, height);
-        	}
-        	height++;
-        }
-        page.getChildren().add(gridPane);
 	}
 
 }

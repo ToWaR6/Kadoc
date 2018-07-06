@@ -37,8 +37,8 @@ public abstract class Post implements Serializable {
 	}
 	
 	public Post() {
-		this.body="Le corps d'une question, le corsp d'une question peut contenir des mots clefs interréssants";
-		this.id = 1234567890;
+		this.body="Le corps d'une question, le corps d'une question peut contenir des mots clefs interréssants";
+		this.id =  (int) (Math.random() * 10000 ); ;
 	}
 	//GETTER & SETTER
 	public int getId() {
