@@ -1,15 +1,21 @@
 package model;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 /**
  * This class is used to get statistic of a set of Class
  * @author Dell'omo
  *
  */
-public class Classes {
+public class Classes implements Serializable{
+	/**
+	 * The generated serialUID
+	 */
+	private static final long serialVersionUID = 1276237082847124105L;
 	ArrayList<Class> classes;
+	
 	public Classes() {
-		classes = new ArrayList();
+		classes = new ArrayList<Class>();
 	}
 	/**
 	 * Constructor to initialize the classes with a already create ArrayList of classes
