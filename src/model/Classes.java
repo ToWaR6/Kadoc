@@ -19,5 +19,15 @@ public class Classes {
 		}
 		return (double)questionsCount/classes.size();
 	}
-	
+	/**
+	 * This function is called to know the average of keywords in the classes
+	 * @return a double that is the average of questions in the classes
+	 */
+	public double getAverageKeywords() {
+		int keywordsCount = 0;
+		for(Class aClass : classes) {
+			keywordsCount += aClass.getKeywords().size();
+		}
+		return (double)keywordsCount/classes.size();
+	}
 }
