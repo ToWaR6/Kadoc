@@ -17,6 +17,10 @@ import javafx.beans.property.StringProperty;
  */
 public class Class implements Serializable {
 	
+	/**
+	 * Generated SerialVersionUID
+	 */
+	private static final long serialVersionUID = 2132483397083171462L;
 	private StringProperty  name;
 	private ObjectProperty<ArrayList<String>> keywords;
 	private ObjectProperty<ArrayList<Question>> questions;
