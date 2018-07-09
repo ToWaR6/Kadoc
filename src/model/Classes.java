@@ -1,5 +1,10 @@
 package model;
 
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
 import java.io.Serializable;
 import java.util.ArrayList;
 /**
@@ -17,6 +22,40 @@ public class Classes implements Serializable{
 	public Classes() {
 		classes = new ArrayList<Class>();
 	}
+	
+	/**
+	 * This function allows to save easily the classes
+	 * @param filepath the name of the file where to save the Classes
+	 * @throws IOException Throws a Exception if an exception is raised by the *OutputStream
+	 */
+	public void save(String filepath) throws IOException{
+		FileOutputStream fileOutputStream = new FileOutputStream(filepath);
+		ObjectOutputStream objectOutputStream = new ObjectOutputStream(fileOutputStream);
+		objectOutputStream.writeObject(this);
+		objectOutputStream.close();
+	}
+	
+	/**
+	 * This static function allows the user to read a filepath that contain the classes
+	 * @param filepath the name of the file where to save the Classes
+	 * @return The class read in the file or null
+	 * @throws IOException Throws a Exception if an exception is raised by the *OutputStream
+	 */
+	public static Classes read(String filepath) throws IOException {
+		FileInputStream fileInputStream = new FileInputStream(filepath);
+		ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
+		Classes classes;
+		try{
+			 classes = (Classes) objectInputStream.readObject();
+		}
+		catch(ClassNotFoundException e) {
+			System.err.println("An eror occured while casting the class");
+			classes = null;
+		}
+		objectInputStream.close();
+		return classes;
+	}
+	
 	/**
 	 * Constructor to initialize the classes with a already create ArrayList of classes
 	 * @param classes, a ArrayList of Class
