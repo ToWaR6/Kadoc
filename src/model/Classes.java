@@ -7,13 +7,14 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Iterator;
 /**
  * This class is used to get statistic of a set of Class
  * @author Dell'omo
  *
  */
-public class Classes implements Serializable,Iterable<Class>{
+public class Classes implements Serializable,Collection<Class>{
 	/**
 	 * The generated serialUID
 	 */
@@ -66,13 +67,11 @@ public class Classes implements Serializable,Iterable<Class>{
 	}
 	
 	/**
-	 * Fired to add a Class to the ArrayList of classes 
-	 * @param aClass, a class containing keywords
-	 * @return The caller
+	 * Fired to get the arrayList of classes
+	 * @return The current ArrayList of classes
 	 */
-	public Classes addClass(Class aClass) {
-		classes.add(aClass);
-		return this;
+	public ArrayList<Class> getClasses() {
+		return classes;
 	}
 	/**
 	 * This function is called to know the average number of questions in the classes
@@ -115,5 +114,65 @@ public class Classes implements Serializable,Iterable<Class>{
 	@Override
 	public Iterator<Class> iterator() {
 		return classes.iterator();
+	}
+
+	@Override
+	public boolean add(Class arg0) {
+		return classes.add(arg0);
+	}
+
+	@Override
+	public boolean addAll(Collection<? extends Class> arg0) {
+		return this.classes.addAll(arg0);
+	}
+
+	@Override
+	public void clear() {
+		this.classes.clear();		
+	}
+
+	@Override
+	public boolean contains(Object arg0) {
+		return this.classes.contains(arg0);
+	}
+
+	@Override
+	public boolean containsAll(Collection<?> arg0) {
+		return this.classes.containsAll(arg0);
+	}
+
+	@Override
+	public boolean isEmpty() {
+		return this.classes.isEmpty();
+	}
+
+	@Override
+	public boolean remove(Object arg0) {
+		return this.classes.remove(arg0);
+	}
+
+	@Override
+	public boolean removeAll(Collection<?> arg0) {
+		return this.classes.removeAll(arg0);
+	}
+
+	@Override
+	public boolean retainAll(Collection<?> arg0) {
+		return this.classes.retainAll(arg0);
+	}
+
+	@Override
+	public int size() {
+		return this.classes.size();
+	}
+
+	@Override
+	public Object[] toArray() {
+		return this.classes.toArray();
+	}
+
+	@Override
+	public <T> T[] toArray(T[] arg0) {
+		return this.classes.toArray(arg0);
 	}
 }

@@ -1,5 +1,6 @@
 package model;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 import javafx.beans.property.IntegerProperty;
@@ -14,7 +15,7 @@ import javafx.beans.property.StringProperty;
  * @author Florent
  *
  */
-public class Class {
+public class Class implements Serializable {
 	
 	private StringProperty  name;
 	private ObjectProperty<ArrayList<String>> keywords;
