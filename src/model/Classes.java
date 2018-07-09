@@ -7,12 +7,13 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 import java.util.ArrayList;
+import java.util.Iterator;
 /**
  * This class is used to get statistic of a set of Class
  * @author Dell'omo
  *
  */
-public class Classes implements Serializable{
+public class Classes implements Serializable,Iterable<Class>{
 	/**
 	 * The generated serialUID
 	 */
@@ -109,5 +110,10 @@ public class Classes implements Serializable{
 			}
 		}
 		return res;
+	}
+	
+	@Override
+	public Iterator<Class> iterator() {
+		return classes.iterator();
 	}
 }
