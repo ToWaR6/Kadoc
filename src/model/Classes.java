@@ -11,7 +11,23 @@ public class Classes {
 	public Classes() {
 		classes = new ArrayList();
 	}
+	/**
+	 * Constructor to initialize the classes with a already create ArrayList of classes
+	 * @param classes, a ArrayList of Class
+	 */
+	public Classes(ArrayList<Class> classes) {
+		this.classes = classes;
+	}
 	
+	/**
+	 * Fired to add a Class to the ArrayList of classes 
+	 * @param aClass, a class containing keywords
+	 * @return The caller
+	 */
+	public Classes addClass(Class aClass) {
+		classes.add(aClass);
+		return this;
+	}
 	/**
 	 * This function is called to know the average number of questions in the classes
 	 * @return a double that is the average of questions in the classes 
