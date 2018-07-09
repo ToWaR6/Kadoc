@@ -30,8 +30,8 @@ public class GraphManager<T extends Graph> {
 	private HashMap<Integer, ArrayList<String>> questionsKeywords;
 	private HashMap<Integer, Question> questions;
 	
-	public GraphManager(double rate) {
-		this.rate = rate;
+	public GraphManager(double similarityThreshold) {
+		this.rate = similarityThreshold;
 		this.questionsKeywords = new HashMap<Integer, ArrayList<String>>();
 		this.questions = new HashMap<Integer, Question>();
 	}
@@ -61,10 +61,23 @@ public class GraphManager<T extends Graph> {
 		initKeywords(keywordsFilepath);
 		return this;
 	}
-	
+	/**
+	 * Call {@link generateGraph(T,boolean)} with the boolean false
+	 * @param graph the reference of the graph to modify
+	 * @return The caller of the method
+	 */
 	public GraphManager<T> generateGraph(T graph){
 		return generateGraph(graph,false);
 	}
+	
+	/**
+	 * Generate a graph with the questionsKeywords and the questions <br>
+	 * It measures the similarity between to question and create a edge if the similiraty
+	 * is over a threshold 
+	 * @param graph the reference of the graph to modify
+	 * @param displayProgress True if the user want to know the progress of the generation
+	 * @return The caller of the method
+	 */
 	public GraphManager<T> generateGraph(T graph,boolean displayProgress) {
 		SimilarityMeasure<ArrayList<String>> similarityMeasure = new TrivialSimiliratyMeasure(questionsKeywords, rate);
 		Question question;
