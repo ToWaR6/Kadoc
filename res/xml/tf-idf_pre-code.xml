@@ -1,0 +1,5993 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Terms>
+<Term id="1">
+<name_term>java collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>164.2847</score>
+</Term>
+<Term id="2">
+<name_term>java util</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>118.5191</score>
+</Term>
+<Term id="3">
+<name_term>api java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>114.741</score>
+</Term>
+<Term id="4">
+<name_term>apache commons</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>62.1935</score>
+</Term>
+<Term id="5">
+<name_term>nofollow noreferrer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>61.4612</score>
+</Term>
+<Term id="6">
+<name_term>array list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>57.9021</score>
+</Term>
+<Term id="7">
+<name_term>map string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>47.2865</score>
+</Term>
+<Term id="8">
+<name_term>java list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>41.0546</score>
+</Term>
+<Term id="9">
+<name_term>api java util</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>39.4987</score>
+</Term>
+<Term id="10">
+<name_term>collection framework</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>39.0469</score>
+</Term>
+<Term id="11">
+<name_term>list string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>36.6525</score>
+</Term>
+<Term id="12">
+<name_term>img src</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>36.4523</score>
+</Term>
+<Term id="13">
+<name_term>insertion order</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>29.6929</score>
+</Term>
+<Term id="14">
+<name_term>html rel</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>26.9761</score>
+</Term>
+<Term id="15">
+<name_term>modification exception</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>26.8107</score>
+</Term>
+<Term id="16">
+<name_term>image description</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>25.6118</score>
+</Term>
+<Term id="17">
+<name_term>java hashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>25.4015</score>
+</Term>
+<Term id="18">
+<name_term>java map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>25.1178</score>
+</Term>
+<Term id="19">
+<name_term>strong br</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>25.0559</score>
+</Term>
+<Term id="20">
+<name_term>collection class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>25.0469</score>
+</Term>
+<Term id="21">
+<name_term>collection object</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>25.005</score>
+</Term>
+<Term id="22">
+<name_term>concurrent modification</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>24.9736</score>
+</Term>
+<Term id="23">
+<name_term>strong em</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>24.394</score>
+</Term>
+<Term id="24">
+<name_term>text file</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>24.3707</score>
+</Term>
+<Term id="25">
+<name_term>string array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>24.1984</score>
+</Term>
+<Term id="26">
+<name_term>source code</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>23.728</score>
+</Term>
+<Term id="27">
+<name_term>collection type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>23.3673</score>
+</Term>
+<Term id="28">
+<name_term>hash map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>23.2951</score>
+</Term>
+<Term id="29">
+<name_term>generic type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>22.6981</score>
+</Term>
+<Term id="30">
+<name_term>return type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>22.4696</score>
+</Term>
+<Term id="31">
+<name_term>java api</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>22.06</score>
+</Term>
+<Term id="32">
+<name_term>sort method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>21.8705</score>
+</Term>
+<Term id="33">
+<name_term>code snippet</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>21.6591</score>
+</Term>
+<Term id="34">
+<name_term>org wiki</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>21.5096</score>
+</Term>
+<Term id="35">
+<name_term>stream api</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>21.4077</score>
+</Term>
+<Term id="36">
+<name_term>load factor</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>20.1097</score>
+</Term>
+<Term id="37">
+<name_term>comparable interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.8816</score>
+</Term>
+<Term id="38">
+<name_term>util collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.6736</score>
+</Term>
+<Term id="39">
+<name_term>java arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.5316</score>
+</Term>
+<Term id="40">
+<name_term>noreferrer img</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>19.3746</score>
+</Term>
+<Term id="42">
+<name_term>use case</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>19.0505</score>
+</Term>
+<Term id="43">
+<name_term>compareto method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>18.8153</score>
+</Term>
+<Term id="44">
+<name_term>sample code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.8971</score>
+</Term>
+<Term id="45">
+<name_term>linked list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.724</score>
+</Term>
+<Term id="46">
+<name_term>time complexity</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.5628</score>
+</Term>
+<Term id="47">
+<name_term>arraylist string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>17.2129</score>
+</Term>
+<Term id="48">
+<name_term>custom comparator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.5552</score>
+</Term>
+<Term id="49">
+<name_term>priority queue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.4534</score>
+</Term>
+<Term id="50">
+<name_term>google guava</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.3947</score>
+</Term>
+<Term id="51">
+<name_term>collections sort</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.3933</score>
+</Term>
+<Term id="52">
+<name_term>hash table</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>16.2432</score>
+</Term>
+<Term id="53">
+<name_term>list map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.112</score>
+</Term>
+<Term id="54">
+<name_term>original list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>16.0684</score>
+</Term>
+<Term id="55">
+<name_term>nofollow http</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.967</score>
+</Term>
+<Term id="56">
+<name_term>comparator interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.9632</score>
+</Term>
+<Term id="57">
+<name_term>noreferrer http</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.875</score>
+</Term>
+<Term id="58">
+<name_term>hashmap string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.7186</score>
+</Term>
+<Term id="59">
+<name_term>collection api</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.3577</score>
+</Term>
+<Term id="60">
+<name_term>ul li</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.2333</score>
+</Term>
+<Term id="61">
+<name_term>general contract</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>15.1779</score>
+</Term>
+<Term id="62">
+<name_term>error message</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.7686</score>
+</Term>
+<Term id="63">
+<name_term>strong update</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.6607</score>
+</Term>
+<Term id="64">
+<name_term>comparison method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.5791</score>
+</Term>
+<Term id="65">
+<name_term>util list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.5045</score>
+</Term>
+<Term id="66">
+<name_term>random access</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.4229</score>
+</Term>
+<Term id="67">
+<name_term>list integer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.348</score>
+</Term>
+<Term id="68">
+<name_term>binary search</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.2189</score>
+</Term>
+<Term id="69">
+<name_term>java stream</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.2015</score>
+</Term>
+<Term id="70">
+<name_term>initial capacity</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.128</score>
+</Term>
+<Term id="71">
+<name_term>convert list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>14.064</score>
+</Term>
+<Term id="72">
+<name_term>custom class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.8145</score>
+</Term>
+<Term id="73">
+<name_term>generic method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.7729</score>
+</Term>
+<Term id="74">
+<name_term>abstract class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.6927</score>
+</Term>
+<Term id="75">
+<name_term>constant time</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.5233</score>
+</Term>
+<Term id="76">
+<name_term>generic collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.3904</score>
+</Term>
+<Term id="77">
+<name_term>garbage collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.3291</score>
+</Term>
+<Term id="78">
+<name_term>set map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.2809</score>
+</Term>
+<Term id="79">
+<name_term>waiting area</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.26</score>
+</Term>
+<Term id="80">
+<name_term>thread safety</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.2541</score>
+</Term>
+<Term id="81">
+<name_term>parent class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.0996</score>
+</Term>
+<Term id="82">
+<name_term>compare method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>13.0667</score>
+</Term>
+<Term id="83">
+<name_term>br br</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.9945</score>
+</Term>
+<Term id="84">
+<name_term>java streams</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.9465</score>
+</Term>
+<Term id="85">
+<name_term>main java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.932</score>
+</Term>
+<Term id="86">
+<name_term>null pointer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.8204</score>
+</Term>
+<Term id="87">
+<name_term>interview question</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.7981</score>
+</Term>
+<Term id="88">
+<name_term>map key</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.7981</score>
+</Term>
+<Term id="89">
+<name_term>stack overflow</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.7981</score>
+</Term>
+<Term id="90">
+<name_term>null key</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.7589</score>
+</Term>
+<Term id="91">
+<name_term>primary key</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.6353</score>
+</Term>
+<Term id="92">
+<name_term>class object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.6161</score>
+</Term>
+<Term id="93">
+<name_term>csv file</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.6161</score>
+</Term>
+<Term id="94">
+<name_term>remove method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.6161</score>
+</Term>
+<Term id="95">
+<name_term>arraylist object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.449</score>
+</Term>
+<Term id="96">
+<name_term>java data</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.3955</score>
+</Term>
+<Term id="97">
+<name_term>empty list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.3301</score>
+</Term>
+<Term id="98">
+<name_term>string value</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>12.2681</score>
+</Term>
+<Term id="99">
+<name_term>end index</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.2423</score>
+</Term>
+<Term id="100">
+<name_term>map object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.0834</score>
+</Term>
+<Term id="101">
+<name_term>org apache</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.0663</score>
+</Term>
+<Term id="102">
+<name_term>ooooo thinker</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>12.0545</score>
+</Term>
+<Term id="103">
+<name_term>list implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.9726</score>
+</Term>
+<Term id="104">
+<name_term>pre class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.6359</score>
+</Term>
+<Term id="105">
+<name_term>object type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.6023</score>
+</Term>
+<Term id="106">
+<name_term>infinite loop</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.5956</score>
+</Term>
+<Term id="107">
+<name_term>set string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.5102</score>
+</Term>
+<Term id="108">
+<name_term>streams api</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.5102</score>
+</Term>
+<Term id="109">
+<name_term>type parameter</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.425</score>
+</Term>
+<Term id="110">
+<name_term>java generic</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.3592</score>
+</Term>
+<Term id="111">
+<name_term>list iterator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.3487</score>
+</Term>
+<Term id="112">
+<name_term>sorting arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.2203</score>
+</Term>
+<Term id="113">
+<name_term>int index</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.1677</score>
+</Term>
+<Term id="114">
+<name_term>custom object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.1369</score>
+</Term>
+<Term id="115">
+<name_term>addall method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.0516</score>
+</Term>
+<Term id="116">
+<name_term>compilation error</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.0516</score>
+</Term>
+<Term id="117">
+<name_term>list collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.0516</score>
+</Term>
+<Term id="118">
+<name_term>map implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.0516</score>
+</Term>
+<Term id="119">
+<name_term>list class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>11.0508</score>
+</Term>
+<Term id="120">
+<name_term>2d array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.9841</score>
+</Term>
+<Term id="121">
+<name_term>alphabetical order</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.9841</score>
+</Term>
+<Term id="122">
+<name_term>base class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.9015</score>
+</Term>
+<Term id="123">
+<name_term>iteration order</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.9015</score>
+</Term>
+<Term id="124">
+<name_term>compiler error</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.8525</score>
+</Term>
+<Term id="125">
+<name_term>effective java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.7774</score>
+</Term>
+<Term id="126">
+<name_term>first name</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>10.6324</score>
+</Term>
+<Term id="127">
+<name_term>water level</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.5015</score>
+</Term>
+<Term id="128">
+<name_term>data structures</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.4123</score>
+</Term>
+<Term id="129">
+<name_term>for-each loop</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.3807</score>
+</Term>
+<Term id="130">
+<name_term>java collection framework</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.3639</score>
+</Term>
+<Term id="131">
+<name_term>java linkedlist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.2069</score>
+</Term>
+<Term id="132">
+<name_term>employee class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.1886</score>
+</Term>
+<Term id="133">
+<name_term>standard java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.0914</score>
+</Term>
+<Term id="134">
+<name_term>single element</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>10.034</score>
+</Term>
+<Term id="135">
+<name_term>foreach loop</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.9968</score>
+</Term>
+<Term id="136">
+<name_term>garbage collector</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.8793</score>
+</Term>
+<Term id="137">
+<name_term>set interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.8432</score>
+</Term>
+<Term id="138">
+<name_term>lambda expression</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.8035</score>
+</Term>
+<Term id="139">
+<name_term>last name</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.7818</score>
+</Term>
+<Term id="140">
+<name_term>good practice</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.7636</score>
+</Term>
+<Term id="141">
+<name_term>web application</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.7459</score>
+</Term>
+<Term id="142">
+<name_term>java hashset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.7394</score>
+</Term>
+<Term id="143">
+<name_term>standard library</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.6878</score>
+</Term>
+<Term id="144">
+<name_term>good idea</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.6153</score>
+</Term>
+<Term id="145">
+<name_term>web service</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.5241</score>
+</Term>
+<Term id="146">
+<name_term>hashcode method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.437</score>
+</Term>
+<Term id="147">
+<name_term>original collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.3565</score>
+</Term>
+<Term id="148">
+<name_term>pointer exception</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.3133</score>
+</Term>
+<Term id="149">
+<name_term>type object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.3133</score>
+</Term>
+<Term id="150">
+<name_term>util hashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.279</score>
+</Term>
+<Term id="151">
+<name_term>null value</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>9.2659</score>
+</Term>
+<Term id="152">
+<name_term>unmodifiable list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.2275</score>
+</Term>
+<Term id="153">
+<name_term>object reference</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.2182</score>
+</Term>
+<Term id="154">
+<name_term>utility method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.1345</score>
+</Term>
+<Term id="155">
+<name_term>employee object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.1289</score>
+</Term>
+<Term id="156">
+<name_term>method signature</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.1289</score>
+</Term>
+<Term id="157">
+<name_term>map integer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.1218</score>
+</Term>
+<Term id="158">
+<name_term>util arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.1218</score>
+</Term>
+<Term id="159">
+<name_term>memory usage</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.0448</score>
+</Term>
+<Term id="160">
+<name_term>main class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>9.0229</score>
+</Term>
+<Term id="161">
+<name_term>collection string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.9812</score>
+</Term>
+<Term id="162">
+<name_term>strong note</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.8805</score>
+</Term>
+<Term id="163">
+<name_term>natural order</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.8447</score>
+</Term>
+<Term id="164">
+<name_term>design pattern</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.8231</score>
+</Term>
+<Term id="165">
+<name_term>immutable list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.7881</score>
+</Term>
+<Term id="166">
+<name_term>generic class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.7632</score>
+</Term>
+<Term id="167">
+<name_term>single object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.7632</score>
+</Term>
+<Term id="168">
+<name_term>lang-java prettyprint-override</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.5687</score>
+</Term>
+<Term id="169">
+<name_term>strong code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.5432</score>
+</Term>
+<Term id="170">
+<name_term>type erasure</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.5215</score>
+</Term>
+<Term id="171">
+<name_term>reverse order</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.5059</score>
+</Term>
+<Term id="172">
+<name_term>hashset class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.4705</score>
+</Term>
+<Term id="173">
+<name_term>quick sort</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.4705</score>
+</Term>
+<Term id="174">
+<name_term>large amount</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.4235</score>
+</Term>
+<Term id="175">
+<name_term>strong li</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.3591</score>
+</Term>
+<Term id="176">
+<name_term>test code</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.3511</score>
+</Term>
+<Term id="177">
+<name_term>strong arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.3459</score>
+</Term>
+<Term id="178">
+<name_term>strong edit</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.2965</score>
+</Term>
+<Term id="179">
+<name_term>collection list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.2479</score>
+</Term>
+<Term id="180">
+<name_term>txt file</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.2275</score>
+</Term>
+<Term id="181">
+<name_term>java treeset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.2096</score>
+</Term>
+<Term id="182">
+<name_term>remove duplicates</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.2096</score>
+</Term>
+<Term id="183">
+<name_term>sorting list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.2096</score>
+</Term>
+<Term id="184">
+<name_term>strong question</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.2027</score>
+</Term>
+<Term id="185">
+<name_term>brace initialization</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.1634</score>
+</Term>
+<Term id="186">
+<name_term>emp id</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.1634</score>
+</Term>
+<Term id="187">
+<name_term>first value</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.1137</score>
+</Term>
+<Term id="188">
+<name_term>bean class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.0203</score>
+</Term>
+<Term id="189">
+<name_term>sort order</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.0203</score>
+</Term>
+<Term id="190">
+<name_term>set collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.0072</score>
+</Term>
+<Term id="191">
+<name_term>concurrent collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>8.0024</score>
+</Term>
+<Term id="192">
+<name_term>object class</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>8.0024</score>
+</Term>
+<Term id="193">
+<name_term>heap space</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.9283</score>
+</Term>
+<Term id="194">
+<name_term>list size</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.9283</score>
+</Term>
+<Term id="195">
+<name_term>hashmap key</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.9251</score>
+</Term>
+<Term id="196">
+<name_term>concurrent modification exception</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.9058</score>
+</Term>
+<Term id="197">
+<name_term>right direction</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.8588</score>
+</Term>
+<Term id="198">
+<name_term>integer value</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>7.8428</score>
+</Term>
+<Term id="199">
+<name_term>object array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.8428</score>
+</Term>
+<Term id="200">
+<name_term>prettyprint-override pre</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.7627</score>
+</Term>
+<Term id="201">
+<name_term>empty collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.7343</score>
+</Term>
+<Term id="202">
+<name_term>java vector</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.7304</score>
+</Term>
+<Term id="203">
+<name_term>result set</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.7304</score>
+</Term>
+<Term id="204">
+<name_term>sorted list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.7304</score>
+</Term>
+<Term id="205">
+<name_term>bucket number</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.7042</score>
+</Term>
+<Term id="206">
+<name_term>implementation type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.6895</score>
+</Term>
+<Term id="207">
+<name_term>strong output</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.6553</score>
+</Term>
+<Term id="208">
+<name_term>unit test</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.6121</score>
+</Term>
+<Term id="209">
+<name_term>generic map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.5658</score>
+</Term>
+<Term id="210">
+<name_term>java maps</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.5658</score>
+</Term>
+<Term id="211">
+<name_term>static method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.5113</score>
+</Term>
+<Term id="212">
+<name_term>int array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4699</score>
+</Term>
+<Term id="213">
+<name_term>png rel</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4511</score>
+</Term>
+<Term id="214">
+<name_term>collection sort</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4328</score>
+</Term>
+<Term id="215">
+<name_term>java application</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4328</score>
+</Term>
+<Term id="216">
+<name_term>method call</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4328</score>
+</Term>
+<Term id="217">
+<name_term>method sort</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4328</score>
+</Term>
+<Term id="218">
+<name_term>arraylist integer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4232</score>
+</Term>
+<Term id="219">
+<name_term>bad idea</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4232</score>
+</Term>
+<Term id="220">
+<name_term>nofollow java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4232</score>
+</Term>
+<Term id="221">
+<name_term>shuffle method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4168</score>
+</Term>
+<Term id="222">
+<name_term>tree set</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4168</score>
+</Term>
+<Term id="223">
+<name_term>double brace</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.4117</score>
+</Term>
+<Term id="224">
+<name_term>strong collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.3843</score>
+</Term>
+<Term id="225">
+<name_term>binary tree</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.3158</score>
+</Term>
+<Term id="226">
+<name_term>java bean</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.3025</score>
+</Term>
+<Term id="227">
+<name_term>large number</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.16</score>
+</Term>
+<Term id="228">
+<name_term>immutable collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.1175</score>
+</Term>
+<Term id="229">
+<name_term>random number</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.1175</score>
+</Term>
+<Term id="230">
+<name_term>hash collision</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.11</score>
+</Term>
+<Term id="231">
+<name_term>3rd party</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.0305</score>
+</Term>
+<Term id="232">
+<name_term>unique id</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.0305</score>
+</Term>
+<Term id="233">
+<name_term>collection em</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.0177</score>
+</Term>
+<Term id="234">
+<name_term>run time</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.0177</score>
+</Term>
+<Term id="235">
+<name_term>time error</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.0177</score>
+</Term>
+<Term id="236">
+<name_term>start index</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>7.001</score>
+</Term>
+<Term id="237">
+<name_term>existing collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.9499</score>
+</Term>
+<Term id="238">
+<name_term>database table</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.9373</score>
+</Term>
+<Term id="239">
+<name_term>git javadoc</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.9373</score>
+</Term>
+<Term id="240">
+<name_term>java method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.9373</score>
+</Term>
+<Term id="241">
+<name_term>sort list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.9373</score>
+</Term>
+<Term id="242">
+<name_term>java se</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.9344</score>
+</Term>
+<Term id="243">
+<name_term>stack trace</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.9344</score>
+</Term>
+<Term id="244">
+<name_term>util treemap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.9344</score>
+</Term>
+<Term id="245">
+<name_term>third party</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>6.8749</score>
+</Term>
+<Term id="246">
+<name_term>strong hashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.8585</score>
+</Term>
+<Term id="247">
+<name_term>cast exception</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.7809</score>
+</Term>
+<Term id="248">
+<name_term>list view</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.7809</score>
+</Term>
+<Term id="249">
+<name_term>memory overhead</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.7809</score>
+</Term>
+<Term id="250">
+<name_term>collection library</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.7641</score>
+</Term>
+<Term id="251">
+<name_term>java concurrency</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.7641</score>
+</Term>
+<Term id="252">
+<name_term>java8 stream</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.7641</score>
+</Term>
+<Term id="253">
+<name_term>set object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.7641</score>
+</Term>
+<Term id="254">
+<name_term>deep copy</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.7614</score>
+</Term>
+<Term id="255">
+<name_term>strong object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.7614</score>
+</Term>
+<Term id="256">
+<name_term>class type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.6848</score>
+</Term>
+<Term id="257">
+<name_term>execution time</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.6848</score>
+</Term>
+<Term id="258">
+<name_term>integer array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.6848</score>
+</Term>
+<Term id="259">
+<name_term>test case</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.6848</score>
+</Term>
+<Term id="260">
+<name_term>utility class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.6848</score>
+</Term>
+<Term id="261">
+<name_term>android java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.6201</score>
+</Term>
+<Term id="262">
+<name_term>arraylist java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.6201</score>
+</Term>
+<Term id="263">
+<name_term>java android</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.6201</score>
+</Term>
+<Term id="264">
+<name_term>java guava</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.6201</score>
+</Term>
+<Term id="265">
+<name_term>java language</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.6201</score>
+</Term>
+<Term id="266">
+<name_term>java performance</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.6201</score>
+</Term>
+<Term id="267">
+<name_term>tree map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.6201</score>
+</Term>
+<Term id="268">
+<name_term>collection implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.5971</score>
+</Term>
+<Term id="269">
+<name_term>key-value pair</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.5971</score>
+</Term>
+<Term id="270">
+<name_term>type collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.5971</score>
+</Term>
+<Term id="271">
+<name_term>main method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.5911</score>
+</Term>
+<Term id="272">
+<name_term>collection classes</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.5762</score>
+</Term>
+<Term id="273">
+<name_term>util collections</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.5451</score>
+</Term>
+<Term id="274">
+<name_term>em collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.5165</score>
+</Term>
+<Term id="275">
+<name_term>java tutorial</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.5165</score>
+</Term>
+<Term id="276">
+<name_term>performance issue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.5165</score>
+</Term>
+<Term id="277">
+<name_term>set implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.5165</score>
+</Term>
+<Term id="278">
+<name_term>java util collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.505</score>
+</Term>
+<Term id="279">
+<name_term>pl sql</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.3529</score>
+</Term>
+<Term id="280">
+<name_term>concrete class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.3106</score>
+</Term>
+<Term id="281">
+<name_term>core java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.3106</score>
+</Term>
+<Term id="282">
+<name_term>collection size</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.2593</score>
+</Term>
+<Term id="283">
+<name_term>user input</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.2593</score>
+</Term>
+<Term id="284">
+<name_term>main thread</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.2591</score>
+</Term>
+<Term id="285">
+<name_term>duplicate key</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.2278</score>
+</Term>
+<Term id="286">
+<name_term>public class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.2278</score>
+</Term>
+<Term id="287">
+<name_term>file repository</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.1706</score>
+</Term>
+<Term id="288">
+<name_term>java root</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.1706</score>
+</Term>
+<Term id="289">
+<name_term>jdk openjdk</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.1706</score>
+</Term>
+<Term id="290">
+<name_term>method return</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.1706</score>
+</Term>
+<Term id="291">
+<name_term>root jdk</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.1706</score>
+</Term>
+<Term id="292">
+<name_term>size method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.1706</score>
+</Term>
+<Term id="293">
+<name_term>type arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.1706</score>
+</Term>
+<Term id="294">
+<name_term>large lists</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.1225</score>
+</Term>
+<Term id="295">
+<name_term>standard collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.1225</score>
+</Term>
+<Term id="296">
+<name_term>sort arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.0897</score>
+</Term>
+<Term id="297">
+<name_term>java collections</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.0609</score>
+</Term>
+<Term id="298">
+<name_term>class java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.0418</score>
+</Term>
+<Term id="299">
+<name_term>interface type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>6.0418</score>
+</Term>
+<Term id="300">
+<name_term>specific object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.9441</score>
+</Term>
+<Term id="301">
+<name_term>java priorityqueue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.9438</score>
+</Term>
+<Term id="302">
+<name_term>nofollow guava</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.9438</score>
+</Term>
+<Term id="303">
+<name_term>object id</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.9438</score>
+</Term>
+<Term id="304">
+<name_term>util linkedhashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.9438</score>
+</Term>
+<Term id="305">
+<name_term>list object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.938</score>
+</Term>
+<Term id="306">
+<name_term>class cast</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.9279</score>
+</Term>
+<Term id="307">
+<name_term>collection field</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.9279</score>
+</Term>
+<Term id="308">
+<name_term>arraylist class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.8599</score>
+</Term>
+<Term id="309">
+<name_term>concurrent access</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.8599</score>
+</Term>
+<Term id="310">
+<name_term>linear search</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.8599</score>
+</Term>
+<Term id="311">
+<name_term>data model</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.8275</score>
+</Term>
+<Term id="312">
+<name_term>json string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.8275</score>
+</Term>
+<Term id="313">
+<name_term>object property</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>5.8275</score>
+</Term>
+<Term id="314">
+<name_term>android application</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.7978</score>
+</Term>
+<Term id="315">
+<name_term>util iterator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.7978</score>
+</Term>
+<Term id="316">
+<name_term>good reason</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.783</score>
+</Term>
+<Term id="317">
+<name_term>single list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.783</score>
+</Term>
+<Term id="318">
+<name_term>object collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.7376</score>
+</Term>
+<Term id="319">
+<name_term>trunk javadoc</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.7376</score>
+</Term>
+<Term id="320">
+<name_term>single collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.7123</score>
+</Term>
+<Term id="321">
+<name_term>memory footprint</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.6564</score>
+</Term>
+<Term id="322">
+<name_term>noreferrer java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.6564</score>
+</Term>
+<Term id="323">
+<name_term>memory allocation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.612</score>
+</Term>
+<Term id="324">
+<name_term>object obj</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.612</score>
+</Term>
+<Term id="325">
+<name_term>jimmyc summer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.6008</score>
+</Term>
+<Term id="326">
+<name_term>summer wificollection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.6008</score>
+</Term>
+<Term id="327">
+<name_term>total number</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.5727</score>
+</Term>
+<Term id="328">
+<name_term>org javadoc</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.5647</score>
+</Term>
+<Term id="329">
+<name_term>spring security</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.5647</score>
+</Term>
+<Term id="330">
+<name_term>java collections framework</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.5633</score>
+</Term>
+<Term id="331">
+<name_term>nth element</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.5477</score>
+</Term>
+<Term id="332">
+<name_term>multiple threads</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.5104</score>
+</Term>
+<Term id="333">
+<name_term>list em</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.4925</score>
+</Term>
+<Term id="334">
+<name_term>internal implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.4868</score>
+</Term>
+<Term id="335">
+<name_term>specific index</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.4868</score>
+</Term>
+<Term id="336">
+<name_term>java code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.4777</score>
+</Term>
+<Term id="337">
+<name_term>multiple values</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.4304</score>
+</Term>
+<Term id="338">
+<name_term>strong set</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.4114</score>
+</Term>
+<Term id="339">
+<name_term>abstract method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.3905</score>
+</Term>
+<Term id="340">
+<name_term>map collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.389</score>
+</Term>
+<Term id="341">
+<name_term>student object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.389</score>
+</Term>
+<Term id="342">
+<name_term>elegant solution</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.3381</score>
+</Term>
+<Term id="343">
+<name_term>hard time</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.3381</score>
+</Term>
+<Term id="344">
+<name_term>long time</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.3381</score>
+</Term>
+<Term id="345">
+<name_term>open source</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.3381</score>
+</Term>
+<Term id="346">
+<name_term>raw type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.3381</score>
+</Term>
+<Term id="347">
+<name_term>specific type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.3381</score>
+</Term>
+<Term id="348">
+<name_term>custom objects</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.33</score>
+</Term>
+<Term id="349">
+<name_term>factory method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.2977</score>
+</Term>
+<Term id="350">
+<name_term>guava multimap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.2977</score>
+</Term>
+<Term id="351">
+<name_term>io guava</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.2977</score>
+</Term>
+<Term id="352">
+<name_term>svn trunk</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.2977</score>
+</Term>
+<Term id="353">
+<name_term>toarray method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.2977</score>
+</Term>
+<Term id="354">
+<name_term>li java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.2962</score>
+</Term>
+<Term id="355">
+<name_term>c d</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>5.2941</score>
+</Term>
+<Term id="356">
+<name_term>convenience factory</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.2941</score>
+</Term>
+<Term id="357">
+<name_term>list entity</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.2941</score>
+</Term>
+<Term id="358">
+<name_term>list foo</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.2941</score>
+</Term>
+<Term id="359">
+<name_term>management system</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.2941</score>
+</Term>
+<Term id="360">
+<name_term>new york</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>5.2941</score>
+</Term>
+<Term id="361">
+<name_term>string collections</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.2941</score>
+</Term>
+<Term id="362">
+<name_term>collection java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.216</score>
+</Term>
+<Term id="363">
+<name_term>java documentation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.216</score>
+</Term>
+<Term id="364">
+<name_term>java util list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.1336</score>
+</Term>
+<Term id="365">
+<name_term>intellij idea</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.1021</score>
+</Term>
+<Term id="366">
+<name_term>method signatures</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.1021</score>
+</Term>
+<Term id="367">
+<name_term>nofollow collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.1021</score>
+</Term>
+<Term id="368">
+<name_term>org api</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.1021</score>
+</Term>
+<Term id="369">
+<name_term>rest api</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.1021</score>
+</Term>
+<Term id="370">
+<name_term>selenium webdriver</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.1021</score>
+</Term>
+<Term id="371">
+<name_term>query result</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.0508</score>
+</Term>
+<Term id="372">
+<name_term>6-b14 java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.0296</score>
+</Term>
+<Term id="373">
+<name_term>duplicate values</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>5.0181</score>
+</Term>
+<Term id="374">
+<name_term>tutorial collections</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9716</score>
+</Term>
+<Term id="375">
+<name_term>basic question</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9583</score>
+</Term>
+<Term id="376">
+<name_term>random order</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9583</score>
+</Term>
+<Term id="377">
+<name_term>similar question</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9583</score>
+</Term>
+<Term id="378">
+<name_term>specific order</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9583</score>
+</Term>
+<Term id="379">
+<name_term>strong class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9583</score>
+</Term>
+<Term id="380">
+<name_term>collection collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9532</score>
+</Term>
+<Term id="381">
+<name_term>collection mapping</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9532</score>
+</Term>
+<Term id="382">
+<name_term>eclipse ide</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9532</score>
+</Term>
+<Term id="383">
+<name_term>java string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9532</score>
+</Term>
+<Term id="384">
+<name_term>list long</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9532</score>
+</Term>
+<Term id="385">
+<name_term>map java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9532</score>
+</Term>
+<Term id="386">
+<name_term>noreferrer google</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9532</score>
+</Term>
+<Term id="387">
+<name_term>noreferrer guava</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9532</score>
+</Term>
+<Term id="388">
+<name_term>oracle docs</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9532</score>
+</Term>
+<Term id="389">
+<name_term>set list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9532</score>
+</Term>
+<Term id="390">
+<name_term>sort java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9532</score>
+</Term>
+<Term id="391">
+<name_term>spring mvc</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9532</score>
+</Term>
+<Term id="392">
+<name_term>util linkedhashset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9532</score>
+</Term>
+<Term id="393">
+<name_term>util map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9532</score>
+</Term>
+<Term id="394">
+<name_term>li li</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9433</score>
+</Term>
+<Term id="395">
+<name_term>util package</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9433</score>
+</Term>
+<Term id="396">
+<name_term>empty map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9195</score>
+</Term>
+<Term id="397">
+<name_term>percent change</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9195</score>
+</Term>
+<Term id="398">
+<name_term>parallel collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9096</score>
+</Term>
+<Term id="399">
+<name_term>wificollection wifilocationapp$wifimode</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.9007</score>
+</Term>
+<Term id="400">
+<name_term>em method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.8501</score>
+</Term>
+<Term id="401">
+<name_term>hash set</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.8501</score>
+</Term>
+<Term id="402">
+<name_term>interface list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.8501</score>
+</Term>
+<Term id="403">
+<name_term>programming language</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>4.8501</score>
+</Term>
+<Term id="404">
+<name_term>reference variable</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.8501</score>
+</Term>
+<Term id="405">
+<name_term>test class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.8501</score>
+</Term>
+<Term id="406">
+<name_term>wrapper class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.8501</score>
+</Term>
+<Term id="407">
+<name_term>javadoc r4v43</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.8218</score>
+</Term>
+<Term id="408">
+<name_term>nofollow customcollectiontype</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.8218</score>
+</Term>
+<Term id="409">
+<name_term>r4v43 org</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.8218</score>
+</Term>
+<Term id="410">
+<name_term>standard lib</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.8218</score>
+</Term>
+<Term id="411">
+<name_term>tom sawyer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.8218</score>
+</Term>
+<Term id="412">
+<name_term>anonymous class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.8147</score>
+</Term>
+<Term id="413">
+<name_term>premature optimization</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.8147</score>
+</Term>
+<Term id="414">
+<name_term>array index</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.7679</score>
+</Term>
+<Term id="415">
+<name_term>java doc</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.7679</score>
+</Term>
+<Term id="416">
+<name_term>performance difference</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.7679</score>
+</Term>
+<Term id="417">
+<name_term>time consuming</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.7679</score>
+</Term>
+<Term id="418">
+<name_term>phone number</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>4.7411</score>
+</Term>
+<Term id="419">
+<name_term>generic array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.724</score>
+</Term>
+<Term id="421">
+<name_term>simple java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.6439</score>
+</Term>
+<Term id="422">
+<name_term>type inference</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.6027</score>
+</Term>
+<Term id="423">
+<name_term>bad practice</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.5723</score>
+</Term>
+<Term id="424">
+<name_term>correct answer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.5723</score>
+</Term>
+<Term id="425">
+<name_term>current code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.5723</score>
+</Term>
+<Term id="426">
+<name_term>good solution</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.5723</score>
+</Term>
+<Term id="427">
+<name_term>rest service</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.5723</score>
+</Term>
+<Term id="428">
+<name_term>simple class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.5723</score>
+</Term>
+<Term id="429">
+<name_term>cartesian product</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.539</score>
+</Term>
+<Term id="430">
+<name_term>duplicate elements</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.5315</score>
+</Term>
+<Term id="431">
+<name_term>nofollow title</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.5246</score>
+</Term>
+<Term id="432">
+<name_term>array object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4896</score>
+</Term>
+<Term id="433">
+<name_term>data collection</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>4.4896</score>
+</Term>
+<Term id="434">
+<name_term>file system</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4896</score>
+</Term>
+<Term id="435">
+<name_term>hashcode implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4896</score>
+</Term>
+<Term id="436">
+<name_term>library method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4896</score>
+</Term>
+<Term id="437">
+<name_term>list reference</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4896</score>
+</Term>
+<Term id="438">
+<name_term>marker interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4896</score>
+</Term>
+<Term id="439">
+<name_term>method em</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4896</score>
+</Term>
+<Term id="440">
+<name_term>string input</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4896</score>
+</Term>
+<Term id="441">
+<name_term>type safe</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4896</score>
+</Term>
+<Term id="442">
+<name_term>custom string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4517</score>
+</Term>
+<Term id="443">
+<name_term>distinct list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4517</score>
+</Term>
+<Term id="444">
+<name_term>java ordered</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4517</score>
+</Term>
+<Term id="445">
+<name_term>key iterator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4517</score>
+</Term>
+<Term id="446">
+<name_term>map reduce</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4517</score>
+</Term>
+<Term id="447">
+<name_term>multikey map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4517</score>
+</Term>
+<Term id="448">
+<name_term>ordered map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4517</score>
+</Term>
+<Term id="449">
+<name_term>stack queue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4517</score>
+</Term>
+<Term id="450">
+<name_term>util vector</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4517</score>
+</Term>
+<Term id="451">
+<name_term>parameterized type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4275</score>
+</Term>
+<Term id="452">
+<name_term>multiple times</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.4004</score>
+</Term>
+<Term id="453">
+<name_term>default capacity</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.394</score>
+</Term>
+<Term id="454">
+<name_term>hash function</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.394</score>
+</Term>
+<Term id="455">
+<name_term>index value</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>4.394</score>
+</Term>
+<Term id="456">
+<name_term>problem statement</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.394</score>
+</Term>
+<Term id="457">
+<name_term>maximum size</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3332</score>
+</Term>
+<Term id="458">
+<name_term>duplicate keys</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3257</score>
+</Term>
+<Term id="459">
+<name_term>unknown source</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3124</score>
+</Term>
+<Term id="460">
+<name_term>collection map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3112</score>
+</Term>
+<Term id="461">
+<name_term>comparator class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3112</score>
+</Term>
+<Term id="462">
+<name_term>input file</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3112</score>
+</Term>
+<Term id="463">
+<name_term>java project</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3112</score>
+</Term>
+<Term id="464">
+<name_term>method work</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3112</score>
+</Term>
+<Term id="465">
+<name_term>object key</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3112</score>
+</Term>
+<Term id="466">
+<name_term>removeall method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3112</score>
+</Term>
+<Term id="467">
+<name_term>sample data</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3112</score>
+</Term>
+<Term id="468">
+<name_term>sort function</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3112</score>
+</Term>
+<Term id="469">
+<name_term>util set</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3112</score>
+</Term>
+<Term id="470">
+<name_term>file content</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3045</score>
+</Term>
+<Term id="471">
+<name_term>source collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.3045</score>
+</Term>
+<Term id="472">
+<name_term>auxiliary information</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2959</score>
+</Term>
+<Term id="473">
+<name_term>id number</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2516</score>
+</Term>
+<Term id="474">
+<name_term>real time</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>4.2516</score>
+</Term>
+<Term id="475">
+<name_term>separated string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2516</score>
+</Term>
+<Term id="476">
+<name_term>single key</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2516</score>
+</Term>
+<Term id="477">
+<name_term>single thread</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2516</score>
+</Term>
+<Term id="478">
+<name_term>specific collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2516</score>
+</Term>
+<Term id="479">
+<name_term>unique key</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2516</score>
+</Term>
+<Term id="480">
+<name_term>app engine</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="481">
+<name_term>backed collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="482">
+<name_term>dimensional array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="483">
+<name_term>doubly linked</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="484">
+<name_term>forwarding decorators</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="485">
+<name_term>google app</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="486">
+<name_term>hashmap hashset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="487">
+<name_term>java exception</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="488">
+<name_term>netbeans platform</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="489">
+<name_term>rally rest</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="490">
+<name_term>resolve symbol</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="491">
+<name_term>sort hashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="492">
+<name_term>substitution principle</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="493">
+<name_term>synchronized collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="494">
+<name_term>util abstractmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="495">
+<name_term>util linkedlist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="496">
+<name_term>value type</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="497">
+<name_term>wrapper factory</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.2353</score>
+</Term>
+<Term id="498">
+<name_term>current implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.1795</score>
+</Term>
+<Term id="499">
+<name_term>duplicate question</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.1795</score>
+</Term>
+<Term id="500">
+<name_term>entire collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.1795</score>
+</Term>
+<Term id="501">
+<name_term>simple code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.1795</score>
+</Term>
+<Term id="502">
+<name_term>simple program</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.1795</score>
+</Term>
+<Term id="503">
+<name_term>super class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.1795</score>
+</Term>
+<Term id="504">
+<name_term>unique object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.1795</score>
+</Term>
+<Term id="505">
+<name_term>concurrentmodification exception</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.1484</score>
+</Term>
+<Term id="506">
+<name_term>diamond operator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.1484</score>
+</Term>
+<Term id="507">
+<name_term>heap size</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.1484</score>
+</Term>
+<Term id="508">
+<name_term>jar file</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.1484</score>
+</Term>
+<Term id="509">
+<name_term>memory location</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.1484</score>
+</Term>
+<Term id="510">
+<name_term>target type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.1484</score>
+</Term>
+<Term id="511">
+<name_term>collection interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.1386</score>
+</Term>
+<Term id="512">
+<name_term>class objects</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.135</score>
+</Term>
+<Term id="513">
+<name_term>android studio</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="514">
+<name_term>apache poi</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="515">
+<name_term>arraylist arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="516">
+<name_term>collections comparator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="517">
+<name_term>compile error</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="518">
+<name_term>converting list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="519">
+<name_term>data sets</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="520">
+<name_term>guava cachebuilder</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="521">
+<name_term>hashmap collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="522">
+<name_term>hashmap java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="523">
+<name_term>hashset integer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="524">
+<name_term>hibernate collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="525">
+<name_term>java app</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="526">
+<name_term>java ee</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="527">
+<name_term>java lists</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="528">
+<name_term>large data</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="529">
+<name_term>maurice naftalin</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="530">
+<name_term>nofollow apache</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="531">
+<name_term>noreferrer collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="532">
+<name_term>philip wadler</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="533">
+<name_term>sorting hashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="534">
+<name_term>sorting string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="535">
+<name_term>spring data</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="536">
+<name_term>string comparison</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="537">
+<name_term>tutorial oracle</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="538">
+<name_term>util navigableset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="539">
+<name_term>util treeset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0817</score>
+</Term>
+<Term id="540">
+<name_term>double array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0347</score>
+</Term>
+<Term id="541">
+<name_term>key set</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0347</score>
+</Term>
+<Term id="542">
+<name_term>static map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0347</score>
+</Term>
+<Term id="543">
+<name_term>case scenario</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0274</score>
+</Term>
+<Term id="544">
+<name_term>child class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0274</score>
+</Term>
+<Term id="545">
+<name_term>producer consumer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0274</score>
+</Term>
+<Term id="546">
+<name_term>size limit</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>4.0274</score>
+</Term>
+<Term id="547">
+<name_term>native method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.9356</score>
+</Term>
+<Term id="548">
+<name_term>single method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.9356</score>
+</Term>
+<Term id="549">
+<name_term>top level</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.9356</score>
+</Term>
+<Term id="550">
+<name_term>array type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.9284</score>
+</Term>
+<Term id="551">
+<name_term>byte array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.9284</score>
+</Term>
+<Term id="552">
+<name_term>command line</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.9284</score>
+</Term>
+<Term id="553">
+<name_term>email address</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>3.9284</score>
+</Term>
+<Term id="554">
+<name_term>input list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.9284</score>
+</Term>
+<Term id="555">
+<name_term>server side</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.9284</score>
+</Term>
+<Term id="556">
+<name_term>generic types</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8855</score>
+</Term>
+<Term id="557">
+<name_term>thread br</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8782</score>
+</Term>
+<Term id="558">
+<name_term>concurrent concurrenthashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8518</score>
+</Term>
+<Term id="559">
+<name_term>efficient implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8518</score>
+</Term>
+<Term id="560">
+<name_term>existing java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8518</score>
+</Term>
+<Term id="561">
+<name_term>external library</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8518</score>
+</Term>
+<Term id="562">
+<name_term>lazy collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8518</score>
+</Term>
+<Term id="563">
+<name_term>li arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8518</score>
+</Term>
+<Term id="564">
+<name_term>main list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8518</score>
+</Term>
+<Term id="565">
+<name_term>previous key</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8518</score>
+</Term>
+<Term id="566">
+<name_term>arraylist collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8448</score>
+</Term>
+<Term id="567">
+<name_term>code block</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8448</score>
+</Term>
+<Term id="568">
+<name_term>code duplication</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8448</score>
+</Term>
+<Term id="569">
+<name_term>code sample</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8448</score>
+</Term>
+<Term id="570">
+<name_term>em note</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8448</score>
+</Term>
+<Term id="571">
+<name_term>memory consumption</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8448</score>
+</Term>
+<Term id="572">
+<name_term>parameter type</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>3.8448</score>
+</Term>
+<Term id="573">
+<name_term>table data</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.8448</score>
+</Term>
+<Term id="574">
+<name_term>efficient method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.7792</score>
+</Term>
+<Term id="575">
+<name_term>entire list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.7792</score>
+</Term>
+<Term id="576">
+<name_term>good performance</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.7792</score>
+</Term>
+<Term id="577">
+<name_term>key object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.7792</score>
+</Term>
+<Term id="578">
+<name_term>primitive type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.7792</score>
+</Term>
+<Term id="579">
+<name_term>real world</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.7792</score>
+</Term>
+<Term id="580">
+<name_term>single line</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.7792</score>
+</Term>
+<Term id="581">
+<name_term>specific reason</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.7792</score>
+</Term>
+<Term id="582">
+<name_term>strange problem</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.7792</score>
+</Term>
+<Term id="583">
+<name_term>strong method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.7792</score>
+</Term>
+<Term id="584">
+<name_term>unmodifiable collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.7792</score>
+</Term>
+<Term id="585">
+<name_term>java class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.7432</score>
+</Term>
+<Term id="586">
+<name_term>multiple collections</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.7423</score>
+</Term>
+<Term id="587">
+<name_term>copy method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6896</score>
+</Term>
+<Term id="588">
+<name_term>div class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6896</score>
+</Term>
+<Term id="589">
+<name_term>service layer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6896</score>
+</Term>
+<Term id="590">
+<name_term>string property</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6896</score>
+</Term>
+<Term id="591">
+<name_term>trove collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6896</score>
+</Term>
+<Term id="592">
+<name_term>dead code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6822</score>
+</Term>
+<Term id="593">
+<name_term>incompatible types</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6441</score>
+</Term>
+<Term id="594">
+<name_term>collection types</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6241</score>
+</Term>
+<Term id="595">
+<name_term>'data structure</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="596">
+<name_term>cell table</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="597">
+<name_term>cell values</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="598">
+<name_term>chow mein</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="599">
+<name_term>christmas carol</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="600">
+<name_term>class testpart</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="601">
+<name_term>database schema</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="602">
+<name_term>egprd system</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="603">
+<name_term>fast map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="604">
+<name_term>glazed list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="605">
+<name_term>guava constraints</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="606">
+<name_term>hot potato</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="607">
+<name_term>html webpage</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="608">
+<name_term>list objecttype</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="609">
+<name_term>local list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="610">
+<name_term>morse code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="611">
+<name_term>nofollow usercollectiontype</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="612">
+<name_term>samsung br</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="613">
+<name_term>system aaa</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.6164</score>
+</Term>
+<Term id="614">
+<name_term>noreferrer img src</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5751</score>
+</Term>
+<Term id="615">
+<name_term>key-value pairs</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5591</score>
+</Term>
+<Term id="616">
+<name_term>class car</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5558</score>
+</Term>
+<Term id="617">
+<name_term>json array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5558</score>
+</Term>
+<Term id="618">
+<name_term>max number</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5558</score>
+</Term>
+<Term id="619">
+<name_term>object instance</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5558</score>
+</Term>
+<Term id="620">
+<name_term>service method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5558</score>
+</Term>
+<Term id="621">
+<name_term>string list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5558</score>
+</Term>
+<Term id="622">
+<name_term>duplicate object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5304</score>
+</Term>
+<Term id="623">
+<name_term>large file</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5304</score>
+</Term>
+<Term id="624">
+<name_term>lazy loading</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5304</score>
+</Term>
+<Term id="625">
+<name_term>outer map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5304</score>
+</Term>
+<Term id="626">
+<name_term>primitive data</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5304</score>
+</Term>
+<Term id="627">
+<name_term>static class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5304</score>
+</Term>
+<Term id="628">
+<name_term>backing collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5005</score>
+</Term>
+<Term id="629">
+<name_term>foo bar</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5005</score>
+</Term>
+<Term id="630">
+<name_term>integer arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5005</score>
+</Term>
+<Term id="631">
+<name_term>question instance</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.5005</score>
+</Term>
+<Term id="632">
+<name_term>key values</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.4641</score>
+</Term>
+<Term id="633">
+<name_term>abstract collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.452</score>
+</Term>
+<Term id="634">
+<name_term>class student</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.452</score>
+</Term>
+<Term id="635">
+<name_term>em arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.452</score>
+</Term>
+<Term id="636">
+<name_term>import java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.452</score>
+</Term>
+<Term id="637">
+<name_term>legacy code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.452</score>
+</Term>
+<Term id="638">
+<name_term>linkedlist collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.452</score>
+</Term>
+<Term id="639">
+<name_term>memory error</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.452</score>
+</Term>
+<Term id="640">
+<name_term>method iterator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.452</score>
+</Term>
+<Term id="641">
+<name_term>model class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.452</score>
+</Term>
+<Term id="642">
+<name_term>object li</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.452</score>
+</Term>
+<Term id="643">
+<name_term>return boolean</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.452</score>
+</Term>
+<Term id="644">
+<name_term>student id</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.452</score>
+</Term>
+<Term id="645">
+<name_term>ascending order</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.4436</score>
+</Term>
+<Term id="646">
+<name_term>big list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.4436</score>
+</Term>
+<Term id="647">
+<name_term>huge number</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.4436</score>
+</Term>
+<Term id="648">
+<name_term>multithreaded environment</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.4436</score>
+</Term>
+<Term id="649">
+<name_term>single map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.4436</score>
+</Term>
+<Term id="650">
+<name_term>small number</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.4436</score>
+</Term>
+<Term id="651">
+<name_term>specific class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.4436</score>
+</Term>
+<Term id="652">
+<name_term>specific element</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.4436</score>
+</Term>
+<Term id="653">
+<name_term>strong map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.4436</score>
+</Term>
+<Term id="654">
+<name_term>variable number</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.4436</score>
+</Term>
+<Term id="655">
+<name_term>wild card</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.4436</score>
+</Term>
+<Term id="656">
+<name_term>common elements</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.4162</score>
+</Term>
+<Term id="657">
+<name_term>main word</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3996</score>
+</Term>
+<Term id="658">
+<name_term>single class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3996</score>
+</Term>
+<Term id="659">
+<name_term>sorted set</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3996</score>
+</Term>
+<Term id="660">
+<name_term>p img src</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3947</score>
+</Term>
+<Term id="661">
+<name_term>correct order</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3703</score>
+</Term>
+<Term id="662">
+<name_term>custom implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3703</score>
+</Term>
+<Term id="663">
+<name_term>date field</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3703</score>
+</Term>
+<Term id="664">
+<name_term>large collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3703</score>
+</Term>
+<Term id="665">
+<name_term>null check</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3703</score>
+</Term>
+<Term id="666">
+<name_term>previous element</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3703</score>
+</Term>
+<Term id="667">
+<name_term>simple solution</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3703</score>
+</Term>
+<Term id="668">
+<name_term>stupid question</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3703</score>
+</Term>
+<Term id="669">
+<name_term>action class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="670">
+<name_term>class collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="671">
+<name_term>commons library</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="672">
+<name_term>doesnt work</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="673">
+<name_term>element type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="674">
+<name_term>entity class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="675">
+<name_term>getter method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="676">
+<name_term>homework assignment</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="677">
+<name_term>index position</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="678">
+<name_term>map structure</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="679">
+<name_term>member variable</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="680">
+<name_term>memory size</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="681">
+<name_term>party library</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="682">
+<name_term>remove operation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="683">
+<name_term>type set</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3672</score>
+</Term>
+<Term id="684">
+<name_term>duplicate entries</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3404</score>
+</Term>
+<Term id="685">
+<name_term>api org</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="686">
+<name_term>class mydata</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="687">
+<name_term>collection utils</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="688">
+<name_term>data class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="689">
+<name_term>dependency injection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="690">
+<name_term>double arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="691">
+<name_term>guava forwardinglist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="692">
+<name_term>hashmap long</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="693">
+<name_term>head first</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="694">
+<name_term>java apis</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="695">
+<name_term>java hashtable</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="696">
+<name_term>java package</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="697">
+<name_term>john doe</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="698">
+<name_term>linked hashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="699">
+<name_term>liskov substitution</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="700">
+<name_term>list index</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="701">
+<name_term>ljava util</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="702">
+<name_term>lookup table</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="703">
+<name_term>map long</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="704">
+<name_term>merge sort</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="705">
+<name_term>nofollow abstractcollection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="706">
+<name_term>object ordering</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="707">
+<name_term>project euler</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="708">
+<name_term>scjp book</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="709">
+<name_term>sets maps</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="710">
+<name_term>sum list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="711">
+<name_term>thread-safe hashset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="712">
+<name_term>treeset collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="713">
+<name_term>util abstractcollection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="714">
+<name_term>util arraydeque</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="715">
+<name_term>wiki newcollectiontypesexplained</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3388</score>
+</Term>
+<Term id="716">
+<name_term>null values</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.3134</score>
+</Term>
+<Term id="717">
+<name_term>java util hashmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.2842</score>
+</Term>
+<Term id="718">
+<name_term>generic collections</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.2443</score>
+</Term>
+<Term id="719">
+<name_term>batch number</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>3.2318</score>
+</Term>
+<Term id="720">
+<name_term>class loader</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.2318</score>
+</Term>
+<Term id="721">
+<name_term>employee number</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>3.2318</score>
+</Term>
+<Term id="722">
+<name_term>hand side</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.2318</score>
+</Term>
+<Term id="723">
+<name_term>json file</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.2318</score>
+</Term>
+<Term id="724">
+<name_term>removal listener</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.2318</score>
+</Term>
+<Term id="725">
+<name_term>space complexity</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.2318</score>
+</Term>
+<Term id="726">
+<name_term>spring context</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.2318</score>
+</Term>
+<Term id="727">
+<name_term>java util arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.2285</score>
+</Term>
+<Term id="728">
+<name_term>apache collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="729">
+<name_term>array arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="730">
+<name_term>arraylist declaration</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="731">
+<name_term>arraylist double</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="732">
+<name_term>base type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="733">
+<name_term>brian goetz</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="734">
+<name_term>cast list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="735">
+<name_term>class code</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="736">
+<name_term>collection double</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="737">
+<name_term>collections binary</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="738">
+<name_term>collections iterator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="739">
+<name_term>collections map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="740">
+<name_term>collections streams</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="741">
+<name_term>convert collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="742">
+<name_term>data base</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="743">
+<name_term>file reading</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="744">
+<name_term>filter java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="745">
+<name_term>genetic algorithm</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="746">
+<name_term>google gauva</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="747">
+<name_term>guava filter</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="748">
+<name_term>hashmap hashtable</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="749">
+<name_term>hashmap integer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="750">
+<name_term>hashset java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="751">
+<name_term>hashset string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="752">
+<name_term>hibernate collections</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="753">
+<name_term>hibernate mapping</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="754">
+<name_term>java double</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="755">
+<name_term>java efficient</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="756">
+<name_term>java iterate</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="757">
+<name_term>java java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="758">
+<name_term>java random</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="759">
+<name_term>java sets</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="760">
+<name_term>java sorting</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="761">
+<name_term>java spring</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="762">
+<name_term>key multiple</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="763">
+<name_term>list double</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="764">
+<name_term>list list1</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="765">
+<name_term>list model</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="766">
+<name_term>list pair</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="767">
+<name_term>map class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="768">
+<name_term>maps java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="769">
+<name_term>multiple column</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="770">
+<name_term>mysql database</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="771">
+<name_term>nested map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="772">
+<name_term>nofollow google</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="773">
+<name_term>nofollow lambdaj</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="774">
+<name_term>nofollow list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="775">
+<name_term>nofollow oracle</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="776">
+<name_term>nullpointer exception</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="777">
+<name_term>outer join</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="778">
+<name_term>quick java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="779">
+<name_term>read write</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="780">
+<name_term>reflection api</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="781">
+<name_term>set set</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="782">
+<name_term>sets lists</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="783">
+<name_term>sort map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="784">
+<name_term>sorting java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="785">
+<name_term>sorting map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="786">
+<name_term>sqlite db</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="787">
+<name_term>standard template</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="788">
+<name_term>stream list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="789">
+<name_term>template library</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="790">
+<name_term>util queue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="791">
+<name_term>util sortedset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1765</score>
+</Term>
+<Term id="792">
+<name_term>java objects</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1368</score>
+</Term>
+<Term id="793">
+<name_term>hash code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1364</score>
+</Term>
+<Term id="794">
+<name_term>unique values</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.1185</score>
+</Term>
+<Term id="795">
+<name_term>defensive copy</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.117</score>
+</Term>
+<Term id="796">
+<name_term>duplicate entry</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.117</score>
+</Term>
+<Term id="797">
+<name_term>empty set</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.117</score>
+</Term>
+<Term id="798">
+<name_term>equal method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.117</score>
+</Term>
+<Term id="799">
+<name_term>final list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.117</score>
+</Term>
+<Term id="800">
+<name_term>generic interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.117</score>
+</Term>
+<Term id="801">
+<name_term>immutable map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.117</score>
+</Term>
+<Term id="802">
+<name_term>random element</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.117</score>
+</Term>
+<Term id="803">
+<name_term>special character</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.117</score>
+</Term>
+<Term id="804">
+<name_term>specific string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.117</score>
+</Term>
+<Term id="805">
+<name_term>strong hashset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.117</score>
+</Term>
+<Term id="806">
+<name_term>unmodifiable map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.117</score>
+</Term>
+<Term id="807">
+<name_term>upper case</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.117</score>
+</Term>
+<Term id="808">
+<name_term>list interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0962</score>
+</Term>
+<Term id="809">
+<name_term>api-release org</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0747</score>
+</Term>
+<Term id="810">
+<name_term>binarysearch method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0747</score>
+</Term>
+<Term id="811">
+<name_term>bubble sort</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0747</score>
+</Term>
+<Term id="812">
+<name_term>custom order</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0747</score>
+</Term>
+<Term id="813">
+<name_term>gnu trove</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0747</score>
+</Term>
+<Term id="814">
+<name_term>insertion point</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0747</score>
+</Term>
+<Term id="815">
+<name_term>line number</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0747</score>
+</Term>
+<Term id="816">
+<name_term>recycler view</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0747</score>
+</Term>
+<Term id="817">
+<name_term>roll number</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0747</score>
+</Term>
+<Term id="818">
+<name_term>scala map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0747</score>
+</Term>
+<Term id="819">
+<name_term>search result</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0747</score>
+</Term>
+<Term id="820">
+<name_term>'test user2</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0685</score>
+</Term>
+<Term id="821">
+<name_term>intrusive list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0685</score>
+</Term>
+<Term id="822">
+<name_term>local database</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0685</score>
+</Term>
+<Term id="823">
+<name_term>monthly salary</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0685</score>
+</Term>
+<Term id="824">
+<name_term>val3 br</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0685</score>
+</Term>
+<Term id="825">
+<name_term>java object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0587</score>
+</Term>
+<Term id="826">
+<name_term>p i</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>3.0319</score>
+</Term>
+<Term id="827">
+<name_term>bad design</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.026</score>
+</Term>
+<Term id="828">
+<name_term>custom arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.026</score>
+</Term>
+<Term id="829">
+<name_term>duplicate element</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.026</score>
+</Term>
+<Term id="830">
+<name_term>generic arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.026</score>
+</Term>
+<Term id="831">
+<name_term>generic function</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.026</score>
+</Term>
+<Term id="832">
+<name_term>high performance</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.026</score>
+</Term>
+<Term id="833">
+<name_term>initial size</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.026</score>
+</Term>
+<Term id="834">
+<name_term>linear time</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.026</score>
+</Term>
+<Term id="835">
+<name_term>primitive array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.026</score>
+</Term>
+<Term id="836">
+<name_term>second value</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>3.026</score>
+</Term>
+<Term id="837">
+<name_term>single statement</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.026</score>
+</Term>
+<Term id="838">
+<name_term>specific implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.026</score>
+</Term>
+<Term id="839">
+<name_term>strong error</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.026</score>
+</Term>
+<Term id="840">
+<name_term>valid substitute</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.026</score>
+</Term>
+<Term id="841">
+<name_term>list elements</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0257</score>
+</Term>
+<Term id="842">
+<name_term>type collections</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0257</score>
+</Term>
+<Term id="843">
+<name_term>java data structure</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>3.0125</score>
+</Term>
+<Term id="844">
+<name_term>array lists</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9931</score>
+</Term>
+<Term id="845">
+<name_term>array creation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="846">
+<name_term>backing array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="847">
+<name_term>class arraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="848">
+<name_term>class variable</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="849">
+<name_term>collection instance</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="850">
+<name_term>console output</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="851">
+<name_term>default constructor</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="852">
+<name_term>em update</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="853">
+<name_term>entry table</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="854">
+<name_term>html sortpercent28java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="855">
+<name_term>max function</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="856">
+<name_term>method reference</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="857">
+<name_term>output file</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="858">
+<name_term>package org</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="859">
+<name_term>performance test</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="860">
+<name_term>poll method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="861">
+<name_term>product class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="862">
+<name_term>public boolean</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="863">
+<name_term>reverse iteration</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="864">
+<name_term>search tree</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="865">
+<name_term>source list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="866">
+<name_term>swap method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="867">
+<name_term>synchronizedlist method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="868">
+<name_term>trunk src</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9632</score>
+</Term>
+<Term id="869">
+<name_term>current element</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9517</score>
+</Term>
+<Term id="870">
+<name_term>efficient algorithm</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9517</score>
+</Term>
+<Term id="871">
+<name_term>efficient collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9517</score>
+</Term>
+<Term id="872">
+<name_term>existing code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9517</score>
+</Term>
+<Term id="873">
+<name_term>final output</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9517</score>
+</Term>
+<Term id="874">
+<name_term>foreign key</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9517</score>
+</Term>
+<Term id="875">
+<name_term>obvious solution</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9517</score>
+</Term>
+<Term id="876">
+<name_term>pseudo code</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9517</score>
+</Term>
+<Term id="877">
+<name_term>remove element</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9517</score>
+</Term>
+<Term id="878">
+<name_term>right side</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>2.9517</score>
+</Term>
+<Term id="879">
+<name_term>silly question</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9517</score>
+</Term>
+<Term id="880">
+<name_term>strange behavior</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>2.9517</score>
+</Term>
+<Term id="881">
+<name_term>strange behaviour</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>2.9517</score>
+</Term>
+<Term id="882">
+<name_term>unique elements</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9353</score>
+</Term>
+<Term id="883">
+<name_term>generic list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9352</score>
+</Term>
+<Term id="884">
+<name_term>nofollow noreferrer img</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9275</score>
+</Term>
+<Term id="885">
+<name_term>list map string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.9057</score>
+</Term>
+<Term id="886">
+<name_term>arraylist em</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="887">
+<name_term>arraylist implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="888">
+<name_term>class instance</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="889">
+<name_term>class structure</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="890">
+<name_term>collection data</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="891">
+<name_term>commons collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="892">
+<name_term>compare function</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="893">
+<name_term>computer science</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="894">
+<name_term>container class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="895">
+<name_term>design decision</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="896">
+<name_term>end result</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="897">
+<name_term>entity object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="898">
+<name_term>java em</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="899">
+<name_term>java function</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="900">
+<name_term>list element</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="901">
+<name_term>list structure</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="902">
+<name_term>memory leak</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="903">
+<name_term>method method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="904">
+<name_term>object creation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="905">
+<name_term>one-to-many relationship</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="906">
+<name_term>queue implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="907">
+<name_term>return statement</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="908">
+<name_term>service class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="909">
+<name_term>syntax error</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="910">
+<name_term>table structure</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="911">
+<name_term>type casting</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="912">
+<name_term>type class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="913">
+<name_term>type java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8767</score>
+</Term>
+<Term id="914">
+<name_term>hashtable object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.833</score>
+</Term>
+<Term id="915">
+<name_term>net browse</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.833</score>
+</Term>
+<Term id="916">
+<name_term>nofollow em</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.833</score>
+</Term>
+<Term id="917">
+<name_term>parallel stream</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.833</score>
+</Term>
+<Term id="918">
+<name_term>selected list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.833</score>
+</Term>
+<Term id="919">
+<name_term>strong addall</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.833</score>
+</Term>
+<Term id="920">
+<name_term>true collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.833</score>
+</Term>
+<Term id="921">
+<name_term>virtual method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.833</score>
+</Term>
+<Term id="922">
+<name_term>weak reference</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.833</score>
+</Term>
+<Term id="923">
+<name_term>age group</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>2.8004</score>
+</Term>
+<Term id="924">
+<name_term>cell number</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>2.8004</score>
+</Term>
+<Term id="925">
+<name_term>couch db</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8004</score>
+</Term>
+<Term id="926">
+<name_term>document type</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>2.8004</score>
+</Term>
+<Term id="927">
+<name_term>match day</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8004</score>
+</Term>
+<Term id="928">
+<name_term>method org</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8004</score>
+</Term>
+<Term id="929">
+<name_term>osgi framework</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8004</score>
+</Term>
+<Term id="930">
+<name_term>row grouping</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8004</score>
+</Term>
+<Term id="931">
+<name_term>type customcollectiontype</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.8004</score>
+</Term>
+<Term id="932">
+<name_term>java collections api</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.736</score>
+</Term>
+<Term id="933">
+<name_term>employee objects</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.7341</score>
+</Term>
+<Term id="934">
+<name_term>strong possible duplicate</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.6956</score>
+</Term>
+<Term id="935">
+<name_term>1st list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.6952</score>
+</Term>
+<Term id="936">
+<name_term>big collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.6952</score>
+</Term>
+<Term id="937">
+<name_term>fresh copy</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.6952</score>
+</Term>
+<Term id="938">
+<name_term>multiple sort</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.6952</score>
+</Term>
+<Term id="939">
+<name_term>original class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.6952</score>
+</Term>
+<Term id="940">
+<name_term>strong quantity</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.6952</score>
+</Term>
+<Term id="941">
+<name_term>tabular format</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.6952</score>
+</Term>
+<Term id="942">
+<name_term>tostring method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.6952</score>
+</Term>
+<Term id="943">
+<name_term>unbounded wildcard</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.6952</score>
+</Term>
+<Term id="944">
+<name_term>unmodifiable wrapper</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.6952</score>
+</Term>
+<Term id="945">
+<name_term>jpg rel</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.6698</score>
+</Term>
+<Term id="946">
+<name_term>map values</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.6698</score>
+</Term>
+<Term id="947">
+<name_term>double brace initialization</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.6233</score>
+</Term>
+<Term id="948">
+<name_term>actual collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="949">
+<name_term>actual map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="950">
+<name_term>arbitrary number</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="951">
+<name_term>brute force</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="952">
+<name_term>common interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="953">
+<name_term>concurrent list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="954">
+<name_term>exact difference</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="955">
+<name_term>internal state</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="956">
+<name_term>iterable interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="957">
+<name_term>low latency</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="958">
+<name_term>multidimensional array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="959">
+<name_term>original object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="960">
+<name_term>outer list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="961">
+<name_term>real life</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="962">
+<name_term>sequential access</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="963">
+<name_term>simple array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="964">
+<name_term>specific problem</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="965">
+<name_term>static factory</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="966">
+<name_term>suitable method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="967">
+<name_term>tutorial java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="968">
+<name_term>unique list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5975</score>
+</Term>
+<Term id="969">
+<name_term>account number</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="970">
+<name_term>address object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="971">
+<name_term>arrival time</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="972">
+<name_term>bag class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="973">
+<name_term>cache implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="974">
+<name_term>code base</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="975">
+<name_term>default object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="976">
+<name_term>em hash</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="977">
+<name_term>em object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="978">
+<name_term>em view</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="979">
+<name_term>grade level</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="980">
+<name_term>object br</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="981">
+<name_term>race condition</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="982">
+<name_term>set contract</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="983">
+<name_term>stack collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="984">
+<name_term>union method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="985">
+<name_term>view em</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5855</score>
+</Term>
+<Term id="986">
+<name_term>strong collections</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.573</score>
+</Term>
+<Term id="987">
+<name_term>string values</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5519</score>
+</Term>
+<Term id="988">
+<name_term>accepted answer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="989">
+<name_term>actual implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="990">
+<name_term>arraylist constructor</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="991">
+<name_term>complex collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="992">
+<name_term>complex data</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="993">
+<name_term>correct approach</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="994">
+<name_term>correct collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="995">
+<name_term>efficient manner</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="996">
+<name_term>existing element</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="997">
+<name_term>final class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="998">
+<name_term>functional programming</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="999">
+<name_term>good approach</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1000">
+<name_term>good implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1001">
+<name_term>good thing</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1002">
+<name_term>internal working</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1003">
+<name_term>minimum element</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1004">
+<name_term>proper collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1005">
+<name_term>quick question</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1006">
+<name_term>simple object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1007">
+<name_term>specific data</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1008">
+<name_term>specific property</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1009">
+<name_term>static variable</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1010">
+<name_term>strong background</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1011">
+<name_term>total time</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1012">
+<name_term>unique identifier</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1013">
+<name_term>unmodifiable view</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5217</score>
+</Term>
+<Term id="1014">
+<name_term>collection li</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.5164</score>
+</Term>
+<Term id="1015">
+<name_term>java program</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.495</score>
+</Term>
+<Term id="1016">
+<name_term>student objects</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4737</score>
+</Term>
+<Term id="1017">
+<name_term>adjacency list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1018">
+<name_term>argument type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1019">
+<name_term>array size</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1020">
+<name_term>arraylist capacity</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1021">
+<name_term>binarysearch work</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1022">
+<name_term>car class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1023">
+<name_term>class diagram</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1024">
+<name_term>class product</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1025">
+<name_term>custom comparison</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1026">
+<name_term>customer class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1027">
+<name_term>em class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1028">
+<name_term>em remove</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1029">
+<name_term>expression language</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1030">
+<name_term>hasnext method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1031">
+<name_term>heap allocation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1032">
+<name_term>html sort-java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1033">
+<name_term>implementation detail</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1034">
+<name_term>import org</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1035">
+<name_term>iterator remove</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1036">
+<name_term>javadoc index</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1037">
+<name_term>json response</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1038">
+<name_term>li remove</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1039">
+<name_term>list item</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1040">
+<name_term>map creation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1041">
+<name_term>master src</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1042">
+<name_term>memory management</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1043">
+<name_term>memory space</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1044">
+<name_term>method compare</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1045">
+<name_term>method implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1046">
+<name_term>parent child</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1047">
+<name_term>parent node</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1048">
+<name_term>play framework</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1049">
+<name_term>player object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1050">
+<name_term>print statement</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1051">
+<name_term>property file</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1052">
+<name_term>public interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1053">
+<name_term>resultset object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1054">
+<name_term>runtime type</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1055">
+<name_term>sample question</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1056">
+<name_term>skip list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1057">
+<name_term>sort functionality</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1058">
+<name_term>source browse</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1059">
+<name_term>source object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1060">
+<name_term>sublist method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1061">
+<name_term>toarray return</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1062">
+<name_term>topic topicaction</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1063">
+<name_term>tree implementation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1064">
+<name_term>type information</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1065">
+<name_term>update method</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1066">
+<name_term>word game</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4597</score>
+</Term>
+<Term id="1067">
+<name_term>major gc</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4548</score>
+</Term>
+<Term id="1068">
+<name_term>optional date</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4548</score>
+</Term>
+<Term id="1069">
+<name_term>private feed</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4548</score>
+</Term>
+<Term id="1070">
+<name_term>remote list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4548</score>
+</Term>
+<Term id="1071">
+<name_term>single student</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4548</score>
+</Term>
+<Term id="1072">
+<name_term>java util treemap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4543</score>
+</Term>
+<Term id="1073">
+<name_term>1det a13hi</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1074">
+<name_term>access marker</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1075">
+<name_term>adm rda</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1076">
+<name_term>android arrayadapter</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1077">
+<name_term>android databinding</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1078">
+<name_term>apple br</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1079">
+<name_term>arraylist api</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1080">
+<name_term>arraylist dog</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1081">
+<name_term>arraylist mammal</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1082">
+<name_term>aston martin</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1083">
+<name_term>basicschedule 1003b2df</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1084">
+<name_term>bb jre</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1085">
+<name_term>book pg</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1086">
+<name_term>bound wildcard</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1087">
+<name_term>capacity limit</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1088">
+<name_term>circular linkedlist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1089">
+<name_term>class nota</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1090">
+<name_term>code java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1091">
+<name_term>code translator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1092">
+<name_term>coffee quantity</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1093">
+<name_term>collection instrumentation</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1094">
+<name_term>collection wrapper</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1095">
+<name_term>collections-data-structure expiringmap</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1096">
+<name_term>command pattern</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1097">
+<name_term>composite list</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1098">
+<name_term>context file</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1099">
+<name_term>copyright holder</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1100">
+<name_term>correct place</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1101">
+<name_term>cross join</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1102">
+<name_term>custom hashset</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1103">
+<name_term>dblink act</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1104">
+<name_term>dev wadl</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1105">
+<name_term>dup removed</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1106">
+<name_term>dynamic test</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1107">
+<name_term>egprd adm</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1108">
+<name_term>element_6 element_7</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1109">
+<name_term>fat client</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1110">
+<name_term>field object</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1111">
+<name_term>firebase populateview</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1112">
+<name_term>forwarding decorator</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1113">
+<name_term>garage class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1114">
+<name_term>generic test</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1115">
+<name_term>glass unit</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1116">
+<name_term>google mapview</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1117">
+<name_term>groovy script</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1118">
+<name_term>hashmap gc</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1119">
+<name_term>heap error</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1120">
+<name_term>hu 1det</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1121">
+<name_term>immutable forwarding</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1122">
+<name_term>io assertj</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1123">
+<name_term>jamesinvi animosity</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1124">
+<name_term>java collections-data-structure</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1125">
+<name_term>java dev</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1126">
+<name_term>javafx app</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1127">
+<name_term>javafx gui</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1128">
+<name_term>jdk8+ lambdas</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1129">
+<name_term>jsp servlet</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1130">
+<name_term>lifo structure</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1131">
+<name_term>linked data</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1132">
+<name_term>linkedblockingqueue realization</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1133">
+<name_term>linkedhashset thattype</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1134">
+<name_term>linkedlist array</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1135">
+<name_term>linkedlist string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1136">
+<name_term>list identifier</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1137">
+<name_term>list product</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1138">
+<name_term>list selectoption</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1139">
+<name_term>max age</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1140">
+<name_term>mma7660fc accelerometer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1141">
+<name_term>n a</name_term>
+<is_true_term validated_by="UMLS">1</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1142">
+<name_term>navigableset interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1143">
+<name_term>newcollectiontypesexplained table</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1144">
+<name_term>node graph</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1145">
+<name_term>node map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1146">
+<name_term>nofollow doublearraylist</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1147">
+<name_term>objecta objectb</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1148">
+<name_term>org dwr</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1149">
+<name_term>org jira</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1150">
+<name_term>org spring-webflow</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1151">
+<name_term>poker hand</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1152">
+<name_term>presentation layer</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1153">
+<name_term>print number</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1154">
+<name_term>programme3 thu</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1155">
+<name_term>programme4 thu</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1156">
+<name_term>programme5 mon</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1157">
+<name_term>programme6 tue</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1158">
+<name_term>programme8 sun</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1159">
+<name_term>programme9 sun</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1160">
+<name_term>remote actors</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1161">
+<name_term>request id</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1162">
+<name_term>rest call</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1163">
+<name_term>robust map</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1164">
+<name_term>schema applid</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1165">
+<name_term>server faces</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1166">
+<name_term>set path</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1167">
+<name_term>set statetype</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1168">
+<name_term>shared preferences</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1169">
+<name_term>simple set</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1170">
+<name_term>simple xml</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1171">
+<name_term>single linked</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1172">
+<name_term>soap api</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1173">
+<name_term>sony br</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1174">
+<name_term>soprd dblink</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1175">
+<name_term>sortable java</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1176">
+<name_term>sortedmap interface</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1177">
+<name_term>sortedmap string</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1178">
+<name_term>sorting_algorithm stability</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1179">
+<name_term>spring el</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1180">
+<name_term>st_age st_course</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1181">
+<name_term>st_id st_name</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1182">
+<name_term>st_name st_age</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1183">
+<name_term>stackoverflow error</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1184">
+<name_term>stingy linked</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1185">
+<name_term>store location</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1186">
+<name_term>street id</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1187">
+<name_term>symbol'sort</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1188">
+<name_term>time lapsed</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1189">
+<name_term>time weighted</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1190">
+<name_term>universal collection</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1191">
+<name_term>update merge</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1192">
+<name_term>user choice</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1193">
+<name_term>user user0_</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1194">
+<name_term>user0_ cross</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1195">
+<name_term>user_eventtopicids eventtopic1_</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1196">
+<name_term>version field</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1197">
+<name_term>void class</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1198">
+<name_term>wiki java_persistence</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1199">
+<name_term>wiki partially_ordered_set</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+<Term id="1200">
+<name_term>wiki persistent_data_structure</name_term>
+<is_true_term validated_by="">0</is_true_term>
+<score>2.4109</score>
+</Term>
+</Terms>
